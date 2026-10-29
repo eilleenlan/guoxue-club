@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "works": [
+    {
+      "id": "demo-poem",
+      "title": "DEMO・小院早晨（自編）",
+      "author": "本站測試自編",
+      "category": "poem",
+      "status": "demo",
+      "tags": [
+        "DEMO"
+      ],
+      "text": "晨光照小院，微風吹樹梢。小鳥枝頭唱，白雲天上飄。晨光照小院，大家一起笑。",
+      "review": null,
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "sortOrder": 1000
+    },
+    {
+      "id": "demo-prose",
+      "title": "DEMO・種豆小記（自編）",
+      "author": "本站測試自編",
+      "category": "prose",
+      "status": "demo",
+      "tags": [
+        "DEMO"
+      ],
+      "text": "我在小盆種豆，每日清晨澆水。數日新芽初出，我與家人同看。又過幾日，綠葉向光舒展。我記生長之事，心中十分歡喜。",
+      "review": null,
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "sortOrder": 1000
+    },
+    {
+      "id": "du-han-jiang",
+      "title": "渡漢江",
+      "author": "宋之問",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期中考"
+      ],
+      "text": "嶺外音書斷，經冬復歷春。\n近鄉情更怯，不敢問來人。",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 003：使用者逐篇核對並授權的原文",
+        "notes": "逐字逐標點保留；換行與古文四段依施工單記錄。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 40,
+      "practiceMode": "full"
+    },
+    {
+      "id": "zhong-nan-bie-ye",
+      "title": "終南別業",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期中考"
+      ],
+      "text": "中歲頗好道，晚家南山陲。\n興來每獨往，勝事空自知。\n行到水窮處，坐看雲起時。\n偶然值林叟，談笑無還期。",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 003：使用者逐篇核對並授權的原文",
+        "notes": "逐字逐標點保留；換行與古文四段依施工單記錄。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 50,
+      "practiceMode": "full"
+    },
+    {
+      "id": "lang-tao-sha",
+      "title": "浪淘沙・九曲黃河萬里沙",
+      "author": "劉禹錫",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期中考"
+      ],
+      "text": "九曲黃河萬里沙，浪淘風簸自天涯。\n如今直上銀河去，同到牽牛織女家。",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 003：使用者逐篇核對並授權的原文",
+        "notes": "逐字逐標點保留；換行與古文四段依施工單記錄。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 60,
+      "practiceMode": "full"
+    },
+    {
+      "id": "er-shi-ji-qu",
+      "title": "兒時記趣",
+      "author": "沈復",
+      "category": "prose",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期中考"
+      ],
+      "text": "余憶童稚時，能張目對日，明察秋毫。見藐小微物，必細察其紋理，故時有物外之趣。\n\n夏蚊成雷，私擬作群鶴舞空，心之所向，則或千或百，果然鶴也。昂首觀之，項為之強。又留蚊於素帳中，徐噴以煙，使之沖煙而飛鳴，作青雲白鶴觀，果如鶴唳雲端，為之怡然稱快。\n\n又常於土牆凹凸處、花臺小草叢雜處，蹲其身，使與臺齊；定神細視，以叢草為林，蟲蟻為獸；以土礫凸者為丘，凹者為壑，神遊其中，怡然自得。\n\n一日，見二蟲鬥草間，觀之，興正濃，忽有龐然大物，拔山倒樹而來，蓋一癩蝦蟆也。舌一吐而二蟲盡為所吞。余年幼，方出神，不覺呀然驚恐。神定，捉蝦蟆，鞭數十，驅之別院。",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 003：使用者逐篇核對並授權的原文",
+        "notes": "逐字逐標點保留；換行與古文四段依施工單記錄。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "prose-paragraphs",
+      "sortOrder": 80,
+      "practiceMode": "random-contiguous"
+    },
+    {
+      "id": "lunyu",
+      "title": "論語",
+      "author": "章句選讀",
+      "category": "prose",
+      "tags": [
+        "115學年度",
+        "G3",
+        "G5",
+        "期中考"
+      ],
+      "children": [
+        {
+          "id": "lunyu-1",
+          "title": "第一則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 1,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-2",
+          "title": "第二則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "曾子曰：「吾日三省吾身；為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 2,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-3",
+          "title": "第三則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「君子食無求飽，居無求安，敏於事而慎於言，就有道而正焉，可謂好學也已。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 3,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-4",
+          "title": "第四則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「溫故而知新，可以為師矣。」\n\n子曰：「學而不思則罔，思而不學則殆。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 4,
+          "practiceMode": "full",
+          "splitAfterColon": true
+        },
+        {
+          "id": "lunyu-5",
+          "title": "第五則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「由，誨女知之乎！知之為知之，不知為不知，是知也。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 5,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-6",
+          "title": "第六則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「人而無信，不知其可也。大車無輗，小車無軏，其何以行之哉？」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 6,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-7",
+          "title": "第七則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「見賢思齊焉，見不賢而內自省也。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 7,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-8",
+          "title": "第八則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「君子喻於義，小人喻於利。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 8,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-9",
+          "title": "第九則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "宰予晝寢。子曰：「朽木不可雕也，糞土之牆，不可汙也。於予與何誅！」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 9,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-10",
+          "title": "第十則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「賢哉！回也。一簞食，一瓢飲，在陋巷，人不堪其憂，回也不改其樂。賢哉！回也。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 10,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-11",
+          "title": "第十一則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「默而識之，學而不厭，誨人不倦，何有於我哉？」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 11,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-12",
+          "title": "第十二則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「不憤不啟，不悱不發。舉一隅不以三隅反，則不復也。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 12,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-13",
+          "title": "第十三則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [
+            "115學年度",
+            "G3",
+            "G5",
+            "期中考"
+          ],
+          "text": "子曰：「飯疏食，飲水，曲肱而枕之，樂亦在其中矣。不義而富且貴，於我如浮雲。」",
+          "review": {
+            "confirmedBy": "使用者",
+            "confirmedAt": "2026-10-29",
+            "source": "施工單 004：使用者人工核對的唯一授權原文",
+            "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 13,
+          "practiceMode": "full"
+        }
+      ],
+      "sortOrder": 70
+    },
+    {
+      "id": "song-bie",
+      "title": "送別",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期中考"
+      ],
+      "text": "山中相送罷，日暮掩柴扉。\n春草明年綠，王孫歸不歸？",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 004：使用者人工核對的唯一授權原文",
+        "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "sortOrder": 10,
+      "practiceMode": "full"
+    },
+    {
+      "id": "jian-ke",
+      "title": "劍客",
+      "author": "賈島",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期中考"
+      ],
+      "text": "十年磨一劍，霜刃未曾試。\n今日把示君，誰有不平事？",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 004：使用者人工核對的唯一授權原文",
+        "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "sortOrder": 20,
+      "practiceMode": "full"
+    },
+    {
+      "id": "gu-gu-ren-zhuang",
+      "title": "過故人莊",
+      "author": "孟浩然",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期中考"
+      ],
+      "text": "故人具雞黍，邀我至田家。\n綠樹村邊合，青山郭外斜。\n開軒面場圃，把酒話桑麻。\n待到重陽日，還來就菊花。",
+      "review": {
+        "confirmedBy": "使用者",
+        "confirmedAt": "2026-10-29",
+        "source": "施工單 004：使用者人工核對的唯一授權原文",
+        "notes": "逐字逐標點保留；第四則兩句維持同則，第九則使用汙。"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "sortOrder": 30,
+      "practiceMode": "full"
+    }
+  ]
+}
