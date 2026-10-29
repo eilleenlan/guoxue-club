@@ -7,3 +7,5 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 /* 施工單 003：全文共用原文，保持換行及段落 */
 .row-actions{display:flex;gap:8px;flex-shrink:0}.full-text{white-space:pre-wrap;overflow-wrap:anywhere;line-height:2.1;font-size:22px;background:#fff;border:1px solid #F2D6BC;border-radius:12px;padding:24px;margin:20px 0 24px}.full-text::selection{background:#F2D6BC}#reading h1{overflow-wrap:anywhere}
 @media(max-width:640px){.row-actions{flex-direction:column;gap:6px}.row-actions button{min-height:44px;max-width:120px}.full-text{font-size:21px;padding:18px;line-height:2}#reading-start{width:100%}}
+
+.bottom-navigation{margin:24px 0 12px}.bottom-navigation button{min-height:48px;padding:12px 18px}
