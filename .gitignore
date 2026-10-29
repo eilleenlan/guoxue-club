@@ -1,0 +1,13 @@
+# Only the reviewed static publication tree and this allowlist may be committed.
+/*
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/index.html
+!/docs/style.css
+!/docs/app.mjs
+!/docs/engine.mjs
+!/docs/.nojekyll
+!/docs/data/
+/docs/data/*
+!/docs/data/materials.json
