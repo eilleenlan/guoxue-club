@@ -7,6 +7,10 @@
 !/docs/style.css
 !/docs/app.mjs
 !/docs/engine.mjs
+!/docs/paper-app.mjs
+!/docs/paper-engine.mjs
+!/docs/paper-layout.mjs
+!/docs/paper-pdf.mjs
 !/docs/.nojekyll
 !/docs/data/
 /docs/data/*
