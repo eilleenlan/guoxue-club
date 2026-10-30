@@ -4,10 +4,10 @@ export function splitText(work) {
   if (work.layout !== undefined && !['poem-lines','prose-paragraphs','passage-lines'].includes(work.layout)) throw new Error('未知的原文版面格式');
   if (work.punctuation !== undefined && work.punctuation!=='classical-dialogue') throw new Error('未知的標點規則');
   const quotedLayout=work.layout==='passage-lines'&&work.punctuation==='classical-dialogue';
-  let pieces = work.text.match(work.splitAfterColon&&!quotedLayout?/[^，。,.？！；：]+[，。,.？！；：]?[」』]*/gu:work.punctuation==='classical-dialogue'?/[^，。,.？！；]+[，。,.？！；]?[」』]*/gu:/[^，。,.]+[，。,.]?/gu) || [];
+  let pieces = work.text.match((work.splitAfterColon&&!quotedLayout)||work.colonBoundaries===true?/[^，。,.？！；：]+[，。,.？！；：]?[」』]*/gu:work.punctuation==='classical-dialogue'?/[^，。,.？！；]+[，。,.？！；]?[」』]*/gu:/[^，。,.]+[，。,.]?/gu) || [];
   // Split only verified dialogue-layout quotation openings, never narrative mentions.
   if(quotedLayout)pieces=pieces.flatMap(raw=>{
-    const opening=raw.match(/^(?:\n\n)?(?:曾子|子)曰：(?=[「『])/u);
+    const opening=raw.match(/^(?:\n\n)?(?:子貢問曰|孔子曰|召門弟子曰|曾子曰|子曰)：(?=[「『])/u);
     return opening?[raw.slice(0,opening[0].length),raw.slice(opening[0].length)]:[raw];
   });
   if (pieces.join('') !== work.text) throw new Error('原文無法完整切割');

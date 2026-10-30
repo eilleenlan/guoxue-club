@@ -13,7 +13,19 @@ async function load(){
   if(catalog)return;const response=await fetch('./data/materials.json');if(!response.ok)throw new Error('無法讀取教材');catalog=validateCatalog(await response.json());
   for(const work of filterWorks(catalog)){
     if(work.status==='demo')continue;
-    if(work.children){const details=el('details'),summary=el('summary',`${work.title}｜個別選擇十三則`),list=el('div');list.className='paper-choices';work.children.filter(w=>w.playable&&w.status==='verified').forEach(w=>checkbox(w,w.title,list));details.append(summary,list);$('paper-units').append(details);}
+    if(work.children){
+      const units=filterWorks(work.children),details=el('details'),summary=el('summary',`${work.title}｜個別選擇 ${units.length} 則`),list=el('div');list.className='paper-choices';
+      units.forEach(w=>{checkbox(w,w.title,list);list.lastChild.querySelector('input').disabled=!(w.playable&&w.status==='verified');});
+      const tools=el('div');tools.className='paper-range';const all=el('button','全選'),none=el('button','全不選'),from=el('select'),to=el('select'),apply=el('button','套用範圍（取代目前勾選）'),hint=el('p');hint.setAttribute('role','status');
+      for(const [i,w] of units.entries())for(const select of [from,to]){const option=el('option',w.title);option.value=i+1;select.append(option);}
+      to.value=units.length;const fromLabel=el('label','從第幾則 '),toLabel=el('label','到第幾則 ');fromLabel.append(from);toLabel.append(to);
+      const changed=()=>list.dispatchEvent(new Event('change',{bubbles:true}));
+      const replace=predicate=>{[...list.querySelectorAll('input')].forEach((input,i)=>input.checked=!input.disabled&&predicate(i+1));changed();};
+      all.onclick=()=>replace(()=>true);none.onclick=()=>replace(()=>false);
+      const validate=()=>{apply.disabled=Number(from.value)>Number(to.value);hint.textContent=apply.disabled?'起始則數不可大於結束則數。':'';};
+      from.onchange=to.onchange=validate;apply.onclick=()=>{if(!apply.disabled)replace(n=>n>=Number(from.value)&&n<=Number(to.value));};
+      tools.append(all,none,fromLabel,toLabel,apply,hint);details.append(summary,tools,list);$('paper-units').append(details);
+    }
     else if(work.playable&&work.status==='verified'){
       const group=el('fieldset'),legend=el('legend',`${work.title}｜${work.author}`);group.append(legend);
       if(work.practiceMode==='random-contiguous'){
