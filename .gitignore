@@ -19,3 +19,9 @@
 !/docs/data/materials.json
 !/docs/data/curricula.json
 !/docs/data/publication.json
+
+!/docs/idioms.html
+!/docs/idioms.css
+!/docs/idioms.mjs
+!/docs/idiom-engine.mjs
+!/docs/data/idioms-g6-l1.json

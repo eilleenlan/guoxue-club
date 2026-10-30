@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L1",
+    "questionCount": 10,
+    "optionCount": 12
+  },
+  "status": "approved",
+  "entries": [
+    {
+      "id": "g6-l1-01",
+      "term": "弄巧成拙",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "本想賣弄才能、聰明，卻反而做了蠢事。比喻枉費心機。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-01-example-01",
+          "text": "他原本想偷偷修改全班的海報，讓畫面更漂亮，沒想到反而把重要資料刪掉，真是＿＿＿＿。",
+          "answerId": "g6-l1-01",
+          "answer": "弄巧成拙",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-02",
+      "term": "小心翼翼",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "形容舉止十分謹慎，不敢懈怠疏忽。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-02-example-01",
+          "text": "妹妹捧著剛完成的陶藝作品，＿＿＿＿地走向展示桌，深怕一不注意就摔破。",
+          "answerId": "g6-l1-02",
+          "answer": "小心翼翼",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-03",
+      "term": "搖頭晃腦",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "頭搖來搖去。形容自以為是或自得其樂。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-03-example-01",
+          "text": "爺爺聽著最喜歡的老歌，跟著旋律＿＿＿＿，一副陶醉的模樣。",
+          "answerId": "g6-l1-03",
+          "answer": "搖頭晃腦",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-04",
+      "term": "勉為其難",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "雖然在事實上有所困難，但仍努力去做。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-04-example-01",
+          "text": "這座山的登山路線難度很高，爸爸原本不想參加，但在朋友一再邀請下，最後還是＿＿＿＿，答應同行。",
+          "answerId": "g6-l1-04",
+          "answer": "勉為其難",
+          "source": "媽媽提供修訂（原為姐姐自編試稿）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-05",
+      "term": "東轉西晃",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "形容人或動物在各處走來走去、四處遊蕩，沒有特定的目的地。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-05-example-01",
+          "text": "小狗沒有固定的去處，整個下午都在社區裡＿＿＿＿，一會兒跑到公園，一會兒又跑到巷口。",
+          "answerId": "g6-l1-05",
+          "answer": "東轉西晃",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-06",
+      "term": "持之以恆",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "大補帖",
+      "definition": "有恆心地堅持到底。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-06-example-01",
+          "text": "學習書法不能只靠一時興起，遇到困難也不能輕易放棄，唯有＿＿＿＿，才能逐漸寫出漂亮的字。",
+          "answerId": "g6-l1-06",
+          "answer": "持之以恆",
+          "source": "姐姐審稿後由媽媽提供修訂（原為姐姐自編試稿）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-07",
+      "term": "含血噴人",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "加油站",
+      "definition": "比喻捏造事實，誣賴他人。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-07-example-01",
+          "text": "他明明沒有證據，卻故意編造謊言，指控同學偷走班費，這種＿＿＿＿的行為令人憤怒。",
+          "answerId": "g6-l1-07",
+          "answer": "含血噴人",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-08",
+      "term": "班門弄斧",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "加油站",
+      "definition": "比喻在行家面前賣弄本事，不自量力。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-08-example-01",
+          "text": "他才學了幾天書法，就在書法名家面前誇耀自己的運筆技巧，簡直是＿＿＿＿。",
+          "answerId": "g6-l1-08",
+          "answer": "班門弄斧",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-09",
+      "term": "赴湯蹈火",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "加油站",
+      "definition": "比喻奮不顧身，不避艱險。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-09-example-01",
+          "text": "消防隊員為了搶救受困的民眾，即使必須冒著生命危險，也願意＿＿＿＿。",
+          "answerId": "g6-l1-09",
+          "answer": "赴湯蹈火",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-10",
+      "term": "不翼而飛",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "加油站",
+      "definition": "比喻物品無故遺失。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-10-example-01",
+          "text": "我明明把借書證放在書桌上，才離開一下子，它竟然＿＿＿＿，怎麼找都找不到。",
+          "answerId": "g6-l1-10",
+          "answer": "不翼而飛",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-11",
+      "term": "儲精蓄銳",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "加油站",
+      "definition": "保養精神，積蓄力量。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-11-example-01",
+          "text": "球隊連續比賽好幾天，教練決定讓大家暫停高強度訓練，好好休息、＿＿＿＿，迎接最後的決賽。",
+          "answerId": "g6-l1-11",
+          "answer": "儲精蓄銳",
+          "source": "姐姐自編試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l1-12",
+      "term": "情真意摯",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L1",
+      "textbookSource": "成語小站",
+      "definition": "情感真切、心意誠摯。",
+      "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-30",
+        "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+      },
+      "examples": [
+        {
+          "id": "g6-l1-12-example-01",
+          "text": "畢業典禮上，學生代表向老師表達感謝，他＿＿＿＿的一番話，讓許多人感動落淚。",
+          "answerId": "g6-l1-12",
+          "answer": "情真意摯",
+          "source": "姐姐審稿後由媽媽提供修訂（原為姐姐自編試稿）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          }
+        }
+      ]
+    }
+  ]
+}
