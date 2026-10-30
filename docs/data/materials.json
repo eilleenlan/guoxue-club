@@ -1483,6 +1483,27 @@
         "source": "011-A圖片第4張，第18首",
         "notes": "本機核對候選，尚待總控室驗收。"
       }
+    },
+    {
+      "id": "si-shi-du-shu-le-chun",
+      "title": "四時讀書樂・春",
+      "author": "翁森",
+      "category": "prose",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G4"
+      ],
+      "text": "山光照檻水繞廊，舞雩歸詠春風香。\n好鳥枝頭亦朋友，落花水面皆文章。\n蹉跎莫遣韶光老，人生惟有讀書好。\n讀書之樂樂何如？綠滿窗前草不除。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 218,
+      "review": {
+        "confirmedBy": "使用者提供並授權本次教材原文",
+        "confirmedAt": "2026-10-30",
+        "source": "使用者G4期中急件指令提供之原文與教材賞析"
+      }
     }
   ]
 }

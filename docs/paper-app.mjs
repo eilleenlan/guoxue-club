@@ -32,7 +32,7 @@ async function load(){
       if(work.practiceMode==='random-contiguous'){
         const choices=el('div');choices.className='paper-choices';const paragraphs=[...new Set(work.segments.map(s=>s.paragraph))];paragraphs.forEach(p=>checkbox(work,`第${['一','二','三','四'][p]??p+1}段（${work.segments.filter(s=>s.paragraph===p).length}片段）`,choices,p));group.append(choices);
         const label=el('label','每個已選段落抽幾個連續片段？ '),select=el('select');select.id='paper-count';for(let n=2;n<=questionLimit(work);n++){const option=el('option',String(n));option.value=n;select.append(option);}select.value='4';label.append(select);group.append(label,el('p','短段容量不足時，只調整該題至本段全部片段；不跨段。'));
-      }else checkbox(work,'全詩重組',group);
+      }else checkbox(work,work.category==='poem'?'全詩重組':'全文重組',group);
       $('paper-units').append(group);
     }
   }

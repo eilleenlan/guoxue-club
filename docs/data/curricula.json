@@ -667,6 +667,36 @@
           "reviewStatus": "learning-association-confirmed"
         }
       ]
+    },
+    {
+      "id": "115-g4-reading-spring",
+      "academicYear": 115,
+      "academicYearStatus": "confirmed",
+      "grade": 4,
+      "type": "古文",
+      "source": "使用者G4期中急件提供",
+      "semester": null,
+      "examRange": "期中",
+      "items": [
+        {
+          "workId": "si-shi-du-shu-le-chun",
+          "order": null,
+          "sourceTitle": "四時讀書樂・春",
+          "sourceAuthor": "翁森",
+          "semester": null,
+          "examRange": "期中",
+          "sourceMeaning": {
+            "label": "教材賞析",
+            "text": "山光照在廊堂四周的欄杆上，流水圍繞著長廊。郊遊乘涼後，在充滿花香的春風裡，吟詠著詩歌回來。枝頭上可愛的鳥兒都是伴我讀書的好朋友；水面落花有致，都是美不勝收的文章。不要虛度大好時光，使青春年華衰老，人生只有讀書最好。讀書的樂趣是怎麼樣的呢？就像窗前長滿綠草，不加剪除，充滿著活潑的生機一樣。",
+            "status": "user-confirmed",
+            "provenance": "使用者本次提供教材賞析，非本站自撰"
+          },
+          "comparison": {
+            "status": "user-provided"
+          },
+          "reviewStatus": "user-confirmed"
+        }
+      ]
     }
   ]
 }
