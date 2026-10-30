@@ -515,6 +515,345 @@
           "punctuation": "classical-dialogue",
           "sortOrder": 13,
           "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-14",
+          "title": "第十四則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "葉公問孔子於子路，子路不對。子曰：「女奚不曰：『其為人也，發憤忘食，樂以忘憂，不知老之將至云爾。』」",
+          "explanation": "葉公向子路問起孔子是怎樣的一個人，子路沒告訴他。孔子知道了以後，便對子路說：「你為何不告訴他：『孔子這個人啊，研究起學問來連吃飯都忘記；一旦研究有了心得，便快樂得拋開一切憂愁，以至於自己的年歲日漸老邁也不覺得了。』」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第1張，第14則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 14,
+          "practiceMode": "full",
+          "colonBoundaries": true
+        },
+        {
+          "id": "lunyu-15",
+          "title": "第十五則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「三人行，必有我師焉。擇其善者而從之，其不善者而改之。」",
+          "explanation": "孔子說：「與朋友相處，其中必定有可做為我老師的。看到某人有好的地方，我就向他看齊；看到某人有什麼缺點，我就自省察自己是否跟他一樣，進而加以更正。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第1張，第15則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 15,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-16",
+          "title": "第十六則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「君子成人之美，不成人之惡；小人反是。」",
+          "explanation": "孔子說：「有才有德的君子，存心仁厚，只願成全人家的好事，不願促成人家的壞事。沒有品德修養的小人卻正好相反：他們為人自私貪利，專門阻撓別人的好事，助長別人的壞事。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第1張，第16則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 16,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-17",
+          "title": "第十七則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "曾子有疾，召門弟子曰：「啟予足！啟予手！詩云：『戰戰兢兢，如臨深淵，如履薄冰。』而今而後，吾知免夫！小子！」",
+          "explanation": "曾子病得很重，把門下弟子叫到床前來，對他們說：「掀開被子瞧瞧我的手和腳吧！詩經上說，要時時懷著一顆戒慎恐懼的心呀！就好像走近了很深的水潭，或者踩在很薄的冰層上一樣。弟子啊！我知道從今以後，自己的身體髮膚再也不會受到損傷了。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第1張，第17則",
+            "notes": "第17則內層『』已由使用者於本對話確認。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 17,
+          "practiceMode": "full",
+          "colonBoundaries": true
+        },
+        {
+          "id": "lunyu-18",
+          "title": "第十八則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「其身正，不令而行；其身不正，雖令不從。」",
+          "explanation": "孔子說：「在上位領導民眾的人，都應該以身作則。如果本身做事公正合理，用不著發號施令，人們就會自動自發地去做；反過來說，如果本身做事不公正不合理，即使下了嚴厲的命令，人們也不肯服從。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第2張，第18則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 18,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-19",
+          "title": "第十九則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子夏為莒父宰，問政。子曰：「無欲速，無見小利；欲速則不達，見小利則大事不成。」",
+          "explanation": "子夏做了莒父這個地方的縣官，特來請教老師從政的方針。孔子回答說：「不要貪求快速，也不要貪圖眼前的小利益。貪求快速就容易慌亂草率，事情反而做不好；貪圖眼前的小利益，就會忽略更遠大的目標，反而成不了大事。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第2張，第19則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 19,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-20",
+          "title": "第二十則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「不患人之不己知，患其不能也。」",
+          "explanation": "孔子說：「不要擔心別人不知道自己的能力、知識，應該擔心的是自己有沒有真才實學啊！」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第2張，第20則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 20,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-21",
+          "title": "第二十一則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+          "explanation": "孔子說：「有氣節、有品德的人，絕對不會為了要求生存而殘害仁道，只有為了保全仁道而犧牲生命的。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第2張，第21則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 21,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-22",
+          "title": "第二十二則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「人無遠慮，必有近憂。」",
+          "explanation": "孔子說：「一個人要是在平時沒有作遠長的打算，那麼必定會有迫身的憂患在等著他。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第2張，第22則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 22,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-23",
+          "title": "第二十三則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「君子不以言舉人，不以人廢言。」",
+          "explanation": "孔子說：「一個有道德、學問的人，不因為一個人的言論好就推舉他，也不因為一個人的品德不好，就廢棄他的好言論。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第3張，第23則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 23,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-24",
+          "title": "第二十四則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎。己所不欲勿施於人。」",
+          "explanation": "子貢問孔子說：「有沒有一個字，可以拿來作為終身奉行的標準呢？」孔子回答：「有的，那大概是『恕』這個字吧！簡單來說，就是自己所不喜歡的事情，絕對不要加在別人身上，或強迫他人去做。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第3張，第24則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 24,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-25",
+          "title": "第二十五則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "孔子曰：「益者三友，損者三友：友直，友諒，友多聞，益矣；友便辟，友善柔，友便佞，損矣。」",
+          "explanation": "孔子說：「對我們有益處的朋友有三種，而對我們有損害的朋友也有三種。正直的朋友、誠信的朋友和博學多聞的朋友，是對我們有益處的；慣於逢迎而不正直的朋友、習於獻媚而不誠信的朋友，和只知口辯而無真才實學的朋友，是對我們有害處的。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第3張，第25則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 25,
+          "practiceMode": "full",
+          "colonBoundaries": true
+        },
+        {
+          "id": "lunyu-26",
+          "title": "第二十六則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「過而不改，是謂過矣。」",
+          "explanation": "孔子說：「有了過錯而不知悔改，這就是真正的過錯了。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第3張，第26則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 26,
+          "practiceMode": "full"
+        },
+        {
+          "id": "lunyu-27",
+          "title": "第二十七則",
+          "author": "論語",
+          "category": "prose",
+          "status": "verified",
+          "tags": [],
+          "text": "子曰：「道不同，不相為謀。」",
+          "explanation": "孔子說：「兩個人的理想或是意見要是不同，那麼便無法在一起思考事情了。」",
+          "review": {
+            "confirmedBy": "Codex依使用者提供圖片逐字核對",
+            "confirmedAt": "2026-10-30",
+            "source": "施工單009：使用者附件第3張，第27則",
+            "notes": "忠實轉錄圖片原文與白話論語；未從其他來源補充。"
+          },
+          "questionTypes": [
+            "sequence"
+          ],
+          "reviewedDistractors": [],
+          "layout": "passage-lines",
+          "punctuation": "classical-dialogue",
+          "sortOrder": 27,
+          "practiceMode": "full"
         }
       ],
       "sortOrder": 70
