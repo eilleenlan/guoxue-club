@@ -7,7 +7,7 @@ let catalog=null,batch=null,books=null,urls=[],blobs=null,pageNumber=0,busy=fals
 function el(tag,text){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;return n;}
 function selected(){return [...$('paper-units').querySelectorAll('input:checked')].map(input=>({workId:input.value,...(input.dataset.paragraph!==undefined?{paragraph:Number(input.dataset.paragraph),count:Number($('paper-count').value)}:{})}));}
 function status(text){$('paper-status').textContent=text;}
-function sync(){const count=selected().length;$('paper-selected').textContent=`已選 ${count} 個練習單元`;$('paper-generate').disabled=busy||count===0;$('paper-regenerate').disabled=busy||!batch||count===0;}
+function sync(){const count=selected().length;$('paper-selected').textContent=`已選 ${count} 個練習單元`;$('paper-generate').disabled=busy||count===0;$('paper-regenerate').disabled=busy||!batch||count===0;$('paper-units').inert=busy;$('paper-rounds').disabled=busy;}
 function checkbox(work,title,parent,paragraph){const label=el('label'),input=el('input');input.type='checkbox';input.value=work.id;input.name='paper-unit';if(paragraph!==undefined)input.dataset.paragraph=paragraph;label.append(input,el('span',title));parent.append(label);}
 async function load(){
   if(catalog)return;const response=await fetch('./data/materials.json');if(!response.ok)throw new Error('無法讀取教材');catalog=validateCatalog(await response.json());
@@ -35,7 +35,7 @@ async function load(){
       $('paper-units').append(group);
     }
   }
-  $('paper-units').addEventListener('change',()=>{sync();if(batch)status('範圍設定已更動；目前預覽及下載仍是上次固定結果，請按產生試卷套用新設定。');});sync();
+  $('paper-units').addEventListener('change',()=>{sync();if(batch){$('paper-result').hidden=true;$('paper-downloads').hidden=true;release();books=null;status('選題已更新，請重新產生試卷；已隱藏舊預覽與下載，避免範圍不一致。');}});sync();
 }
 function release(){urls.forEach(URL.revokeObjectURL);urls=[];downloadLinks.forEach(a=>a.removeAttribute('href'));blobs=null;}
 function drawPreview(){
