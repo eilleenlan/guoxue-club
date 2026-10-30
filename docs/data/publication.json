@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "defaultAcademicYear": 115,
+  "frontLists": [
+    {
+      "academicYear": 115,
+      "workIds": [
+        "song-bie",
+        "jian-ke",
+        "gu-gu-ren-zhuang",
+        "du-han-jiang",
+        "zhong-nan-bie-ye",
+        "lang-tao-sha",
+        "lunyu",
+        "er-shi-ji-qu"
+      ],
+      "curriculumIds": [
+        "115-g3-tang-poetry",
+        "g4-poetry-year-pending",
+        "115-g3-learning",
+        "115-g5-learning",
+        "115-g6-learning"
+      ]
+    }
+  ],
+  "homeDefaultGrade": 3
+}

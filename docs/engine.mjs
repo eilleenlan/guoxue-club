@@ -58,7 +58,7 @@ export function validateCatalog(data) {
 }
 export function filterWorks(works, category='all', query='') {
   const term=query.trim().toLocaleLowerCase();
-  return works.filter(w=>(category==='all'||w.category===category) && `${w.title} ${w.author}`.toLocaleLowerCase().includes(term)).sort((a,b)=>(a.sortOrder??Number.MAX_SAFE_INTEGER)-(b.sortOrder??Number.MAX_SAFE_INTEGER));
+  return works.filter(w=>(category==='all'||w.category===category) && `${w.title} ${w.author} ${w.correctedAuthor??''}`.toLocaleLowerCase().includes(term)).sort((a,b)=>(a.sortOrder??Number.MAX_SAFE_INTEGER)-(b.sortOrder??Number.MAX_SAFE_INTEGER));
 }
 export function shuffle(items, random=Math.random) {
   const result=[...items];

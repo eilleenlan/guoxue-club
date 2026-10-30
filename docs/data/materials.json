@@ -938,6 +938,551 @@
       "punctuation": "classical-dialogue",
       "sortOrder": 30,
       "practiceMode": "full"
+    },
+    {
+      "id": "deng-guan-que-lou",
+      "title": "登鸛雀樓",
+      "author": "王之渙",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "白日依山盡，黃河入海流。\n欲窮千里目，更上一層樓。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第1張，第1首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 100
+    },
+    {
+      "id": "du-zuo-jing-ting-shan",
+      "title": "獨坐敬亭山",
+      "author": "李白",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "眾鳥高飛盡，孤雲獨去閒。\n相看兩不厭，只有敬亭山。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第1張，第2首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 101
+    },
+    {
+      "id": "deng-le-you-yuan",
+      "title": "登樂遊原",
+      "author": "李商隱",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "向晚意不適，驅車登古原。\n夕陽無限好，只是近黃昏。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第1張，第3首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 102
+    },
+    {
+      "id": "jiang-xue",
+      "title": "江雪",
+      "author": "柳宗元",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "千山鳥飛絕，萬徑人蹤滅。\n孤舟蓑笠翁，獨釣寒江雪。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第1張，第4首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 103
+    },
+    {
+      "id": "ba-zhen-tu",
+      "title": "八陣圖",
+      "author": "杜甫",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "功蓋三分國，名成八陣圖。\n江流石不轉，遺恨失吞吳。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第2張，第5首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 104
+    },
+    {
+      "id": "lu-zhai",
+      "title": "鹿柴",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "空山不見人，但聞人語響；\n返景入深林，復照青苔上。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第2張，第6首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 105
+    },
+    {
+      "id": "xun-yin-zhe-bu-yu",
+      "title": "尋隱者不遇",
+      "author": "賈島",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "松下問童子，言師採藥去。\n只在此山中，雲深不知處。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第2張，第7首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 106
+    },
+    {
+      "id": "min-nong-shi",
+      "title": "憫農詩",
+      "author": "李紳",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "鋤禾日當午，汗滴禾下土。\n誰知盤中飧，粒粒皆辛苦。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第2張，第8首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 107
+    },
+    {
+      "id": "tan-qin",
+      "title": "彈琴",
+      "author": "劉長卿",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "泠泠七絃上，靜聽松風寒。\n古調雖自愛，今人多不彈。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第3張，第9首",
+        "notes": "首句泠泠七絃上已由使用者在本對話確認；其餘原文依圖片逐字核對。"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 108
+    },
+    {
+      "id": "zhu-li-guan",
+      "title": "竹里館",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "獨坐幽篁裡，彈琴復長嘯。\n深林人不知，明月來相照。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第3張，第11首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 110
+    },
+    {
+      "id": "xiang-si",
+      "title": "相思",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "紅豆生南國，春來發幾枝；\n願君多采擷，此物最相思。",
+      "review": {
+        "confirmedBy": "Codex依使用者教材圖片逐字核對（本機候選）",
+        "confirmedAt": "2026-10-30",
+        "source": "施工單011：使用者圖片第3張，第12首"
+      },
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 111
+    },
+    {
+      "id": "za-shi-wang-wei",
+      "title": "雜詩",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "君自故鄉來，應知故鄉事。\n來日綺窗前，寒梅著花未？",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 200,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第1張，第1首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "niao-ming-jian",
+      "title": "鳥鳴澗",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 201,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第1張，第2首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "chun-xiao",
+      "title": "春曉",
+      "author": "孟浩然",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "春眠不覺曉，處處聞啼鳥。\n夜來風雨聲，花落知多少。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 202,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第1張，第3首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "qiu-ye-ji-qiu-yuan-wai",
+      "title": "秋夜寄邱員外",
+      "author": "韋應物",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "懷君屬秋夜，散步詠涼天。\n空山松子落，幽人應未眠。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 203,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第1張，第4首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "ye-su-shan-si",
+      "title": "夜宿山寺",
+      "author": "李白",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "危樓高百尺，手可摘星辰。\n不敢高聲語，恐驚天上人。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 204,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第1張，第5首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "xin-jia-niang",
+      "title": "新嫁娘",
+      "author": "王建",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "三日入廚下，洗手作羹湯。\n未諳姑食性，先遣小姑嘗。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 205,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第2張，第6首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "wen-liu-shi-jiu",
+      "title": "問劉十九",
+      "author": "白居易",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "綠螘新醅酒，紅泥小火爐。\n晚來天欲雪，能飲一杯無？",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 206,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第2張，第7首",
+        "notes": "使用者確認圖片第二字為螘。"
+      }
+    },
+    {
+      "id": "jue-ju-du-fu",
+      "title": "絕句",
+      "author": "杜甫",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "兩個黃鸝鳴翠柳，一行白鷺上青天。\n窗含西嶺千秋雪，門泊東吳萬里船。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 207,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第2張，第8首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "song-meng-hao-ran-zhi-guang-ling",
+      "title": "送孟浩然之廣陵",
+      "author": "李白",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "故人西辭黃鶴樓，煙花三月下揚州。\n孤帆遠影碧空盡，惟見長江天際流。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 208,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第2張，第9首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "hui-xiang-ou-shu",
+      "title": "回鄉偶書",
+      "author": "賀知章",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "少小離家老大回，鄉音無改鬢毛催。\n兒童相見不相識，笑問客從何處來。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 209,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第2張，第10首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "feng-qiao-ye-bo",
+      "title": "楓橋夜泊",
+      "author": "張繼",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "月落烏啼霜滿天，江楓漁火對愁眠。\n姑蘇城外寒山寺，夜半鐘聲到客船。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 210,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第3張，第11首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "feng-ru-jing-shi",
+      "title": "逢入京使",
+      "author": "曾參",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "故園東望路漫漫，雙袖龍鍾淚不乾。\n馬上相逢無紙筆，憑君傳語報平安。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 211,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第3張，第12首",
+        "notes": "依使用者指示保留圖片作者，另列校訂附註。"
+      },
+      "correctedAuthor": "岑參",
+      "authorNote": "應為岑參"
+    },
+    {
+      "id": "chu-sai-wang-zhi-huan",
+      "title": "出塞",
+      "author": "王之渙",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "黃河遠上白雲間，一片孤城萬仞山。\n羌笛何須怨楊柳，春風不度玉門關。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 212,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第3張，第13首",
+        "notes": "保留教材篇名出塞與作者王之渙，待篇名核對，不自行改名或合併。"
+      }
+    },
+    {
+      "id": "jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+      "title": "九月九日憶山東兄弟",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "獨在異鄉為異客，每逢佳節倍思親。\n遙知兄弟登高處，遍插茱萸少一人。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 213,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第3張，第14首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "wu-yi-xiang",
+      "title": "烏衣巷",
+      "author": "賈島",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "朱雀橋邊野草花，烏衣巷口夕陽斜。\n舊時王謝堂前燕，飛入尋常百姓家。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 214,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第3張，第15首",
+        "notes": "依使用者指示保留圖片作者，另列校訂附註。"
+      },
+      "correctedAuthor": "劉禹錫",
+      "authorNote": "應為劉禹錫"
+    },
+    {
+      "id": "liang-zhou-ci-wang-han",
+      "title": "涼州詞",
+      "author": "王翰",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "葡萄美酒夜光杯，欲飲琵琶馬上催。\n醉臥沙場君莫笑，古來征戰幾人回？",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 215,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第4張，第16首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "chi-bi",
+      "title": "赤壁",
+      "author": "杜牧",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "折戟沉沙鐵未銷，自將磨洗認前朝。\n東風不與周郎便，銅雀春深鎖二喬。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 216,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第4張，第17首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
+    },
+    {
+      "id": "cong-jun-xing",
+      "title": "從軍行",
+      "author": "王昌齡",
+      "category": "poem",
+      "status": "verified",
+      "tags": [],
+      "text": "青海長雲暗雪山，孤城遙望玉門關。\n黃沙百戰穿金甲，不破樓蘭終不還。",
+      "layout": "poem-lines",
+      "punctuation": "classical-dialogue",
+      "practiceMode": "full",
+      "sortOrder": 217,
+      "review": {
+        "confirmedBy": "Codex依使用者011-A圖片核對候選",
+        "confirmedAt": "2026-10-30",
+        "source": "011-A圖片第4張，第18首",
+        "notes": "本機核對候選，尚待總控室驗收。"
+      }
     }
   ]
 }

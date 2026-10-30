@@ -1,4 +1,5 @@
 import {validateWork,filterWorks,shuffle} from './engine.mjs';
+import {authorDisplay} from './library.mjs';
 export const circled = n => n>=1&&n<=20 ? String.fromCodePoint(0x2460+n-1) : `(${n})`;
 const signature = options => options.map(s=>s.text).join('\u0000');
 function nextPermutation(items){
@@ -49,7 +50,7 @@ export function buildPaper(catalog,{selections,rounds,previous=null},random=Math
       if(paragraph!==null&&v.answer.length<selection.count)warnings.add(`${title}：設定${selection.count}片段，本段僅${v.answer.length}片段，已調整。`);
       const copy=s=>({id:s.id,text:s.text,raw:s.raw,index:s.index,paragraph:s.paragraph});
       const answer=v.answer.map(copy),options=v.options.map(copy);
-      return {number:i+1,workId:unit.id,title,author:unit.author,paragraph,answer,options,answerNumbers:answer.map(s=>options.findIndex(o=>o.id===s.id)+1),original:unit.practiceMode==='full'?unit.text:answer.map(s=>s.raw).join(''),repeated:v.repeated};
+      return {number:i+1,workId:unit.id,title,author:authorDisplay(unit),paragraph,answer,options,answerNumbers:answer.map(s=>options.findIndex(o=>o.id===s.id)+1),original:unit.practiceMode==='full'?unit.text:answer.map(s=>s.raw).join(''),repeated:v.repeated};
     });result.push({number:round,questions});
   }
   const names=[...new Set(chosen.map(e=>e.parent?.title||e.unit.title))],rangeName=names.length<=2?names.join('＋'):`${names[0]}等${names.length}篇`;

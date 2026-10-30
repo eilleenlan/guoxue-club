@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "curricula": [
+    {
+      "id": "115-g3-tang-poetry",
+      "academicYear": 115,
+      "grade": 3,
+      "type": "唐詩",
+      "source": "施工單011使用者三張教材圖片",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "order": 1,
+          "workId": "deng-guan-que-lou",
+          "sourceTitle": "登鸛雀樓",
+          "sourceAuthor": "王之渙",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "夕陽依傍著西山慢慢沉沒，滔滔黃河朝著東海洶湧奔流。若想把千里的風光景物看夠，那就要登上更高的一層城樓。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 2,
+          "workId": "du-zuo-jing-ting-shan",
+          "sourceTitle": "獨坐敬亭山",
+          "sourceAuthor": "李白",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "那一群群飛鳥都已振翅高飛，不知去向了。天際僅剩的一片浮雲也十分悠哉的往遠方飄去。在這種時候，能和我靜靜對望而都不互覺厭煩的，只有這座敬亭山罷了。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 3,
+          "workId": "deng-le-you-yuan",
+          "sourceTitle": "登樂遊原",
+          "sourceAuthor": "李商隱",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "到了傍晚的時候，心情忽然感到很不舒暢，於是駕車登上古時的樂遊原。此刻正值夕陽西沉，景色美得難以形容，只可惜黃昏已近，夜幕即將低垂。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 4,
+          "workId": "jiang-xue",
+          "sourceTitle": "江雪",
+          "sourceAuthor": "柳宗元",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "天氣嚴寒，大雪紛飛，連綿的山峰，看不見一隻飛鳥；無數的鄉間小路，也沒有人的蹤跡。在這空蕩蕩的世界，只有一個身穿蓑衣，頭戴斗笠的老翁，撐著一葉小舟，獨自在白雪紛飛的寒江垂釣。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 5,
+          "workId": "ba-zhen-tu",
+          "sourceTitle": "八陣圖",
+          "sourceAuthor": "杜甫",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "諸葛亮最有名的功績在於確立魏、蜀、吳三國並存的局面。他的卓著名聲成就於創制八陣圖。江水衝擊，八陣圖的石堆巍然不動，他所遺憾的是沒能吞併東吳。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 6,
+          "workId": "lu-zhai",
+          "sourceTitle": "鹿柴",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "幽靜的山谷裡看不見人，只能聽到那說話的聲音。落日的影暈映入了深林，又照在青苔上景色宜人。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 7,
+          "workId": "xun-yin-zhe-bu-yu",
+          "sourceTitle": "尋隱者不遇",
+          "sourceAuthor": "賈島",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "我在松樹下問一個小孩子說：「你的師父呢？」他說：「師父採藥去了，就在這座山裡面。可是白雲重重，不知道在哪裡才找得到他？」",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 8,
+          "workId": "min-nong-shi",
+          "sourceTitle": "憫農詩",
+          "sourceAuthor": "李紳",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "盛夏中午，烈日炎炎，農民還在勞作，汗珠滴入泥土。有誰想到，我們碗中的米飯，粒粒飽含著農民的血汗？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 9,
+          "workId": "tan-qin",
+          "sourceTitle": "彈琴",
+          "sourceAuthor": "劉長卿",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "琴聲清亮洋溢在七絃上，我靜靜地聽著「松風寒」的曲子。雖然我一直很喜歡這古老的曲調，但是現在的人們已經不喜歡彈奏這種古調了。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者於本對話提供完整語意轉錄，教材原字保留",
+            "reviewNote": "依使用者明確指示，語意筆誤已修正為一直。"
+          },
+          "comparison": {
+            "status": "matched-candidate",
+            "note": "原文首句泠泠七絃上已由使用者確認。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 10,
+          "workId": "song-bie",
+          "sourceTitle": "送別",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "送你走出這座山，回到家裡，天色已暗，於是關上柴門，心想：當明年春天草木轉綠後，不知道你還會不會回來？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "variant-pending-confirmation",
+            "sourceVariantText": "山中相送罷，日暮掩柴扉。\n春草明年綠，王孫歸不歸。",
+            "note": "圖片末句句號，既有主檔問號；沿用既有主檔練習，不覆蓋。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 11,
+          "workId": "zhu-li-guan",
+          "sourceTitle": "竹里館",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "我獨自坐在幽靜的竹林裡，一面撥琴絃，一面自己唱和，在寂靜的深林中，沒有人來打擾，只有天上明月光照進深林中，仿佛在默默陪伴著我。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 12,
+          "workId": "xiang-si",
+          "sourceTitle": "相思",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "鮮紅圓圓的紅豆，生長在陽光明媚的南方，春暖花開的季節，不知又生出多少？希望思念的人兒多多採集，小小紅豆引人相思。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供教材語意，非本站自撰"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        }
+      ],
+      "academicYearStatus": "confirmed"
+    },
+    {
+      "id": "g4-poetry-year-pending",
+      "academicYear": 115,
+      "academicYearStatus": "tentative",
+      "grade": 4,
+      "type": "古詩",
+      "source": "011-A使用者四張教材圖片",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "order": 1,
+          "workId": "za-shi-wang-wei",
+          "sourceTitle": "雜詩",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "您是剛從我們家鄉來的，一定了解家鄉的人情世態。請問您來的時候，我家雕畫花紋的窗戶前，那一株臘梅花開了沒有？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 2,
+          "workId": "niao-ming-jian",
+          "sourceTitle": "鳥鳴澗",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "很少有人活動，只有桂花無聲飄落，夜裡一片靜謐春日的山谷寂寂空空。明月升起光輝照耀驚動了山中棲鳥，不時高飛鳴叫在這春天的溪澗中。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 3,
+          "workId": "chun-xiao",
+          "sourceTitle": "春曉",
+          "sourceAuthor": "孟浩然",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "春天氣候和暖宜人，夜裡睡得香甜，連天亮了也不知道。醒來時，到處都是鳥兒的叫聲。想起昨夜一陣陣風雨的聲音，不知道有多少花兒被風雨給打落了呢？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 4,
+          "workId": "qiu-ye-ji-qiu-yuan-wai",
+          "sourceTitle": "秋夜寄邱員外",
+          "sourceAuthor": "韋應物",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "現在已是秋天的夜裡，我心裡想念著你，此刻我一面散步，一面吟詠著初涼的天氣。我想：空曠的山林已落下松子來了，你是退隱住在山林中的人，在秋夜裡一定有許多思潮起伏，這時候應該還沒有睡覺吧！",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 5,
+          "workId": "ye-su-shan-si",
+          "sourceTitle": "夜宿山寺",
+          "sourceAuthor": "李白",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "這座高聳的樓一定有一百尺那麼高吧！站在這高樓上，仿佛只要一伸出手，就可以摘到天上的星星。在這麼高的地方，我不由得放低音量，只因為害怕會驚動了天上的神仙們！",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 6,
+          "workId": "xin-jia-niang",
+          "sourceTitle": "新嫁娘",
+          "sourceAuthor": "王建",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "新嫁娘新婚三天來到廚房，洗手親自做羹湯。不知道婆婆喜歡什麼口感，做好了先請小姑品嘗看看。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 7,
+          "workId": "wen-liu-shi-jiu",
+          "sourceTitle": "問劉十九",
+          "sourceAuthor": "白居易",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "我家新釀的米酒還沒過濾，表面泛起一層綠泡，香味四溢。用紅泥燒製的燙酒壺，已經準備好了，天色漸暗，即將下雪，能否留下來共飲一杯酒。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate",
+            "note": "使用者確認螘字，未換作蟻。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 8,
+          "workId": "jue-ju-du-fu",
+          "sourceTitle": "絕句",
+          "sourceAuthor": "杜甫",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "兩隻黃鸝在翠綠的柳枝間鳴叫，一行白鷺向湛藍的高空里飛翔。坐在窗前可以看見西嶺千年不化的積雪，門口停泊著萬里之外東吳開來的船。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 9,
+          "workId": "song-meng-hao-ran-zhi-guang-ling",
+          "sourceTitle": "送孟浩然之廣陵",
+          "sourceAuthor": "李白",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "老朋友（孟浩然）於黃鶴樓同我辭別後就向東離去。在這春光明媚的三月裡，順江而下前往揚州。遠望著孤船漸行漸遠的帆影，終於還是在青天盡頭處隱沒，這時只見到長江水依舊滔滔不停的向天際奔流。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 10,
+          "workId": "hui-xiang-ou-shu",
+          "sourceTitle": "回鄉偶書",
+          "sourceAuthor": "賀知章",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "少年時離鄉，到老年了才回家來；口音沒改變，雙鬢卻已經斑白。兒童們雖看見了我，卻沒有一個人認識我；他們笑問：這客人是從哪裡來？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 11,
+          "workId": "feng-qiao-ye-bo",
+          "sourceTitle": "楓橋夜泊",
+          "sourceAuthor": "張繼",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "明月西落秋霜滿天，幾聲烏啼山前；江上漁火映紅楓樹，愁緒攪我難眠。蘇州城外那聞名海內的寒山寺；夜半鐘聲，漫悠悠地飄到我的船邊。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 12,
+          "workId": "feng-ru-jing-shi",
+          "sourceTitle": "逢入京使",
+          "sourceAuthor": "曾參",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "東望家鄉的路又遠又長，思念家鄉的淚水溼了袖子流不完；在馬上與你相遇卻沒有紙筆，請你轉告我的家人我平安無恙。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "author-annotated-by-user",
+            "correctedAuthor": "岑參",
+            "note": "保留教材原標示曾參；使用者確認應為岑參。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 13,
+          "workId": "chu-sai-wang-zhi-huan",
+          "sourceTitle": "出塞",
+          "sourceAuthor": "王之渙",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "黃河遠遠的東流而來，仿佛從白雲間流出。只見一座塞外孤城，矗立在幾千丈的高山之間。離家的士兵何須用羌笛吹奏「折楊柳」那種哀傷的調子呢？那兒地遠天寒，春風是吹不到玉門關的啊！",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "title-review-requested",
+            "note": "教材題名出塞、作者王之渙；保留原標示，列入篇名核對，不與其他作品自行合併。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 14,
+          "workId": "jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+          "sourceTitle": "九月九日憶山東兄弟",
+          "sourceAuthor": "王維",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "我獨自一人居留在外面，做外鄉的客人。每逢到有節慶的日子，更加要想念著父母兄弟了。今天是重陽節，我在遠地，知道家中兄弟們，在登高的地方，大家衣襟上都插起茱萸來，卻少了我一個人啊！",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 15,
+          "workId": "wu-yi-xiang",
+          "sourceTitle": "烏衣巷",
+          "sourceAuthor": "賈島",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "朱雀橋邊野草開滿了花，烏衣巷口，只見夕陽斜掛；往昔王、謝兩望族堂前的燕子，如今已飛入平常老百姓的家。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "author-annotated-by-user",
+            "correctedAuthor": "劉禹錫",
+            "note": "保留教材原標示賈島；使用者確認應為劉禹錫。"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 16,
+          "workId": "liang-zhou-ci-wang-han",
+          "sourceTitle": "涼州詞",
+          "sourceAuthor": "王翰",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "夜光杯裡注滿了葡萄美酒，正想要開懷暢飲的時候，馬上的琵琶已響起了催促聲。如果我醉倒在戰場，請你不要見怪，自古以來，出征作戰的又有幾人回來？",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 17,
+          "workId": "chi-bi",
+          "sourceTitle": "赤壁",
+          "sourceAuthor": "杜牧",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "折斷的鐵戟沉在水底，還沒被銷毀掉；經過又洗又磨，發現是赤壁之戰留下的遺物。假如東風不幫助周瑜，恐怕會是曹操取勝，二喬就會被關進銅雀臺了。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        },
+        {
+          "order": 18,
+          "workId": "cong-jun-xing",
+          "sourceTitle": "從軍行",
+          "sourceAuthor": "王昌齡",
+          "semester": null,
+          "examRange": null,
+          "sourceMeaning": {
+            "text": "青海湖上烏雲密布，連綿的雪山一片黯淡；邊塞古城，玉門雄關，遙遙相望。邊疆的戰士，鎧甲磨穿了，壯志不滅，不打退進攻的敵國，誓不返家園。",
+            "status": "transcribed-awaiting-acceptance",
+            "provenance": "使用者提供011-A教材圖片"
+          },
+          "comparison": {
+            "status": "matched-candidate"
+          },
+          "reviewStatus": "awaiting-human-acceptance"
+        }
+      ]
+    },
+    {
+      "id": "115-g3-learning",
+      "academicYear": 115,
+      "academicYearStatus": "confirmed",
+      "grade": 3,
+      "type": "古詩文學習",
+      "source": "施工單010及定位修正：使用者確認學年度、年級，供自由學習；非考試範圍",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "workId": "lunyu",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": {
+            "mode": "all",
+            "unitIds": null
+          },
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        }
+      ]
+    },
+    {
+      "id": "115-g5-learning",
+      "academicYear": 115,
+      "academicYearStatus": "confirmed",
+      "grade": 5,
+      "type": "古詩文學習",
+      "source": "施工單010及定位修正：使用者確認學年度、年級，供自由學習；非考試範圍",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "workId": "song-bie",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "jian-ke",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "gu-gu-ren-zhuang",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "lunyu",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": {
+            "mode": "all",
+            "unitIds": null
+          },
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        }
+      ]
+    },
+    {
+      "id": "115-g6-learning",
+      "academicYear": 115,
+      "academicYearStatus": "confirmed",
+      "grade": 6,
+      "type": "古詩文學習",
+      "source": "施工單010及定位修正：使用者確認學年度、年級，供自由學習；非考試範圍",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "workId": "du-han-jiang",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "zhong-nan-bie-ye",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "lang-tao-sha",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "er-shi-ji-qu",
+          "order": null,
+          "semester": null,
+          "examRange": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        }
+      ]
+    }
+  ]
+}

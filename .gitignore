@@ -7,6 +7,8 @@
 !/docs/style.css
 !/docs/app.mjs
 !/docs/engine.mjs
+!/docs/library.mjs
+!/docs/learning-ui.mjs
 !/docs/paper-app.mjs
 !/docs/paper-engine.mjs
 !/docs/paper-layout.mjs
@@ -15,3 +17,5 @@
 !/docs/data/
 /docs/data/*
 !/docs/data/materials.json
+!/docs/data/curricula.json
+!/docs/data/publication.json
