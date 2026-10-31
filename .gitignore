@@ -38,3 +38,15 @@
 
 !/docs/idioms-g6-l3.html
 !/docs/data/idioms-g6-l3.json
+
+!/docs/idiom-paper.html
+!/docs/idiom-paper.css
+!/docs/idiom-paper-app.mjs
+!/docs/idiom-paper-engine.mjs
+!/docs/idiom-paper-layout.mjs
+!/test/
+/test/*
+!/test/idiom-paper.test.mjs
+!/scripts/
+/scripts/*
+!/scripts/idiom-paper-browser.mjs
