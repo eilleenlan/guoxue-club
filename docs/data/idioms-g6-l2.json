@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L2",
+    "questionCount": 4,
+    "optionCount": 6,
+    "textbook": {
+      "seriesId": "g6-chinese-idioms",
+      "label": "媽媽提供的六上國語同套教材",
+      "volume": "乙本",
+      "section": "成語小站",
+      "volumeRule": {
+        "oddLessons": "甲本",
+        "evenLessons": "乙本"
+      },
+      "sharedWith": "G6 L1；甲乙本為同套教材分冊，不是兩套來源"
+    },
+    "selectionType": "略讀選課"
+  },
+  "status": "approved",
+  "authorizationType": "publication-authorization",
+  "entries": [
+    {
+      "id": "g6-l2-01",
+      "term": "根深蒂固",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "比喻根基堅固，不可動搖。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-01-example-01",
+          "text": "村民長久以來認為女生不適合學習木工，這種＿＿＿＿的觀念，即使經過多次宣導，仍然難以改變。",
+          "answerId": "g6-l2-01",
+          "answer": "根深蒂固",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l2-02",
+      "term": "執迷不悟",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "堅持錯誤的觀念而不醒悟。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-02-example-01",
+          "text": "老師已經多次提醒他不能作弊，他卻仍然＿＿＿＿，繼續用不正當的方法取得好成績。",
+          "answerId": "g6-l2-02",
+          "answer": "執迷不悟",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l2-03",
+      "term": "百口莫辯",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "比喻冤屈無法申訴辯白。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-03-example-01",
+          "text": "有人故意偽造證據，讓大家都誤以為他偷了東西，面對眾人的指責，他一時之間＿＿＿＿。",
+          "answerId": "g6-l2-03",
+          "answer": "百口莫辯",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l2-04",
+      "term": "民胞物與",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "視人民如同胞，視動物如同類。比喻博愛。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-04-example-01",
+          "text": "這位慈善家不但長期照顧弱勢家庭，也關心流浪動物，展現出＿＿＿＿的胸懷。",
+          "answerId": "g6-l2-04",
+          "answer": "民胞物與",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l2-05",
+      "term": "憤世嫉俗",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "形容對腐敗的社會現狀及庸俗世態的痛恨。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-05-example-01",
+          "text": "這位作家看不慣社會上貪汙與欺騙的風氣，經常寫文章批評時弊，言談間流露出＿＿＿＿的情緒。",
+          "answerId": "g6-l2-05",
+          "answer": "憤世嫉俗",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l2-06",
+      "term": "慷慨解囊",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L2",
+      "textbookSource": "成語小站",
+      "textbookVolume": "乙本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "指輕財仗義，毫不吝嗇地捐助錢財給人。",
+      "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+      "editorReview": {
+        "status": "sister-reviewed",
+        "label": "姐姐已審稿",
+        "reviewedBy": "姐姐",
+        "source": "使用者本次明確告知六題已經姐姐內容初審"
+      },
+      "review": {
+        "status": "approved",
+        "label": "媽媽授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "confirmationScope": "publication-authorization",
+        "contentReviewedBy": "姐姐",
+        "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+      },
+      "examples": [
+        {
+          "id": "g6-l2-06-example-01",
+          "text": "得知偏鄉學校缺乏圖書，許多民眾紛紛＿＿＿＿，捐款協助學校添購新書。",
+          "answerId": "g6-l2-06",
+          "answer": "慷慨解囊",
+          "source": "姐姐自編，非教育部原句",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          }
+        }
+      ]
+    }
+  ]
+}
