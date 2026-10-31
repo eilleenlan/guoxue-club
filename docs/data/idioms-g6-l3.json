@@ -1,0 +1,409 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L3",
+    "questionCount": 9,
+    "optionCount": 11,
+    "textbook": {
+      "seriesId": "g6-chinese-idioms",
+      "label": "115 六上國語重點綜合整理",
+      "volume": "甲本",
+      "volumeRule": {
+        "oddLessons": "甲本",
+        "evenLessons": "乙本"
+      },
+      "note": "本課成語小站沒有新增成語；不收近反義詞"
+    }
+  },
+  "status": "approved",
+  "entries": [
+    {
+      "id": "g6-l3-01",
+      "term": "人云亦云",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "形容自我沒有獨立的見解，只會盲目跟從他人的意見。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-01-example-01",
+          "text": "班上同學都說新來的轉學生很難相處，小傑明明還沒和他說過話，就跟著批評，這種＿＿＿＿的態度實在不公平。",
+          "answerId": "g6-l3-01",
+          "answer": "人云亦云",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-02",
+      "term": "拾人牙慧",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "比喻蹈襲他人的言論或主張。貶義。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-02-example-01",
+          "text": "這篇心得報告幾乎照搬別人的評論，連主要觀點都沒有改變，根本只是＿＿＿＿，缺乏自己的思考。",
+          "answerId": "g6-l3-02",
+          "answer": "拾人牙慧",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-03",
+      "term": "不辨菽麥",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "菽，豆子。指無法分別豆子與麥子。形容人愚昧無知、缺乏常識。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-03-example-01",
+          "text": "他平時只顧著埋頭讀書，對生活中的基本常識卻一竅不通，常被朋友笑說是個＿＿＿＿的書呆子。",
+          "answerId": "g6-l3-03",
+          "answer": "不辨菽麥",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-04",
+      "term": "不念舊惡",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "不記以往的過錯嫌隙。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-04-example-01",
+          "text": "小宇以前曾經嘲笑過阿哲，但當小宇遇到困難時，阿哲仍主動伸出援手，展現出＿＿＿＿的胸襟。",
+          "answerId": "g6-l3-04",
+          "answer": "不念舊惡",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-05",
+      "term": "喜新厭舊",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "喜歡新的，厭棄舊的。多指對愛情不專一。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-05-example-01",
+          "text": "弟弟每次得到新玩具，就把原本喜歡的玩具丟在一旁，這種＿＿＿＿的習慣，讓媽媽忍不住提醒他要珍惜物品。",
+          "answerId": "g6-l3-05",
+          "answer": "喜新厭舊",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-06",
+      "term": "夕惕若厲",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "終日戒懼謹慎，如處憂危之地，不敢稍加懈怠。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-06-example-01",
+          "text": "面對攸關全村安全的防洪工程，工程師每天反覆檢查施工細節，始終＿＿＿＿，不敢有絲毫疏忽。",
+          "answerId": "g6-l3-06",
+          "answer": "夕惕若厲",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-07",
+      "term": "苦口婆心",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語加油站",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "形容以懇切真摯的態度，竭力勸告他人。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-07-example-01",
+          "text": "為了讓孩子了解沉迷網路遊戲的影響，爸爸＿＿＿＿地勸說，希望他能調整作息。",
+          "answerId": "g6-l3-07",
+          "answer": "苦口婆心",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-08",
+      "term": "家徒四壁",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語加油站",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "形容家境極為貧困。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-08-example-01",
+          "text": "這戶人家生活十分困苦，屋裡除了幾張破舊的椅子，幾乎沒有其他家具，可說是＿＿＿＿。",
+          "answerId": "g6-l3-08",
+          "answer": "家徒四壁",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-09",
+      "term": "千錘百鍊",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語加油站",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "鐵經鍛鍊而成鋼的過程。比喻文章多次潤飾，人生歷經磨鍊。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-09-example-01",
+          "text": "這篇演講稿經過老師與學生反覆討論、修改，歷經＿＿＿＿，終於成為一篇動人的作品。",
+          "answerId": "g6-l3-09",
+          "answer": "千錘百鍊",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-10",
+      "term": "率由舊章",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語加油站",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "指一切遵循舊規。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-10-example-01",
+          "text": "學校準備更新圖書館的借閱制度，但管理員堅持＿＿＿＿，認為所有流程都應照過去的規定辦理。",
+          "answerId": "g6-l3-10",
+          "answer": "率由舊章",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l3-11",
+      "term": "心不在焉",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L3",
+      "textbookSource": "成語加油站",
+      "textbookVolume": "甲本",
+      "textbookSeriesId": "g6-chinese-idioms",
+      "definition": "比喻心思不集中。",
+      "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已確認並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-10-31",
+        "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+      },
+      "examples": [
+        {
+          "id": "g6-l3-11-example-01",
+          "text": "小恩上課時一直想著放學後的球賽，連老師叫他回答問題都沒聽見，顯得＿＿＿＿。",
+          "answerId": "g6-l3-11",
+          "answer": "心不在焉",
+          "source": "使用者提供的L3情境句試稿",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          }
+        }
+      ]
+    }
+  ]
+}

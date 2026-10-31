@@ -16,6 +16,14 @@
       "number": 2,
       "status": "published",
       "href": "./idioms-g6-l2.html"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L3",
+      "number": 3,
+      "status": "published",
+      "href": "./idioms-g6-l3.html"
     }
   ]
 }
