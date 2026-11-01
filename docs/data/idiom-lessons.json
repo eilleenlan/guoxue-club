@@ -54,6 +54,24 @@
       "status": "published",
       "href": "./idioms-g6-l6.html",
       "bank": "./data/idioms-g6-l6.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L1",
+      "number": 1,
+      "status": "published",
+      "href": "./idioms-g5-l1.html",
+      "bank": "./data/idioms-g5-l1.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L2",
+      "number": 2,
+      "status": "published",
+      "href": "./idioms-g5-l2.html",
+      "bank": "./data/idioms-g5-l2.json"
     }
   ]
 }

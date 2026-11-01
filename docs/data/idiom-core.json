@@ -612,6 +612,159 @@
         "status": "pending",
         "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
       }
+    },
+    {
+      "idiomId": "idiom-000069",
+      "term": "大聲疾呼",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000070",
+      "term": "死灰復燃",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000071",
+      "term": "碩果僅存",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000072",
+      "term": "集思廣益",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000073",
+      "term": "寄人籬下",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000074",
+      "term": "痛心泣血",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000075",
+      "term": "喜怒哀樂",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000076",
+      "term": "縱橫馳騁",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000077",
+      "term": "飛來橫禍",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000078",
+      "term": "藏汙納垢",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000079",
+      "term": "斷垣殘壁",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000080",
+      "term": "德高望重",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000081",
+      "term": "微乎其微",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000082",
+      "term": "哀鴻遍野",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000083",
+      "term": "抱殘守缺",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000084",
+      "term": "同流合汙",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000085",
+      "term": "當機立斷",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "本次僅核准教材釋義，未確認為跨教材共用基本釋義。"
+      }
     }
   ]
 }

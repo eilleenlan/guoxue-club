@@ -1631,6 +1631,458 @@
           ]
         }
       ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L1",
+      "legacyBankPath": "./data/idioms-g5-l1.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次提供並核准的115學年度五年級康軒教材與情境題",
+        "publicationAuthorization": {
+          "status": "authorized",
+          "authorizedBy": "使用者",
+          "source": "115 G5 L1～L2正式發布施工單；原內容核准紀錄保留"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度五年級國語教材",
+          "volume": null
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000069",
+          "legacyEntryId": "g5-l1-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "指大聲而急促的呼喊。後也用來比喻大力的提倡、號召。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000069"
+          ]
+        },
+        {
+          "idiomId": "idiom-000070",
+          "legacyEntryId": "g5-l1-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "A）已經熄滅的灰燼，又重新燃燒起來。B）比喻已經平息的事情，又重新活動起來。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000070"
+          ]
+        },
+        {
+          "idiomId": "idiom-000071",
+          "legacyEntryId": "g5-l1-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "沒被摘食而留下來的大果實。比喻經過世事汰換而極少數留存的可貴人物或成果。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000071"
+          ]
+        },
+        {
+          "idiomId": "idiom-000072",
+          "legacyEntryId": "g5-l1-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "集結眾人的智慧，廣泛吸收有益的意見。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000072"
+          ]
+        },
+        {
+          "idiomId": "idiom-000073",
+          "legacyEntryId": "g5-l1-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "A）寄居他人屋下生活。比喻依附他人，而不能自立。B）比喻文章著述因襲他人，而不能自創一格。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000073"
+          ]
+        },
+        {
+          "idiomId": "idiom-000009",
+          "legacyEntryId": "g5-l1-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L1",
+          "textbookDefinition": "甘願奔投至烈火沸水當中。比喻奮不顧身，不避艱險。",
+          "definitionSource": "使用者提供的115學年度G5康軒L1教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000074"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L2",
+      "legacyBankPath": "./data/idioms-g5-l2.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次提供並核准的115學年度五年級康軒教材與情境題",
+        "publicationAuthorization": {
+          "status": "authorized",
+          "authorizedBy": "使用者",
+          "source": "115 G5 L1～L2正式發布施工單；原內容核准紀錄保留"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 10,
+        "optionCount": 12,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度五年級國語教材",
+          "volume": null
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000074",
+          "legacyEntryId": "g5-l2-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "比喻悲痛至極。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000075"
+          ]
+        },
+        {
+          "idiomId": "idiom-000075",
+          "legacyEntryId": "g5-l2-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "人的各種情緒。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000076"
+          ]
+        },
+        {
+          "idiomId": "idiom-000076",
+          "legacyEntryId": "g5-l2-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "四處奔馳，毫無阻礙。多指作戰英勇無敵。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000077"
+          ]
+        },
+        {
+          "idiomId": "idiom-000077",
+          "legacyEntryId": "g5-l2-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "指突然降臨、意想不到的意外災禍。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000078"
+          ]
+        },
+        {
+          "idiomId": "idiom-000078",
+          "legacyEntryId": "g5-l2-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "A）隱藏塵垢，聚集汙物。B）比喻包藏壞人壞事。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000079"
+          ]
+        },
+        {
+          "idiomId": "idiom-000079",
+          "legacyEntryId": "g5-l2-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "毀壞倒塌的牆。形容建築物倒塌殘破的景象。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000080"
+          ]
+        },
+        {
+          "idiomId": "idiom-000080",
+          "legacyEntryId": "g5-l2-07",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "形容人品德高尚，極有聲望。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000081"
+          ]
+        },
+        {
+          "idiomId": "idiom-000081",
+          "legacyEntryId": "g5-l2-08",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "形容事物極其細小或精微。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000082"
+          ]
+        },
+        {
+          "idiomId": "idiom-000082",
+          "legacyEntryId": "g5-l2-09",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "找不到棲身之所的鴻雁，悲傷哀痛的鳴叫。後用以比喻到處都是流離失所的難民。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000083"
+          ]
+        },
+        {
+          "idiomId": "idiom-000083",
+          "legacyEntryId": "g5-l2-10",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "固守舊有殘缺的經文不放。後用以比喻固守舊有事物或思想，而不知改進變通。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000084"
+          ]
+        },
+        {
+          "idiomId": "idiom-000084",
+          "legacyEntryId": "g5-l2-11",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "隨世俗浮沉。後多指跟壞人一起做壞事。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000085"
+          ]
+        },
+        {
+          "idiomId": "idiom-000085",
+          "legacyEntryId": "g5-l2-12",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L2",
+          "textbookDefinition": "當下立刻作出決斷，毫不遲疑。",
+          "definitionSource": "使用者提供的115學年度G5康軒L2教材釋義",
+          "textbookSource": "乙本生字延伸",
+          "textbookVolume": "乙本",
+          "review": {
+            "status": "approved",
+            "label": "媽媽核准內容；本機候選待發布驗收",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "confirmationScope": "content-approval",
+            "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
+          },
+          "questionIds": [
+            "question-000086"
+          ]
+        }
+      ]
     }
   ]
 }
