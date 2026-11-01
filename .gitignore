@@ -64,3 +64,9 @@
 /test/fixtures/*
 !/test/fixtures/l456-supplied-rows.json
 !/scripts/l456-release-browser.mjs
+
+!/docs/idiom-library.mjs
+!/docs/data/idiom-core.json
+!/docs/data/idiom-questions.json
+!/docs/data/idiom-curriculum.json
+!/docs/data/idiom-legacy-map.json

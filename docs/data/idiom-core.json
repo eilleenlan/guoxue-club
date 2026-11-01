@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "idioms": [
+    {
+      "idiomId": "idiom-000001",
+      "term": "弄巧成拙",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000002",
+      "term": "小心翼翼",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000003",
+      "term": "搖頭晃腦",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000004",
+      "term": "勉為其難",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000005",
+      "term": "東轉西晃",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000006",
+      "term": "持之以恆",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000007",
+      "term": "含血噴人",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000008",
+      "term": "班門弄斧",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000009",
+      "term": "赴湯蹈火",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000010",
+      "term": "不翼而飛",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000011",
+      "term": "儲精蓄銳",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000012",
+      "term": "情真意摯",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000013",
+      "term": "根深蒂固",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000014",
+      "term": "執迷不悟",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000015",
+      "term": "百口莫辯",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000016",
+      "term": "民胞物與",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000017",
+      "term": "憤世嫉俗",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000018",
+      "term": "慷慨解囊",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000019",
+      "term": "人云亦云",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000020",
+      "term": "拾人牙慧",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000021",
+      "term": "不辨菽麥",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000022",
+      "term": "不念舊惡",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000023",
+      "term": "喜新厭舊",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000024",
+      "term": "夕惕若厲",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000025",
+      "term": "苦口婆心",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000026",
+      "term": "家徒四壁",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000027",
+      "term": "千錘百鍊",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000028",
+      "term": "率由舊章",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000029",
+      "term": "心不在焉",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000030",
+      "term": "探奧索隱",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000031",
+      "term": "迫不及待",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000032",
+      "term": "體無完膚",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000033",
+      "term": "垂頭喪氣",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000034",
+      "term": "迫在眉睫",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000035",
+      "term": "獨霸一方",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000036",
+      "term": "切膚之痛",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000037",
+      "term": "玉液瓊漿",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000038",
+      "term": "無可奈何",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000039",
+      "term": "橫行霸道",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000040",
+      "term": "垂涎三尺",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000041",
+      "term": "千叮萬囑",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000042",
+      "term": "龍鳳呈祥",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000043",
+      "term": "稀奇古怪",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000044",
+      "term": "濃蔭蔽空",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000045",
+      "term": "穩如泰山",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000046",
+      "term": "初出茅廬",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000047",
+      "term": "正襟危坐",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000048",
+      "term": "因材施教",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000049",
+      "term": "一手遮天",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000050",
+      "term": "腳踏實地",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000051",
+      "term": "捉襟見肘",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000052",
+      "term": "當仁不讓",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000053",
+      "term": "心浮氣躁",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000054",
+      "term": "沙裡淘金",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000055",
+      "term": "十拿九穩",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000056",
+      "term": "坦腹東床",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000057",
+      "term": "窘態畢露",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000058",
+      "term": "物競天擇",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000059",
+      "term": "一哄而散",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000060",
+      "term": "魑魅魍魎",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000061",
+      "term": "憑空捏造",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000062",
+      "term": "褒善貶惡",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000063",
+      "term": "李代桃僵",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000064",
+      "term": "醜態百出",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000065",
+      "term": "冷嘲熱諷",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000066",
+      "term": "侃侃而談",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000067",
+      "term": "判若兩人",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    },
+    {
+      "idiomId": "idiom-000068",
+      "term": "不屑一顧",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "現有資料僅確認教材／編修釋義，尚未確認為跨教材共用基本釋義；原文保留於教材對應。"
+      }
+    }
+  ]
+}

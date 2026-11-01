@@ -1,0 +1,1636 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L1",
+      "legacyBankPath": "./data/idioms-g6-l1.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved"
+      },
+      "lessonMetadata": {
+        "questionCount": 10,
+        "optionCount": 12
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000001",
+          "legacyEntryId": "g6-l1-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "本想賣弄才能、聰明，卻反而做了蠢事。比喻枉費心機。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000001"
+          ]
+        },
+        {
+          "idiomId": "idiom-000002",
+          "legacyEntryId": "g6-l1-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "形容舉止十分謹慎，不敢懈怠疏忽。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000002"
+          ]
+        },
+        {
+          "idiomId": "idiom-000003",
+          "legacyEntryId": "g6-l1-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "頭搖來搖去。形容自以為是或自得其樂。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000003"
+          ]
+        },
+        {
+          "idiomId": "idiom-000004",
+          "legacyEntryId": "g6-l1-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "雖然在事實上有所困難，但仍努力去做。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000004"
+          ]
+        },
+        {
+          "idiomId": "idiom-000005",
+          "legacyEntryId": "g6-l1-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "形容人或動物在各處走來走去、四處遊蕩，沒有特定的目的地。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000005"
+          ]
+        },
+        {
+          "idiomId": "idiom-000006",
+          "legacyEntryId": "g6-l1-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "有恆心地堅持到底。",
+          "textbookSource": "大補帖",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000006"
+          ]
+        },
+        {
+          "idiomId": "idiom-000007",
+          "legacyEntryId": "g6-l1-07",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻捏造事實，誣賴他人。",
+          "textbookSource": "加油站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000007"
+          ]
+        },
+        {
+          "idiomId": "idiom-000008",
+          "legacyEntryId": "g6-l1-08",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻在行家面前賣弄本事，不自量力。",
+          "textbookSource": "加油站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000008"
+          ]
+        },
+        {
+          "idiomId": "idiom-000009",
+          "legacyEntryId": "g6-l1-09",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻奮不顧身，不避艱險。",
+          "textbookSource": "加油站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000009"
+          ]
+        },
+        {
+          "idiomId": "idiom-000010",
+          "legacyEntryId": "g6-l1-10",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻物品無故遺失。",
+          "textbookSource": "加油站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000010"
+          ]
+        },
+        {
+          "idiomId": "idiom-000011",
+          "legacyEntryId": "g6-l1-11",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "保養精神，積蓄力量。",
+          "textbookSource": "加油站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000011"
+          ]
+        },
+        {
+          "idiomId": "idiom-000012",
+          "legacyEntryId": "g6-l1-12",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L1",
+          "textbookDefinition": "情感真切、心意誠摯。",
+          "textbookSource": "成語小站",
+          "definitionSource": "依媽媽提供的六上國語整理資料（本次文字交付）",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-30",
+            "source": "G6 L1成語練習正式發布派工單：全部12題及功能最終驗收通過"
+          },
+          "questionIds": [
+            "question-000012"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L2",
+      "legacyBankPath": "./data/idioms-g6-l2.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "authorizationType": "publication-authorization"
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "seriesId": "g6-chinese-idioms",
+          "label": "媽媽提供的六上國語同套教材",
+          "volume": "乙本",
+          "section": "成語小站",
+          "volumeRule": {
+            "oddLessons": "甲本",
+            "evenLessons": "乙本"
+          },
+          "sharedWith": "G6 L1；甲乙本為同套教材分冊，不是兩套來源"
+        },
+        "selectionType": "略讀選課"
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000013",
+          "legacyEntryId": "g6-l2-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "比喻根基堅固，不可動搖。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000013"
+          ]
+        },
+        {
+          "idiomId": "idiom-000014",
+          "legacyEntryId": "g6-l2-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "堅持錯誤的觀念而不醒悟。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000014"
+          ]
+        },
+        {
+          "idiomId": "idiom-000015",
+          "legacyEntryId": "g6-l2-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "比喻冤屈無法申訴辯白。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000015"
+          ]
+        },
+        {
+          "idiomId": "idiom-000016",
+          "legacyEntryId": "g6-l2-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "視人民如同胞，視動物如同類。比喻博愛。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000016"
+          ]
+        },
+        {
+          "idiomId": "idiom-000017",
+          "legacyEntryId": "g6-l2-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "形容對腐敗的社會現狀及庸俗世態的痛恨。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000017"
+          ]
+        },
+        {
+          "idiomId": "idiom-000018",
+          "legacyEntryId": "g6-l2-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L2",
+          "textbookDefinition": "指輕財仗義，毫不吝嗇地捐助錢財給人。",
+          "textbookSource": "成語小站",
+          "textbookVolume": "乙本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的六上國語同套教材整理資料：乙本成語小站",
+          "editorReview": {
+            "status": "sister-reviewed",
+            "label": "姐姐已審稿",
+            "reviewedBy": "姐姐",
+            "source": "使用者本次明確告知六題已經姐姐內容初審"
+          },
+          "review": {
+            "status": "approved",
+            "label": "媽媽授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "confirmationScope": "publication-authorization",
+            "contentReviewedBy": "姐姐",
+            "source": "媽媽授權發布已由姐姐內容審稿的六題候選題庫；不是媽媽逐題審稿"
+          },
+          "questionIds": [
+            "question-000018"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L3",
+      "legacyBankPath": "./data/idioms-g6-l3.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved"
+      },
+      "lessonMetadata": {
+        "questionCount": 9,
+        "optionCount": 11,
+        "textbook": {
+          "seriesId": "g6-chinese-idioms",
+          "label": "115 六上國語重點綜合整理",
+          "volume": "甲本",
+          "volumeRule": {
+            "oddLessons": "甲本",
+            "evenLessons": "乙本"
+          },
+          "note": "本課成語小站沒有新增成語；不收近反義詞"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000019",
+          "legacyEntryId": "g6-l3-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "形容自我沒有獨立的見解，只會盲目跟從他人的意見。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000019"
+          ]
+        },
+        {
+          "idiomId": "idiom-000020",
+          "legacyEntryId": "g6-l3-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻蹈襲他人的言論或主張。貶義。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000020"
+          ]
+        },
+        {
+          "idiomId": "idiom-000021",
+          "legacyEntryId": "g6-l3-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "菽，豆子。指無法分別豆子與麥子。形容人愚昧無知、缺乏常識。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000021"
+          ]
+        },
+        {
+          "idiomId": "idiom-000022",
+          "legacyEntryId": "g6-l3-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "不記以往的過錯嫌隙。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000022"
+          ]
+        },
+        {
+          "idiomId": "idiom-000023",
+          "legacyEntryId": "g6-l3-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "喜歡新的，厭棄舊的。多指對愛情不專一。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000023"
+          ]
+        },
+        {
+          "idiomId": "idiom-000024",
+          "legacyEntryId": "g6-l3-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "終日戒懼謹慎，如處憂危之地，不敢稍加懈怠。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000024"
+          ]
+        },
+        {
+          "idiomId": "idiom-000025",
+          "legacyEntryId": "g6-l3-07",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "形容以懇切真摯的態度，竭力勸告他人。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000025"
+          ]
+        },
+        {
+          "idiomId": "idiom-000026",
+          "legacyEntryId": "g6-l3-08",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "形容家境極為貧困。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000026"
+          ]
+        },
+        {
+          "idiomId": "idiom-000027",
+          "legacyEntryId": "g6-l3-09",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "鐵經鍛鍊而成鋼的過程。比喻文章多次潤飾，人生歷經磨鍊。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000027"
+          ]
+        },
+        {
+          "idiomId": "idiom-000028",
+          "legacyEntryId": "g6-l3-10",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "指一切遵循舊規。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000028"
+          ]
+        },
+        {
+          "idiomId": "idiom-000029",
+          "legacyEntryId": "g6-l3-11",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻心思不集中。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": "甲本",
+          "textbookSeriesId": "g6-chinese-idioms",
+          "definitionSource": "媽媽提供的《115 六上國語重點綜合整理》L3 成語整理頁",
+          "review": {
+            "status": "approved",
+            "label": "媽媽已確認並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-10-31",
+            "source": "媽媽本次明確確認11個成語、教材釋義、來源分類及情境句，含不辨菽麥修訂句"
+          },
+          "questionIds": [
+            "question-000029"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L4",
+      "legacyBankPath": "./data/idioms-g6-l4.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved"
+      },
+      "lessonMetadata": {
+        "questionCount": 10,
+        "optionCount": 12,
+        "textbook": {
+          "seriesId": "g6-chinese-idioms",
+          "label": "媽媽提供的115六上國語成語整理資料",
+          "volume": null,
+          "note": "分冊未確認，不推測甲本乙本"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000030",
+          "legacyEntryId": "g6-l4-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "探索玄妙、隱微的事理。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000030"
+          ]
+        },
+        {
+          "idiomId": "idiom-000031",
+          "legacyEntryId": "g6-l4-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "急迫得不能再等待，形容心情十分急切。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000031"
+          ]
+        },
+        {
+          "idiomId": "idiom-000032",
+          "legacyEntryId": "g6-l4-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "全身傷痕累累；也比喻被批評、駁斥得一無是處。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000032"
+          ]
+        },
+        {
+          "idiomId": "idiom-000033",
+          "legacyEntryId": "g6-l4-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容失意、沮喪的樣子。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000033"
+          ]
+        },
+        {
+          "idiomId": "idiom-000034",
+          "legacyEntryId": "g6-l4-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容事情十分急迫，已到了眼前。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000034"
+          ]
+        },
+        {
+          "idiomId": "idiom-000035",
+          "legacyEntryId": "g6-l4-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "在某個地區或領域稱霸。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000035"
+          ]
+        },
+        {
+          "idiomId": "idiom-000036",
+          "legacyEntryId": "g6-l4-07",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "比喻極為深刻、難忘的感受或經驗。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000036"
+          ]
+        },
+        {
+          "idiomId": "idiom-000037",
+          "legacyEntryId": "g6-l4-08",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容香醇美好的酒。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000037"
+          ]
+        },
+        {
+          "idiomId": "idiom-000038",
+          "legacyEntryId": "g6-l4-09",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "毫無辦法，無法可想。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000038"
+          ]
+        },
+        {
+          "idiomId": "idiom-000039",
+          "legacyEntryId": "g6-l4-10",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容凶橫、不講道理，任意欺壓他人。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000039"
+          ]
+        },
+        {
+          "idiomId": "idiom-000040",
+          "legacyEntryId": "g6-l4-11",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容極想得到別人的東西。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000040"
+          ]
+        },
+        {
+          "idiomId": "idiom-000041",
+          "legacyEntryId": "g6-l4-12",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L4",
+          "textbookDefinition": "一再叮嚀、囑咐。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "sourceNotes": "教材曾標甲本，與課次慣例有出入；僅保留中性分類成語小站，分冊待確認。",
+          "questionIds": [
+            "question-000041"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L5",
+      "legacyBankPath": "./data/idioms-g6-l5.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved"
+      },
+      "lessonMetadata": {
+        "questionCount": 12,
+        "optionCount": 14,
+        "textbook": {
+          "seriesId": "g6-chinese-idioms",
+          "label": "媽媽提供的115六上國語成語整理資料",
+          "volume": null,
+          "note": "分冊未確認，不推測甲本乙本"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000042",
+          "legacyEntryId": "g6-l5-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "富貴吉祥的徵兆；吉慶之事。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000042"
+          ]
+        },
+        {
+          "idiomId": "idiom-000043",
+          "legacyEntryId": "g6-l5-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "少見而怪異。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000043"
+          ]
+        },
+        {
+          "idiomId": "idiom-000044",
+          "legacyEntryId": "g6-l5-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "枝葉稠密，遮蔽天空。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000044"
+          ]
+        },
+        {
+          "idiomId": "idiom-000045",
+          "legacyEntryId": "g6-l5-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "穩定牢固如泰山一般，不可動搖。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000045"
+          ]
+        },
+        {
+          "idiomId": "idiom-000046",
+          "legacyEntryId": "g6-l5-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "初次離開隱居的茅屋。後用比喻初入社會，缺乏歷練。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000046"
+          ]
+        },
+        {
+          "idiomId": "idiom-000047",
+          "legacyEntryId": "g6-l5-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "整理服裝儀容，端正坐好。形容莊重誠敬的樣子。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000047"
+          ]
+        },
+        {
+          "idiomId": "idiom-000048",
+          "legacyEntryId": "g6-l5-07",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "依照受教者的不同資質，給予不同的教導。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000048"
+          ]
+        },
+        {
+          "idiomId": "idiom-000049",
+          "legacyEntryId": "g6-l5-08",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "比喻玩弄權術，瞞上欺下。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000049"
+          ]
+        },
+        {
+          "idiomId": "idiom-000050",
+          "legacyEntryId": "g6-l5-09",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "比喻做事切實穩健。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000050"
+          ]
+        },
+        {
+          "idiomId": "idiom-000051",
+          "legacyEntryId": "g6-l5-10",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "形容衣衫破敗、生活貧困；也比喻短缺不足，窮於應付。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000051"
+          ]
+        },
+        {
+          "idiomId": "idiom-000052",
+          "legacyEntryId": "g6-l5-11",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "遇到應該做的事，主動承擔而不推讓。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000052"
+          ]
+        },
+        {
+          "idiomId": "idiom-000053",
+          "legacyEntryId": "g6-l5-12",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "情緒不穩，沉不住氣。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000053"
+          ]
+        },
+        {
+          "idiomId": "idiom-000054",
+          "legacyEntryId": "g6-l5-13",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "從沙礫中淘取黃金。亦比喻從大量材料中擷取精華。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "sourceNotes": "本次明確採成語小站「從大量材料擷取精華」釋義；教材另一處不同說明留待人工核對。",
+          "questionIds": [
+            "question-000054"
+          ]
+        },
+        {
+          "idiomId": "idiom-000055",
+          "legacyEntryId": "g6-l5-14",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L5",
+          "textbookDefinition": "比喻很有把握。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000055"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCode": "L6",
+      "legacyBankPath": "./data/idioms-g6-l6.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved"
+      },
+      "lessonMetadata": {
+        "questionCount": 11,
+        "optionCount": 13,
+        "textbook": {
+          "seriesId": "g6-chinese-idioms",
+          "label": "媽媽提供的115六上國語成語整理資料",
+          "volume": null,
+          "note": "分冊未確認，不推測甲本乙本"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000056",
+          "legacyEntryId": "g6-l6-01",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "源自王羲之坦腹東床的典故，後用以稱讚佳婿，也作為女婿的代稱。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "本次媽媽核准的編修版釋義，非教材逐字原文",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "definitionRevision": {
+            "kind": "authorized-edit",
+            "originalText": "指女婿，也用來稱呼女婿。",
+            "note": "原情境句維持不變"
+          },
+          "questionIds": [
+            "question-000056"
+          ]
+        },
+        {
+          "idiomId": "idiom-000057",
+          "legacyEntryId": "g6-l6-02",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "尷尬、難堪的樣子完全顯露出來。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000057"
+          ]
+        },
+        {
+          "idiomId": "idiom-000058",
+          "legacyEntryId": "g6-l6-03",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "生物相互競爭，適應環境者得以生存。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000058"
+          ]
+        },
+        {
+          "idiomId": "idiom-000059",
+          "legacyEntryId": "g6-l6-04",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容人群在吵鬧中各自散去。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000059"
+          ]
+        },
+        {
+          "idiomId": "idiom-000060",
+          "legacyEntryId": "g6-l6-05",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "傳說中的各種鬼怪，也比喻各種壞人。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000060"
+          ]
+        },
+        {
+          "idiomId": "idiom-000061",
+          "legacyEntryId": "g6-l6-06",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "毫無根據地擅自編造。",
+          "textbookSource": "成語大補帖",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000061"
+          ]
+        },
+        {
+          "idiomId": "idiom-000062",
+          "legacyEntryId": "g6-l6-07",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "表揚好的，批評壞的。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000062"
+          ]
+        },
+        {
+          "idiomId": "idiom-000063",
+          "legacyEntryId": "g6-l6-08",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "比喻以此代彼，或代人受過。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000063"
+          ]
+        },
+        {
+          "idiomId": "idiom-000064",
+          "legacyEntryId": "g6-l6-09",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容出現種種不雅、有失體面的行為。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000064"
+          ]
+        },
+        {
+          "idiomId": "idiom-000065",
+          "legacyEntryId": "g6-l6-10",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "以尖酸刻薄的言語嘲笑、諷刺他人。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000065"
+          ]
+        },
+        {
+          "idiomId": "idiom-000066",
+          "legacyEntryId": "g6-l6-11",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容說話從容不迫。",
+          "textbookSource": "成語加油站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000066"
+          ]
+        },
+        {
+          "idiomId": "idiom-000067",
+          "legacyEntryId": "g6-l6-12",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容同一個人前後的行為、態度截然不同。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000067"
+          ]
+        },
+        {
+          "idiomId": "idiom-000068",
+          "legacyEntryId": "g6-l6-13",
+          "academicYear": 115,
+          "grade": 6,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容輕視、瞧不起。",
+          "textbookSource": "成語小站",
+          "textbookVolume": null,
+          "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          },
+          "questionIds": [
+            "question-000068"
+          ]
+        }
+      ]
+    }
+  ]
+}
