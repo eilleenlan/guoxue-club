@@ -111,3 +111,7 @@
 !/test/fixtures/g4-approved.json
 
 !/scripts/g4-candidate-browser.mjs
+
+!/test/g5-l8-refinement.test.mjs
+
+!/scripts/g5-l8-refinement-browser.mjs

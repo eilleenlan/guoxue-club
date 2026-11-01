@@ -332,7 +332,8 @@
         "L4",
         "L5",
         "L8"
-      ]
+      ],
+      "defaultSelected": true
     }
   ]
 }

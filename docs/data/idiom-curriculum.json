@@ -3255,7 +3255,8 @@
         "textbook": {
           "publisher": "康軒",
           "volume": "五上",
-          "title": "最勇敢的女孩"
+          "title": "最勇敢的女孩",
+          "supplementaryMaterials": []
         }
       },
       "entries": [
@@ -3273,7 +3274,7 @@
             "confirmedBy": "媽媽",
             "source": "本輪L8釋義人工核對通過，無須修改"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3293,6 +3294,15 @@
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
             }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
+            }
           ]
         },
         {
@@ -3309,7 +3319,7 @@
             "confirmedBy": "媽媽",
             "source": "本輪L8釋義人工核對通過，無須修改"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3329,6 +3339,15 @@
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
             }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
+            }
           ]
         },
         {
@@ -3337,15 +3356,16 @@
           "academicYear": 115,
           "grade": 5,
           "lessonCode": "L8",
-          "textbookDefinition": "搶著向前，唯恐落後。",
+          "textbookDefinition": "指競相爭先，唯恐落後。",
           "definitionKind": "textbook-transcription",
-          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionSource": "媽媽本輪G5 L8正式教材逐字交接資料（課本生字語詞頁P38～39）",
           "definitionReview": {
             "status": "approved",
             "confirmedBy": "媽媽",
-            "source": "本輪L8釋義人工核對通過，無須修改"
+            "confirmedAt": "2026-11-02",
+            "source": "G5 L8＋課文名稱優化施工單：六條正式核准教材釋義"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3365,6 +3385,27 @@
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
             }
+          ],
+          "definitionHistory": [
+            {
+              "definition": "搶著向前，唯恐落後。",
+              "kind": "textbook-transcription",
+              "source": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+              "review": {
+                "status": "approved",
+                "confirmedBy": "媽媽",
+                "source": "本輪L8釋義人工核對通過，無須修改"
+              }
+            }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
+            }
           ]
         },
         {
@@ -3381,7 +3422,7 @@
             "confirmedBy": "媽媽",
             "source": "本輪L8釋義人工核對通過，無須修改"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3401,6 +3442,15 @@
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
             }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
+            }
           ]
         },
         {
@@ -3409,15 +3459,16 @@
           "academicYear": 115,
           "grade": 5,
           "lessonCode": "L8",
-          "textbookDefinition": "指大螞蟻妄圖以自身之力去搖動大樹，比喻不自量力。",
+          "textbookDefinition": "指大螞蟻妄圖以自己之力去搖動大樹。比喻不自量力。",
           "definitionKind": "textbook-transcription",
-          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionSource": "媽媽本輪G5 L8正式教材逐字交接資料（課本生字語詞頁P38～39）",
           "definitionReview": {
             "status": "approved",
             "confirmedBy": "媽媽",
-            "source": "本輪L8釋義人工核對通過，無須修改"
+            "confirmedAt": "2026-11-02",
+            "source": "G5 L8＋課文名稱優化施工單：六條正式核准教材釋義"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3437,6 +3488,27 @@
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
             }
+          ],
+          "definitionHistory": [
+            {
+              "definition": "指大螞蟻妄圖以自身之力去搖動大樹，比喻不自量力。",
+              "kind": "textbook-transcription",
+              "source": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+              "review": {
+                "status": "approved",
+                "confirmedBy": "媽媽",
+                "source": "本輪L8釋義人工核對通過，無須修改"
+              }
+            }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
+            }
           ]
         },
         {
@@ -3445,15 +3517,16 @@
           "academicYear": 115,
           "grade": 5,
           "lessonCode": "L8",
-          "textbookDefinition": "凡事先下手取得先機，就有可能制伏對方。",
+          "textbookDefinition": "凡事先下手取得先機，才能制伏對方。",
           "definitionKind": "textbook-transcription",
-          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionSource": "媽媽本輪G5 L8正式教材逐字交接資料（課本生字語詞頁P38～39）",
           "definitionReview": {
             "status": "approved",
             "confirmedBy": "媽媽",
-            "source": "本輪L8釋義人工核對通過，無須修改"
+            "confirmedAt": "2026-11-02",
+            "source": "G5 L8＋課文名稱優化施工單：六條正式核准教材釋義"
           },
-          "textbookSource": "生字延伸成語",
+          "textbookSource": "媽媽提供的課本生字語詞頁 P38～39",
           "textbookVolume": null,
           "sourceNotes": [
             "原圖為康軒五上第八課；未推定甲乙分冊。"
@@ -3472,6 +3545,27 @@
             {
               "status": "transcribed",
               "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ],
+          "definitionHistory": [
+            {
+              "definition": "凡事先下手取得先機，就有可能制伏對方。",
+              "kind": "textbook-transcription",
+              "source": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+              "review": {
+                "status": "approved",
+                "confirmedBy": "媽媽",
+                "source": "本輪L8釋義人工核對通過，無須修改"
+              }
+            }
+          ],
+          "sourceHistory": [
+            {
+              "textbookSource": "生字延伸成語",
+              "textbookVolume": null,
+              "sourceNotes": [
+                "原圖為康軒五上第八課；未推定甲乙分冊。"
+              ]
             }
           ]
         }
