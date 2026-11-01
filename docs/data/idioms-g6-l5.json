@@ -1,0 +1,497 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "status": "approved",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L5",
+    "questionCount": 12,
+    "optionCount": 14,
+    "textbook": {
+      "seriesId": "g6-chinese-idioms",
+      "label": "媽媽提供的115六上國語成語整理資料",
+      "volume": null,
+      "note": "分冊未確認，不推測甲本乙本"
+    }
+  },
+  "entries": [
+    {
+      "id": "g6-l5-01",
+      "term": "龍鳳呈祥",
+      "definition": "富貴吉祥的徵兆；吉慶之事。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-01-example-01",
+          "text": "春節時，奶奶在窗戶貼上繪有龍與鳳的剪紙，象徵＿＿＿＿，希望新的一年充滿喜氣與好運。",
+          "answer": "龍鳳呈祥",
+          "answerId": "g6-l5-01",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-02",
+      "term": "稀奇古怪",
+      "definition": "少見而怪異。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-02-example-01",
+          "text": "科學展覽中有許多＿＿＿＿的發明，有的能自動摺衣服，有的甚至會替植物播放音樂。",
+          "answer": "稀奇古怪",
+          "answerId": "g6-l5-02",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-03",
+      "term": "濃蔭蔽空",
+      "definition": "枝葉稠密，遮蔽天空。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-03-example-01",
+          "text": "夏日午後，老榕樹枝葉茂密，＿＿＿＿，讓樹下的遊客感到十分涼爽。",
+          "answer": "濃蔭蔽空",
+          "answerId": "g6-l5-03",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-04",
+      "term": "穩如泰山",
+      "definition": "穩定牢固如泰山一般，不可動搖。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-04-example-01",
+          "text": "雖然比賽已進入最後一分鐘，守門員仍＿＿＿＿，冷靜地擋下對手的射門。",
+          "answer": "穩如泰山",
+          "answerId": "g6-l5-04",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-05",
+      "term": "初出茅廬",
+      "definition": "初次離開隱居的茅屋。後用比喻初入社會，缺乏歷練。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-05-example-01",
+          "text": "這位＿＿＿＿的年輕廚師雖然缺乏經驗，卻憑著創意獲得評審讚賞。",
+          "answer": "初出茅廬",
+          "answerId": "g6-l5-05",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-06",
+      "term": "正襟危坐",
+      "definition": "整理服裝儀容，端正坐好。形容莊重誠敬的樣子。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L5前六筆修正版釋義",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-06-example-01",
+          "text": "校長走進教室準備宣布重要消息，同學們立刻＿＿＿＿，專心聆聽。",
+          "answer": "正襟危坐",
+          "answerId": "g6-l5-06",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-07",
+      "term": "因材施教",
+      "definition": "依照受教者的不同資質，給予不同的教導。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-07-example-01",
+          "text": "老師發現每個學生的學習速度不同，便＿＿＿＿，為大家安排適合的練習。",
+          "answer": "因材施教",
+          "answerId": "g6-l5-07",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-08",
+      "term": "一手遮天",
+      "definition": "比喻玩弄權術，瞞上欺下。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-08-example-01",
+          "text": "那名主管企圖＿＿＿＿，隱瞞公司的違規行為，不讓其他人知道真相。",
+          "answer": "一手遮天",
+          "answerId": "g6-l5-08",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-09",
+      "term": "腳踏實地",
+      "definition": "比喻做事切實穩健。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-09-example-01",
+          "text": "姐姐沒有想著一步登天，而是每天認真練習，＿＿＿＿地朝目標前進。",
+          "answer": "腳踏實地",
+          "answerId": "g6-l5-09",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-10",
+      "term": "捉襟見肘",
+      "definition": "形容衣衫破敗、生活貧困；也比喻短缺不足，窮於應付。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-10-example-01",
+          "text": "活動經費突然減少，主辦單位支付場地費後，在其他開銷上已經＿＿＿＿，連基本材料都買不起。",
+          "answer": "捉襟見肘",
+          "answerId": "g6-l5-10",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-11",
+      "term": "當仁不讓",
+      "definition": "遇到應該做的事，主動承擔而不推讓。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-11-example-01",
+          "text": "看見有人在路邊昏倒，受過急救訓練的志工＿＿＿＿，立刻上前協助。",
+          "answer": "當仁不讓",
+          "answerId": "g6-l5-11",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-12",
+      "term": "心浮氣躁",
+      "definition": "情緒不穩，沉不住氣。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-12-example-01",
+          "text": "考試快到了，小杰卻一直擔心成績，讀書時＿＿＿＿，連簡單的題目都看不進去。",
+          "answer": "心浮氣躁",
+          "answerId": "g6-l5-12",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l5-13",
+      "term": "沙裡淘金",
+      "definition": "從沙礫中淘取黃金。亦比喻從大量材料中擷取精華。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-13-example-01",
+          "text": "為了找出適合比賽的作品，評審從數百份投稿中仔細挑選，宛如＿＿＿＿。",
+          "answer": "沙裡淘金",
+          "answerId": "g6-l5-13",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ],
+      "sourceNotes": "本次明確採成語小站「從大量材料擷取精華」釋義；教材另一處不同說明留待人工核對。"
+    },
+    {
+      "id": "g6-l5-14",
+      "term": "十拿九穩",
+      "definition": "比喻很有把握。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L5",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l5-14-example-01",
+          "text": "經過幾個月的充分準備，他對這次演講比賽充滿信心，認為獲獎已經＿＿＿＿。",
+          "answer": "十拿九穩",
+          "answerId": "g6-l5-14",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    }
+  ]
+}

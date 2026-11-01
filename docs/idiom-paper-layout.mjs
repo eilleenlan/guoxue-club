@@ -1,7 +1,8 @@
+import {formatIdiomScope} from './idiom-paper-scope.mjs';
 import {A4,wrapText} from './paper-layout.mjs';
 const margin=36,width=A4.width-72,bottom=790;
 const text=(s,x,y,size=14,bold=false)=>({type:'text',text:s,x,y,size,bold});
-function header(batch,kind){let y=62;const commands=[text('小小國學所｜成語練習卷'+(kind==='answers'?'・答案卷':''),margin,38,17,true)];for(const s of wrapText(batch.lessons.map(l=>`${l.academicYear} G${l.grade} ${l.code}`).join('、'),width,11,batch.measure)){commands.push(text(s,margin,y,11));y+=16;}return {commands,blocks:[],y};}
+function header(batch,kind){let y=62;const commands=[text('小小國學所｜成語練習卷'+(kind==='answers'?'・答案卷':''),margin,38,17,true)];for(const s of wrapText(formatIdiomScope(batch.lessons).join('\n'),width,11,batch.measure)){commands.push(text(s,margin,y,11));y+=16;}return {commands,blocks:[],y};}
 function questionLines(q,measure){const slot='（　　　　）',token='\uE000';return wrapText(`${q.number}. ${q.text.replace('＿＿＿＿',token)}`,width,15,(s,n)=>measure(s.replaceAll(token,slot),n)).map(s=>s.replaceAll(token,slot));}
 function questionPage(round,measure,lessons=[],total=1,showActual=false){const batch={lessons,measure},page=header(batch,'questions');let y=page.y;page.commands.push(text(`第 ${round.number} 回／共 ${total} 回${showActual?`｜本回 ${round.questions.length} 題`:""}`,margin,y+4,13,true));y+=24;page.commands.push(text('姓名：________________　日期：________________',margin,y,12));y+=22;page.commands.push(text('將成語選項編號填入空格；有未使用的選項時，不必填入。',margin,y,10));y+=24;const col=width/3;
  for(let i=0;i<round.options.length;i+=3){let rowHeight=0;for(let j=0;j<3&&i+j<round.options.length;j++){const o=round.options[i+j],lines=wrapText(`${o.number}. ${o.term}`,col-10,14,measure);lines.forEach((s,k)=>page.commands.push(text(s,margin+j*col,y+k*21,14)));rowHeight=Math.max(rowHeight,lines.length*21);}y+=rowHeight+3;}y+=12;

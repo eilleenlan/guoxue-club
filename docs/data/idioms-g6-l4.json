@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "status": "approved",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L4",
+    "questionCount": 10,
+    "optionCount": 12,
+    "textbook": {
+      "seriesId": "g6-chinese-idioms",
+      "label": "媽媽提供的115六上國語成語整理資料",
+      "volume": null,
+      "note": "分冊未確認，不推測甲本乙本"
+    }
+  },
+  "entries": [
+    {
+      "id": "g6-l4-01",
+      "term": "探奧索隱",
+      "definition": "探索玄妙、隱微的事理。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-01-example-01",
+          "text": "為了解開古代天文曆法中的謎團，研究團隊查閱大量文獻，不斷＿＿＿＿，希望找出其中隱藏的原理。",
+          "answer": "探奧索隱",
+          "answerId": "g6-l4-01",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-02",
+      "term": "迫不及待",
+      "definition": "急迫得不能再等待，形容心情十分急切。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-02-example-01",
+          "text": "期待已久的畢業旅行終於要出發了，同學們個個＿＿＿＿，恨不得立刻登上遊覽車。",
+          "answer": "迫不及待",
+          "answerId": "g6-l4-02",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-03",
+      "term": "體無完膚",
+      "definition": "全身傷痕累累；也比喻被批評、駁斥得一無是處。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-03-example-01",
+          "text": "這份企畫書的內容漏洞百出，在評審逐項提出問題後，被批評得＿＿＿＿，只好重新修改。",
+          "answer": "體無完膚",
+          "answerId": "g6-l4-03",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-04",
+      "term": "垂頭喪氣",
+      "definition": "形容失意、沮喪的樣子。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-04-example-01",
+          "text": "球隊在決賽最後一分鐘失去領先優勢，隊員們＿＿＿＿地走回休息區，久久說不出話。",
+          "answer": "垂頭喪氣",
+          "answerId": "g6-l4-04",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-05",
+      "term": "迫在眉睫",
+      "definition": "形容事情十分急迫，已到了眼前。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-05-example-01",
+          "text": "颱風即將登陸，河堤卻出現裂縫，河堤潰決的危機已經＿＿＿＿，必須立刻動工搶修。",
+          "answer": "迫在眉睫",
+          "answerId": "g6-l4-05",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-06",
+      "term": "獨霸一方",
+      "definition": "在某個地區或領域稱霸。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-06-example-01",
+          "text": "這支球隊連續多年奪得地區聯賽冠軍，實力遠超其他隊伍，幾乎＿＿＿＿。",
+          "answer": "獨霸一方",
+          "answerId": "g6-l4-06",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-07",
+      "term": "切膚之痛",
+      "definition": "比喻極為深刻、難忘的感受或經驗。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-07-example-01",
+          "text": "經歷家園遭洪水沖毀的＿＿＿＿後，他積極投入防災宣導，希望別人不再承受同樣的苦難。",
+          "answer": "切膚之痛",
+          "answerId": "g6-l4-07",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-08",
+      "term": "玉液瓊漿",
+      "definition": "形容香醇美好的酒。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-08-example-01",
+          "text": "宴席上，主人拿出珍藏多年的美酒款待賓客，大家稱讚這杯佳釀宛如＿＿＿＿。",
+          "answer": "玉液瓊漿",
+          "answerId": "g6-l4-08",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-09",
+      "term": "無可奈何",
+      "definition": "毫無辦法，無法可想。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-09-example-01",
+          "text": "暴雨讓山路完全中斷，大家試了幾條替代路線都無法通行，只能＿＿＿＿地等待道路搶通。",
+          "answer": "無可奈何",
+          "answerId": "g6-l4-09",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-10",
+      "term": "橫行霸道",
+      "definition": "形容凶橫、不講道理，任意欺壓他人。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-10-example-01",
+          "text": "那群人仗著人多勢眾，在市場裡＿＿＿＿，不但強占攤位，還威脅其他攤販。",
+          "answer": "橫行霸道",
+          "answerId": "g6-l4-10",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-11",
+      "term": "垂涎三尺",
+      "definition": "形容極想得到別人的東西。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-11-example-01",
+          "text": "看到同學收藏的限量模型，他＿＿＿＿，一直想著要是自己也能擁有就好了。",
+          "answer": "垂涎三尺",
+          "answerId": "g6-l4-11",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l4-12",
+      "term": "千叮萬囑",
+      "definition": "一再叮嚀、囑咐。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L4",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l4-12-example-01",
+          "text": "第一次獨自搭火車出遠門，媽媽在出發前＿＿＿＿，提醒我要保管好車票和隨身物品。",
+          "answer": "千叮萬囑",
+          "answerId": "g6-l4-12",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ],
+      "sourceNotes": "教材曾標甲本，與課次慣例有出入；僅保留中性分類成語小站，分冊待確認。"
+    }
+  ]
+}

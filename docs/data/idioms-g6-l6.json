@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "kind": "idiom-gap-fill",
+  "status": "approved",
+  "lesson": {
+    "academicYear": 115,
+    "grade": 6,
+    "code": "L6",
+    "questionCount": 11,
+    "optionCount": 13,
+    "textbook": {
+      "seriesId": "g6-chinese-idioms",
+      "label": "媽媽提供的115六上國語成語整理資料",
+      "volume": null,
+      "note": "分冊未確認，不推測甲本乙本"
+    }
+  },
+  "entries": [
+    {
+      "id": "g6-l6-01",
+      "term": "坦腹東床",
+      "definition": "源自王羲之坦腹東床的典故，後用以稱讚佳婿，也作為女婿的代稱。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "本次媽媽核准的編修版釋義，非教材逐字原文",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-01-example-01",
+          "text": "古代有位年輕人面對選婿的人仍自在地躺在床上，後來竟成為佳婿，「＿＿＿＿」也因此成為女婿的代稱。",
+          "answer": "坦腹東床",
+          "answerId": "g6-l6-01",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ],
+      "definitionRevision": {
+        "kind": "authorized-edit",
+        "originalText": "指女婿，也用來稱呼女婿。",
+        "note": "原情境句維持不變"
+      }
+    },
+    {
+      "id": "g6-l6-02",
+      "term": "窘態畢露",
+      "definition": "尷尬、難堪的樣子完全顯露出來。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-02-example-01",
+          "text": "他原本誇口自己精通外語，沒想到外國客人一開口詢問，他便支支吾吾，頓時＿＿＿＿。",
+          "answer": "窘態畢露",
+          "answerId": "g6-l6-02",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-03",
+      "term": "物競天擇",
+      "definition": "生物相互競爭，適應環境者得以生存。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-03-example-01",
+          "text": "在乾旱的環境中，能儲存水分的植物較容易存活，正好說明了＿＿＿＿的自然現象。",
+          "answer": "物競天擇",
+          "answerId": "g6-l6-03",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-04",
+      "term": "一哄而散",
+      "definition": "形容人群在吵鬧中各自散去。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-04-example-01",
+          "text": "老師還沒宣布活動結束，學生們聽見下課鐘聲，就興奮地＿＿＿＿，留下滿地的紙屑。",
+          "answer": "一哄而散",
+          "answerId": "g6-l6-04",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-05",
+      "term": "魑魅魍魎",
+      "definition": "傳說中的各種鬼怪，也比喻各種壞人。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-05-example-01",
+          "text": "傳說中的深山藏著各種＿＿＿＿，讓夜晚經過的旅人心生恐懼。",
+          "answer": "魑魅魍魎",
+          "answerId": "g6-l6-05",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-06",
+      "term": "憑空捏造",
+      "definition": "毫無根據地擅自編造。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語大補帖",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-06-example-01",
+          "text": "他為了吸引大家注意，竟然＿＿＿＿一段根本沒有發生過的故事，最後被查出真相。",
+          "answer": "憑空捏造",
+          "answerId": "g6-l6-06",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-07",
+      "term": "褒善貶惡",
+      "definition": "表揚好的，批評壞的。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-07-example-01",
+          "text": "這篇文章透過人物的行為與結局＿＿＿＿，提醒讀者分辨是非善惡。",
+          "answer": "褒善貶惡",
+          "answerId": "g6-l6-07",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-08",
+      "term": "李代桃僵",
+      "definition": "比喻以此代彼，或代人受過。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-08-example-01",
+          "text": "明明是哥哥打破花瓶，弟弟卻主動承認錯誤，替哥哥受罰，簡直是＿＿＿＿。",
+          "answer": "李代桃僵",
+          "answerId": "g6-l6-08",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-09",
+      "term": "醜態百出",
+      "definition": "形容出現種種不雅、有失體面的行為。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-09-example-01",
+          "text": "那名參賽者因為不滿裁判判決，不但大聲叫罵，還摔壞器材，在眾人面前＿＿＿＿。",
+          "answer": "醜態百出",
+          "answerId": "g6-l6-09",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-10",
+      "term": "冷嘲熱諷",
+      "definition": "以尖酸刻薄的言語嘲笑、諷刺他人。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-10-example-01",
+          "text": "小明第一次上臺演講有些緊張，同學不但沒有鼓勵，反而對他＿＿＿＿，讓他十分難過。",
+          "answer": "冷嘲熱諷",
+          "answerId": "g6-l6-10",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-11",
+      "term": "侃侃而談",
+      "definition": "形容說話從容不迫。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語加油站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-11-example-01",
+          "text": "面對全校師生的提問，講者毫不慌張，對自己的研究成果＿＿＿＿，展現充分準備。",
+          "answer": "侃侃而談",
+          "answerId": "g6-l6-11",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-12",
+      "term": "判若兩人",
+      "definition": "形容同一個人前後的行為、態度截然不同。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-12-example-01",
+          "text": "弟弟以前總是害羞不敢說話，參加戲劇社半年後竟能自信地上臺表演，前後簡直＿＿＿＿。",
+          "answer": "判若兩人",
+          "answerId": "g6-l6-12",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6-l6-13",
+      "term": "不屑一顧",
+      "definition": "形容輕視、瞧不起。",
+      "academicYear": 115,
+      "grade": 6,
+      "lesson": "L6",
+      "textbookSource": "成語小站",
+      "textbookVolume": null,
+      "definitionSource": "媽媽本次提供的L4～L6釋義補件",
+      "review": {
+        "status": "approved",
+        "label": "媽媽人工驗收通過並授權發布",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+      },
+      "examples": [
+        {
+          "id": "g6-l6-13-example-01",
+          "text": "面對同學提出的改善建議，他連看都不看一眼，＿＿＿＿的態度讓大家十分失望。",
+          "answer": "不屑一顧",
+          "answerId": "g6-l6-13",
+          "source": "使用者提供的完整情境句",
+          "review": {
+            "status": "approved",
+            "label": "媽媽人工驗收通過並授權發布",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "本次最終修正與正式發布指令，採方案B並核准指定三處修改"
+          }
+        }
+      ]
+    }
+  ]
+}

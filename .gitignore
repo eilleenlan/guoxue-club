@@ -50,3 +50,17 @@
 !/scripts/
 /scripts/*
 !/scripts/idiom-paper-browser.mjs
+
+!/docs/idiom-paper-scope.mjs
+!/docs/idioms-g6-l4.html
+!/docs/data/idioms-g6-l4.json
+!/docs/idioms-g6-l5.html
+!/docs/data/idioms-g6-l5.json
+!/docs/idioms-g6-l6.html
+!/docs/data/idioms-g6-l6.json
+
+!/test/l456-release.test.mjs
+!/test/fixtures/
+/test/fixtures/*
+!/test/fixtures/l456-supplied-rows.json
+!/scripts/l456-release-browser.mjs
