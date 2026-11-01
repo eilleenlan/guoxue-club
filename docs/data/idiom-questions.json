@@ -1356,6 +1356,680 @@
         "confirmationScope": "content-approval",
         "source": "使用者本次115 G5康軒L1～L2已核准內容交付；尚未授權正式發布"
       }
+    },
+    {
+      "questionId": "question-000087",
+      "idiomId": "idiom-000086",
+      "text": "討論同學的表現時，他不傳揚別人的過錯，而是主動稱讚他們的長處，做到了＿＿＿＿。",
+      "answerId": "idiom-000086",
+      "answer": "隱惡揚善",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000088",
+      "idiomId": "idiom-000087",
+      "text": "他表面上和同學友好，背地裡卻故意散播假消息，讓同學被誤會，這種＿＿＿＿的行為讓大家十分反感。",
+      "answerId": "idiom-000087",
+      "answer": "暗箭傷人",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000089",
+      "idiomId": "idiom-000088",
+      "text": "玩遊戲雖然有趣，也要＿＿＿＿，時間一到就停下來，才不會影響功課和睡眠。",
+      "answerId": "idiom-000088",
+      "answer": "適可而止",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000090",
+      "idiomId": "idiom-000089",
+      "text": "這家剛成立的公司＿＿＿＿，人手和資金都還不足，暫時無法承接規模龐大的工程。",
+      "answerId": "idiom-000089",
+      "answer": "羽毛未豐",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000091",
+      "idiomId": "idiom-000090",
+      "text": "即使連續幾次比賽失利，她仍＿＿＿＿，不肯放棄，每天繼續努力練習。",
+      "answerId": "idiom-000090",
+      "answer": "百折不撓",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000092",
+      "idiomId": "idiom-000091",
+      "text": "老師用「＿＿＿＿」來比喻艱困環境最能考驗人的意志與節操，正如強風吹過後，才看得出哪些草能挺立不倒。",
+      "answerId": "idiom-000091",
+      "answer": "疾風勁草",
+      "source": "Codex本次另擬候選句，非先前媽媽核准原題；原題待補",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000093",
+      "idiomId": "idiom-000092",
+      "text": "為了準備明天的接力決賽，隊員們今晚提早休息、補充體力，努力＿＿＿＿，希望比賽時發揮實力。",
+      "answerId": "idiom-000092",
+      "answer": "養精蓄銳",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000094",
+      "idiomId": "idiom-000093",
+      "text": "畢業多年後，他仍回母校感謝老師的教導，用實際行動表達＿＿＿＿的心意。",
+      "answerId": "idiom-000093",
+      "answer": "飲水思源",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000095",
+      "idiomId": "idiom-000094",
+      "text": "面對同學作弊的提議，班長＿＿＿＿地指出這樣做違反誠實原則，堅決拒絕配合。",
+      "answerId": "idiom-000094",
+      "answer": "義正辭嚴",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000096",
+      "idiomId": "idiom-000095",
+      "text": "公車路線突然取消，居民出門十分不便，大家＿＿＿＿，紛紛要求恢復原有班次。",
+      "answerId": "idiom-000095",
+      "answer": "怨聲載道",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000097",
+      "idiomId": "idiom-000096",
+      "text": "他從小＿＿＿＿，生活富裕，家事總由別人代勞，從來不必為衣食發愁。",
+      "answerId": "idiom-000096",
+      "answer": "養尊處優",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000098",
+      "idiomId": "idiom-000097",
+      "text": "這座水庫能順利完工，多虧工程團隊多年辛苦奔走，他們為地方建設立下＿＿＿＿。",
+      "answerId": "idiom-000097",
+      "answer": "汗馬功勞",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000099",
+      "idiomId": "idiom-000098",
+      "text": "他捐款時只想讓媒體報導自己，並不真正關心受助者，這種＿＿＿＿的心態受到大家批評。",
+      "answerId": "idiom-000098",
+      "answer": "沽名釣譽",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000100",
+      "idiomId": "idiom-000099",
+      "text": "教室的電線冒出火花，為了保護大家，切斷電源並疏散學生就是眼前的＿＿＿＿，其他事情都得先放下。",
+      "answerId": "idiom-000099",
+      "answer": "當務之急",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000101",
+      "idiomId": "idiom-000100",
+      "text": "老師已經＿＿＿＿，提醒大家不可以在走廊奔跑，但仍有人不遵守規定。",
+      "answerId": "idiom-000100",
+      "answer": "三令五申",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000102",
+      "idiomId": "idiom-000101",
+      "text": "雖然已經過了好幾年，第一次上臺領獎的情景仍＿＿＿＿，彷彿昨天才發生。",
+      "answerId": "idiom-000101",
+      "answer": "歷歷在目",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000103",
+      "idiomId": "idiom-000102",
+      "text": "對手都以為他會正面進攻，沒想到他突然改變策略，利用意想不到的方法＿＿＿＿，贏得比賽。",
+      "answerId": "idiom-000102",
+      "answer": "出奇制勝",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000104",
+      "idiomId": "idiom-000039",
+      "text": "那群人仗著家中有錢有勢，在街坊＿＿＿＿，隨意欺負弱小，讓鄰居十分害怕。",
+      "answerId": "idiom-000039",
+      "answer": "橫行霸道",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000105",
+      "idiomId": "idiom-000103",
+      "text": "為了說明節約的重要，哥哥在演講時＿＿＿＿，引用古籍中的話作為論點的依據。",
+      "answerId": "idiom-000103",
+      "answer": "引經據典",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000106",
+      "idiomId": "idiom-000104",
+      "text": "當班上發生緊急狀況時，身為班長的他＿＿＿＿，立刻協助老師維持秩序。",
+      "answerId": "idiom-000104",
+      "answer": "責無旁貸",
+      "source": "使用者本次完整交付的媽媽已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "approved",
+          "label": "媽媽已核准此情境句",
+          "confirmedBy": "媽媽",
+          "confirmedAt": "2026-11-01",
+          "source": "本次交接包明確提供L6責無旁貸核准句"
+        }
+      ]
+    },
+    {
+      "questionId": "question-000107",
+      "idiomId": "idiom-000105",
+      "text": "這項活動需要大家合作，單靠班長一個人＿＿＿＿，很難把所有工作都完成。",
+      "answerId": "idiom-000105",
+      "answer": "孤掌難鳴",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000108",
+      "idiomId": "idiom-000106",
+      "text": "剛開始練習書法時，他總是抓不到訣竅，後來越寫越順、越來越有興趣，終於＿＿＿＿。",
+      "answerId": "idiom-000106",
+      "answer": "漸入佳境",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000109",
+      "idiomId": "idiom-000107",
+      "text": "校長每天主動撿拾校園垃圾，老師和學生也跟著這樣做，形成＿＿＿＿的良好風氣。",
+      "answerId": "idiom-000107",
+      "answer": "上行下效",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
+    },
+    {
+      "questionId": "question-000110",
+      "idiomId": "idiom-000108",
+      "text": "選拔隊長時，不能只看誰長得好看就決定人選，因為＿＿＿＿容易忽略一個人的能力和品德。",
+      "answerId": "idiom-000108",
+      "answer": "以貌取人",
+      "source": "Codex依本次授權擬候選句，非教材原句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准本次24題清單",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-01",
+        "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+      },
+      "initialCheck": {
+        "status": "candidate-check-only",
+        "needsRevision": false,
+        "competingAnswers": [],
+        "note": "依本課六選項檢視，未見同等合理競爭答案；新擬題仍待人工驗收。"
+      },
+      "reviewHistory": [
+        {
+          "status": "pending",
+          "label": "候選待人工確認",
+          "confirmedBy": null
+        }
+      ]
     }
   ]
 }

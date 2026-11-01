@@ -972,6 +972,270 @@
           "questionId": "question-000086"
         }
       ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-01",
+      "idiomId": "idiom-000086",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-01-example-01",
+          "questionId": "question-000087"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-02",
+      "idiomId": "idiom-000087",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-02-example-01",
+          "questionId": "question-000088"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-03",
+      "idiomId": "idiom-000088",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-03-example-01",
+          "questionId": "question-000089"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-04",
+      "idiomId": "idiom-000089",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-04-example-01",
+          "questionId": "question-000090"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-05",
+      "idiomId": "idiom-000090",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-05-example-01",
+          "questionId": "question-000091"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "legacyEntryId": "g5-l3-06",
+      "idiomId": "idiom-000091",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l3-06-example-01",
+          "questionId": "question-000092"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-01",
+      "idiomId": "idiom-000092",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-01-example-01",
+          "questionId": "question-000093"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-02",
+      "idiomId": "idiom-000093",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-02-example-01",
+          "questionId": "question-000094"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-03",
+      "idiomId": "idiom-000094",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-03-example-01",
+          "questionId": "question-000095"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-04",
+      "idiomId": "idiom-000095",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-04-example-01",
+          "questionId": "question-000096"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-05",
+      "idiomId": "idiom-000096",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-05-example-01",
+          "questionId": "question-000097"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "legacyEntryId": "g5-l4-06",
+      "idiomId": "idiom-000097",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l4-06-example-01",
+          "questionId": "question-000098"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-01",
+      "idiomId": "idiom-000098",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-01-example-01",
+          "questionId": "question-000099"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-02",
+      "idiomId": "idiom-000099",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-02-example-01",
+          "questionId": "question-000100"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-03",
+      "idiomId": "idiom-000100",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-03-example-01",
+          "questionId": "question-000101"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-04",
+      "idiomId": "idiom-000101",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-04-example-01",
+          "questionId": "question-000102"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-05",
+      "idiomId": "idiom-000102",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-05-example-01",
+          "questionId": "question-000103"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "legacyEntryId": "g5-l5-06",
+      "idiomId": "idiom-000039",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l5-06-example-01",
+          "questionId": "question-000104"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-01",
+      "idiomId": "idiom-000103",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-01-example-01",
+          "questionId": "question-000105"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-02",
+      "idiomId": "idiom-000104",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-02-example-01",
+          "questionId": "question-000106"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-03",
+      "idiomId": "idiom-000105",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-03-example-01",
+          "questionId": "question-000107"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-04",
+      "idiomId": "idiom-000106",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-04-example-01",
+          "questionId": "question-000108"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-05",
+      "idiomId": "idiom-000107",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-05-example-01",
+          "questionId": "question-000109"
+        }
+      ]
+    },
+    {
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "legacyEntryId": "g5-l6-06",
+      "idiomId": "idiom-000108",
+      "questions": [
+        {
+          "legacyQuestionId": "g5-l6-06-example-01",
+          "questionId": "question-000110"
+        }
+      ]
     }
   ]
 }

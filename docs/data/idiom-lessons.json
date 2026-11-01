@@ -72,6 +72,42 @@
       "status": "published",
       "href": "./idioms-g5-l2.html",
       "bank": "./data/idioms-g5-l2.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L3",
+      "number": 3,
+      "status": "published",
+      "href": "./idioms-g5-l3.html",
+      "bank": "./data/idioms-g5-l3.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L4",
+      "number": 4,
+      "status": "published",
+      "href": "./idioms-g5-l4.html",
+      "bank": "./data/idioms-g5-l4.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L5",
+      "number": 5,
+      "status": "published",
+      "href": "./idioms-g5-l5.html",
+      "bank": "./data/idioms-g5-l5.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L6",
+      "number": 6,
+      "status": "published",
+      "href": "./idioms-g5-l6.html",
+      "bank": "./data/idioms-g5-l6.json"
     }
   ]
 }

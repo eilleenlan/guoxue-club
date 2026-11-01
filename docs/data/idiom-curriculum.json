@@ -2083,6 +2083,1156 @@
           ]
         }
       ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L3",
+      "legacyBankPath": "./data/idioms-g5-l3.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次G5康軒L3～L6教材整理稿交接包；非逐字教材原文",
+        "contentApproval": {
+          "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句",
+          "questionCount": 6
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度G5康軒教材整理稿",
+          "volume": null
+        },
+        "originalQuestions": {
+          "status": "pending-original",
+          "expectedCount": 6,
+          "note": "先前六道核准原題未在本對話提供完整題文；現有新擬候選句不代表取得或取代原題。"
+        },
+        "currentQuestionApproval": {
+          "status": "approved",
+          "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句",
+          "note": "採本次核准的現有六題；先前原題待補紀錄僅作歷史保留，不阻擋本次清單。"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000086",
+          "legacyEntryId": "g5-l3-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "隱藏他人的惡行，宣揚他人的善行",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000087"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000087",
+          "legacyEntryId": "g5-l3-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "在隱蔽處放箭傷害他人；比喻暗中用陰險的手段傷害人",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000088"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000088",
+          "legacyEntryId": "g5-l3-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "指事情做到恰到好處就該停止",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000089"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000089",
+          "legacyEntryId": "g5-l3-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "羽毛尚未長滿成熟；比喻勢力或能力不夠雄厚，還不足以獨當一面",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000090"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000090",
+          "legacyEntryId": "g5-l3-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "意志剛強，即使受到很多挫折，仍不屈服",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000091"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000091",
+          "legacyEntryId": "g5-l3-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L3",
+          "textbookDefinition": "經過猛烈大風的吹襲，才知道堅韌的草挺立不倒；比喻在艱難困苦的環境下，才能考驗出人的堅強意志和節操",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000092"
+          ],
+          "originalQuestionStatus": "pending-original",
+          "questionSelectionNote": "媽媽本次已核准目前清單作為練習版本；先前原題未取得的紀錄保留，不宣稱已取得原題。",
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L4",
+      "legacyBankPath": "./data/idioms-g5-l4.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次G5康軒L3～L6教材整理稿交接包；非逐字教材原文",
+        "contentApproval": {
+          "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句",
+          "questionCount": 6
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度G5康軒教材整理稿",
+          "volume": null
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000092",
+          "legacyEntryId": "g5-l4-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "保養精神，積蓄力量",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000093"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000093",
+          "legacyEntryId": "g5-l4-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "喝水時想起水的源頭；比喻不忘本",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000094"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000094",
+          "legacyEntryId": "g5-l4-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "義理正當，措詞嚴厲",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000095"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000095",
+          "legacyEntryId": "g5-l4-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "形容群眾普遍的怨恨和不滿",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000096"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000096",
+          "legacyEntryId": "g5-l4-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "處在尊貴的地位，過著優越富裕的生活",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000097"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000097",
+          "legacyEntryId": "g5-l4-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L4",
+          "textbookDefinition": "原指征戰的功勞，泛指一般的功勞",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000098"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L5",
+      "legacyBankPath": "./data/idioms-g5-l5.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次G5康軒L3～L6教材整理稿交接包；非逐字教材原文",
+        "contentApproval": {
+          "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句",
+          "questionCount": 6
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度G5康軒教材整理稿",
+          "volume": null
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000098",
+          "legacyEntryId": "g5-l5-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "故意做作，用手段謀取名聲和讚譽",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000099"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000099",
+          "legacyEntryId": "g5-l5-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "當前最急迫要做的事",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000100"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000100",
+          "legacyEntryId": "g5-l5-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "再三命令告誡",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000101"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000101",
+          "legacyEntryId": "g5-l5-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "清楚明白地呈現在眼前",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000102"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000102",
+          "legacyEntryId": "g5-l5-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "發奇兵或用奇計制敵而獲勝；後比喻用奇特、創新的方法取得好效果",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000103"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000039",
+          "legacyEntryId": "g5-l5-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L5",
+          "textbookDefinition": "形容凶橫不講理",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000104"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L6",
+      "legacyBankPath": "./data/idioms-g5-l6.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "使用者本次G5康軒L3～L6教材整理稿交接包；非逐字教材原文",
+        "contentApproval": {
+          "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句",
+          "questionCount": 6
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "label": "115學年度G5康軒教材整理稿",
+          "volume": null
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000103",
+          "legacyEntryId": "g5-l6-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "引用經書典籍等作為說話、作文的依據",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000105"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000104",
+          "legacyEntryId": "g5-l6-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "自己應盡的責任，沒有理由推卸",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000106"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000105",
+          "legacyEntryId": "g5-l6-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "比喻人孤立無助，不能成事",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000107"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000106",
+          "legacyEntryId": "g5-l6-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "比喻境況逐漸進展至美好的境界或興味漸濃",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000108"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000107",
+          "legacyEntryId": "g5-l6-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "在上位的人怎麼做，下面的人就跟著做",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000109"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000108",
+          "legacyEntryId": "g5-l6-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L6",
+          "textbookDefinition": "以容貌作為取人的標準",
+          "definitionKind": "textbook-summary",
+          "definitionSource": "使用者本次教材內容整理稿，非逐字教材原文",
+          "textbookSource": "成語大補帖、甲／乙本生字延伸",
+          "textbookVolume": null,
+          "textbookSources": [
+            {
+              "textbookSource": "成語大補帖",
+              "textbookVolume": null,
+              "sourceLabel": "成語大補帖",
+              "definitionKind": "textbook-summary"
+            },
+            {
+              "textbookSource": "甲／乙本生字延伸",
+              "textbookVolume": null,
+              "sourceLabel": "甲／乙本生字延伸（未細分分冊）",
+              "definitionKind": "textbook-summary"
+            }
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准本次24題清單",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-01",
+            "source": "G5 L3～L6內容驗收及線上綜合練習施工指令；漸入佳境採允許的終於修句"
+          },
+          "questionIds": [
+            "question-000110"
+          ],
+          "reviewHistory": [
+            {
+              "status": "pending",
+              "label": "候選待人工確認",
+              "confirmedBy": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }

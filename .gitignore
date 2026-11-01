@@ -75,3 +75,19 @@
 !/docs/idioms-g5-l2.html
 
 !/docs/idioms-unit.mjs
+
+!/docs/idiom-combined.mjs
+
+!/docs/idioms-g5-l3.html
+
+!/docs/idioms-g5-l4.html
+
+!/docs/idioms-g5-l5.html
+
+!/docs/idioms-g5-l6.html
+
+!/test/idiom-combined.test.mjs
+
+!/test/fixtures/g5-l36-handoff.json
+
+!/scripts/idiom-combined-browser.mjs
