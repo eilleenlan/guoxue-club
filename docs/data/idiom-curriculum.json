@@ -3233,6 +3233,249 @@
           ]
         }
       ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "lessonCode": "L8",
+      "legacyBankPath": "./data/idioms-g5-l8.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽本次提供康軒五上第八課教材照片，第38～39頁；釋義由Codex核對轉錄",
+        "contentApproval": {
+          "source": "媽媽已完成L8六條釋義人工核對，內容驗收通過並授權正式發布",
+          "questionCount": 6
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 4,
+        "optionCount": 6,
+        "textbook": {
+          "publisher": "康軒",
+          "volume": "五上",
+          "title": "最勇敢的女孩"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000109",
+          "legacyEntryId": "g5-l8-01",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "指為人處事違背天理，泯滅人性。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000111"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000110",
+          "legacyEntryId": "g5-l8-02",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "沒有任何破綻可讓人攻擊。形容非常嚴密，沒有缺失。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000112"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000111",
+          "legacyEntryId": "g5-l8-03",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "搶著向前，唯恐落後。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000113"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000112",
+          "legacyEntryId": "g5-l8-04",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "指因應某種時機而暫用的計謀。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000114"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000113",
+          "legacyEntryId": "g5-l8-05",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "指大螞蟻妄圖以自身之力去搖動大樹，比喻不自量力。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000115"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        },
+        {
+          "idiomId": "idiom-000114",
+          "legacyEntryId": "g5-l8-06",
+          "academicYear": 115,
+          "grade": 5,
+          "lessonCode": "L8",
+          "textbookDefinition": "凡事先下手取得先機，就有可能制伏對方。",
+          "definitionKind": "textbook-transcription",
+          "definitionSource": "本次提供L8教材照片，第38～39頁成語欄（不含例句）",
+          "definitionReview": {
+            "status": "approved",
+            "confirmedBy": "媽媽",
+            "source": "本輪L8釋義人工核對通過，無須修改"
+          },
+          "textbookSource": "生字延伸成語",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "原圖為康軒五上第八課；未推定甲乙分冊。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准情境題",
+            "confirmedBy": "媽媽",
+            "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+            "confirmedAt": "2026-11-01"
+          },
+          "questionIds": [
+            "question-000116"
+          ],
+          "definitionReviewHistory": [
+            {
+              "status": "transcribed",
+              "label": "Codex已對照圖片轉錄，待媽媽本機驗收"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -972,6 +972,60 @@
         "status": "pending",
         "note": "本次為教材整理稿，未確認為共用基本釋義。"
       }
+    },
+    {
+      "idiomId": "idiom-000109",
+      "term": "傷天害理",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000110",
+      "term": "無懈可擊",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000111",
+      "term": "爭先恐後",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000112",
+      "term": "權宜之計",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000113",
+      "term": "蚍蜉撼樹",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
+    },
+    {
+      "idiomId": "idiom-000114",
+      "term": "先發制人",
+      "basicDefinition": null,
+      "basicDefinitionReview": {
+        "status": "pending",
+        "note": "保留本課照片釋義，不推定為共用基本釋義。"
+      }
     }
   ]
 }

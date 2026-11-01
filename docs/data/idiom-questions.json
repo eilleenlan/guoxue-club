@@ -2030,6 +2030,96 @@
           "confirmedBy": null
         }
       ]
+    },
+    {
+      "questionId": "question-000111",
+      "idiomId": "idiom-000109",
+      "text": "那名商人為了賺取暴利，竟然販賣有毒的食品，做出這種＿＿＿＿的事，實在令人憤怒。",
+      "answerId": "idiom-000109",
+      "answer": "傷天害理",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
+    },
+    {
+      "questionId": "question-000112",
+      "idiomId": "idiom-000110",
+      "text": "為了參加科學展覽，他反覆檢查實驗步驟與數據，希望讓整份研究報告＿＿＿＿，找不出任何漏洞。",
+      "answerId": "idiom-000110",
+      "answer": "無懈可擊",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
+    },
+    {
+      "questionId": "question-000113",
+      "idiomId": "idiom-000111",
+      "text": "老師宣布開放報名校外教學後，同學們＿＿＿＿地舉手，生怕錯過參加的機會。",
+      "answerId": "idiom-000111",
+      "answer": "爭先恐後",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
+    },
+    {
+      "questionId": "question-000114",
+      "idiomId": "idiom-000112",
+      "text": "教室的冷氣突然故障，老師先讓大家到圖書館上課，作為暫時應付問題的＿＿＿＿。",
+      "answerId": "idiom-000112",
+      "answer": "權宜之計",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
+    },
+    {
+      "questionId": "question-000115",
+      "idiomId": "idiom-000113",
+      "text": "他只有一個人，卻想在毫無準備的情況下挑戰實力強大的冠軍隊伍，簡直是＿＿＿＿。",
+      "answerId": "idiom-000113",
+      "answer": "蚍蜉撼樹",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
+    },
+    {
+      "questionId": "question-000116",
+      "idiomId": "idiom-000114",
+      "text": "辯論比賽一開始，我方代表就率先提出有力證據，掌握討論的主導權，成功＿＿＿＿。",
+      "answerId": "idiom-000114",
+      "answer": "先發制人",
+      "source": "媽媽本次提供已核准情境句",
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准情境題",
+        "confirmedBy": "媽媽",
+        "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
+        "confirmedAt": "2026-11-01"
+      }
     }
   ]
 }

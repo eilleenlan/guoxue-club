@@ -108,6 +108,141 @@
       "status": "published",
       "href": "./idioms-g5-l6.html",
       "bank": "./data/idioms-g5-l6.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L8",
+      "number": 8,
+      "status": "published",
+      "href": "./idioms-g5-l8.html",
+      "bank": "./data/idioms-g5-l8.json"
+    }
+  ],
+  "lessonTitles": [
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L1",
+      "title": "蚊帳大使"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L2",
+      "title": "從空中看臺灣"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L3",
+      "title": "攀岩高手"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L4",
+      "title": "恆久的美"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L5",
+      "title": "它抓得住你——商標的故事"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L6",
+      "title": "故事「動」起來"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L7",
+      "title": "為生命找出口"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L8",
+      "title": "最勇敢的女孩"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L9",
+      "title": "在挫折中成長"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L10",
+      "title": "山中寄情"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L11",
+      "title": "與達駭黑熊走入山林"
+    },
+    {
+      "academicYear": 115,
+      "grade": 5,
+      "code": "L12",
+      "title": "荒島上的國王"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L1",
+      "title": "遇見自己"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L2",
+      "title": "為什麼大家不理我"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L3",
+      "title": "孔子說的話"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L4",
+      "title": "向大自然學習"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L5",
+      "title": "樹的聯想"
+    },
+    {
+      "academicYear": 115,
+      "grade": 6,
+      "code": "L6",
+      "title": "善用自嘲，展現幽默"
+    }
+  ],
+  "practiceScopes": [
+    {
+      "id": "115-g5-midterm",
+      "academicYear": 115,
+      "grade": 5,
+      "label": "本次期中範圍",
+      "lessonCodes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "L8"
+      ]
     }
   ]
 }
