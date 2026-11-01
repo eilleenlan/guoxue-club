@@ -1,13 +1,13 @@
 import {A4,wrapText} from './paper-layout.mjs';
-const margin=36,width=A4.width-72,bottom=788;
-export function planIdiomPaper(batch,kind,measure){
- if(!['questions','answers'].includes(kind))throw Error('卷別錯誤');const pages=[];let page,y;
- const text=(s,x,y,size=14,bold=false)=>({type:'text',text:s,x,y,size,bold});
- const label=batch.lessons.map(l=>`${l.academicYear} G${l.grade} ${l.code}`).join('、');
- function newPage(){page={commands:[text('小小國學所｜成語練習卷'+(kind==='answers'?'・答案卷':''),margin,40,17,true)],blocks:[]};pages.push(page);y=62;for(const line of wrapText(label,width,11,measure)){page.commands.push(text(line,margin,y,11));y+=16;}if(kind==='questions'){page.commands.push(text('姓名：________________　日期：________________',margin,y+6,12));y+=29;page.commands.push(text(pages.length===1?'請將成語選項編號填入空格，每個選項使用一次。':'（續頁）成語選項請參閱本卷第 1 頁。',margin,y,11));y+=23;}}
- function place(commands,height,question){if(height>bottom-y){newPage();}if(height>bottom-y)throw Error('單題過長，無法以清楚字級完整放在一頁；未產生試卷。');page.blocks.push({question,y,height});page.commands.push(...commands.map(c=>({...c,x:c.x+margin,y:c.y+y})));y+=height;}
- newPage();
- if(kind==='questions'){const commands=[];let oy=0;commands.push(text('成語選項',0,oy,14,true));oy+=23;const col=width/3;for(let i=0;i<batch.options.length;i+=3){let rh=0;for(let j=0;j<3&&i+j<batch.options.length;j++){const o=batch.options[i+j],lines=wrapText(`${o.number}. ${o.term}`,col-12,14,measure);lines.forEach((line,k)=>commands.push(text(line,j*col,oy+k*22,14)));rh=Math.max(rh,lines.length*22);}oy+=rh+5;}oy+=10;const firstLines=wrapText('1. '+batch.questions[0].text.replace('＿＿＿＿','（　　　　）'),width,15,measure).length;if(y+oy+firstLines*25+16>bottom)throw Error('選項區過長，無法與第一題同頁；請減少課次。');place(commands,oy,null);}
- for(const q of batch.questions){const value=kind==='questions'?`${q.number}. ${q.text.replace('＿＿＿＿','（　　　　）')}`:`${q.number}. ${q.answerNumber}　${q.term}`;const size=kind==='questions'?15:13,leading=kind==='questions'?25:21;const lines=wrapText(value,width,size,measure);place(lines.map((s,i)=>text(s,0,i*leading,size)),lines.length*leading+(kind==='answers'?2:15),q.number);}
- pages.forEach((p,i)=>p.commands.push(text(`第 ${i+1} 頁／共 ${pages.length} 頁`,margin,817,10)));return {kind,pages};
-}
+const margin=36,width=A4.width-72,bottom=790;
+const text=(s,x,y,size=14,bold=false)=>({type:'text',text:s,x,y,size,bold});
+function header(batch,kind){let y=62;const commands=[text('小小國學所｜成語練習卷'+(kind==='answers'?'・答案卷':''),margin,38,17,true)];for(const s of wrapText(batch.lessons.map(l=>`${l.academicYear} G${l.grade} ${l.code}`).join('、'),width,11,batch.measure)){commands.push(text(s,margin,y,11));y+=16;}return {commands,blocks:[],y};}
+function questionLines(q,measure){const slot='（　　　　）',token='\uE000';return wrapText(`${q.number}. ${q.text.replace('＿＿＿＿',token)}`,width,15,(s,n)=>measure(s.replaceAll(token,slot),n)).map(s=>s.replaceAll(token,slot));}
+function questionPage(round,measure,lessons=[],total=1,showActual=false){const batch={lessons,measure},page=header(batch,'questions');let y=page.y;page.commands.push(text(`第 ${round.number} 回／共 ${total} 回${showActual?`｜本回 ${round.questions.length} 題`:""}`,margin,y+4,13,true));y+=24;page.commands.push(text('姓名：________________　日期：________________',margin,y,12));y+=22;page.commands.push(text('將成語選項編號填入空格；有未使用的選項時，不必填入。',margin,y,10));y+=24;const col=width/3;
+ for(let i=0;i<round.options.length;i+=3){let rowHeight=0;for(let j=0;j<3&&i+j<round.options.length;j++){const o=round.options[i+j],lines=wrapText(`${o.number}. ${o.term}`,col-10,14,measure);lines.forEach((s,k)=>page.commands.push(text(s,margin+j*col,y+k*21,14)));rowHeight=Math.max(rowHeight,lines.length*21);}y+=rowHeight+3;}y+=12;
+ for(const q of round.questions){const lines=questionLines(q,measure),height=lines.length*22+7;if(y+height>bottom)throw Error('本回無法單面容納');page.blocks.push({question:q.number,y,height});lines.forEach((s,k)=>page.commands.push(text(s,margin,y+k*22,15)));y+=height;}page.round=round.number;return page;}
+export function roundFits(round,measure,lessons){try{questionPage(round,measure,lessons,999);return true;}catch(e){if(e.message==='本回無法單面容納')return false;throw e;}}
+export function planIdiomPaper(batch,kind,measure){if(!['questions','answers'].includes(kind))throw Error('卷別錯誤');let pages=[];
+ if(kind==='questions')pages=batch.rounds.map(r=>questionPage(r,measure,batch.lessons,batch.rounds.length,batch.mode==='random'));
+ else {let page=header({...batch,measure},kind),y=page.y+5;pages.push(page);for(const r of batch.rounds){const height=26+r.questions.length*20+9;if(y+height>bottom){page=header({...batch,measure},kind);pages.push(page);y=page.y+5;}if(y+height>bottom)throw Error('答案回次過長，無法清楚列印');page.commands.push(text(`第 ${r.number} 回／共 ${batch.rounds.length} 回`,margin,y,13,true));y+=26;for(const q of r.questions){page.commands.push(text(`${q.number}. 選項 ${q.answerNumber}　${q.term}`,margin,y,13));y+=20;}y+=9;}}
+ pages.forEach((p,i)=>p.commands.push(text(`第 ${i+1} 頁／共 ${pages.length} 頁`,margin,817,10)));return {kind,pages};}
