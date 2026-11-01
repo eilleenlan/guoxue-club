@@ -3476,6 +3476,858 @@
           ]
         }
       ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L1",
+      "legacyBankPath": "./data/idioms-g4-l1.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "美麗島"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000115",
+          "legacyEntryId": "g4-l1-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻容易得到。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000117"
+          ]
+        },
+        {
+          "idiomId": "idiom-000116",
+          "legacyEntryId": "g4-l1-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1",
+          "textbookDefinition": "泉水乾涸，魚兒以口沫互相潤溼。比喻同處於困境，互相以微力救助。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000118"
+          ]
+        },
+        {
+          "idiomId": "idiom-000117",
+          "legacyEntryId": "g4-l1-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1",
+          "textbookDefinition": "比喻意志堅定，不懼艱苦。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000119"
+          ]
+        },
+        {
+          "idiomId": "idiom-000118",
+          "legacyEntryId": "g4-l1-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1",
+          "textbookDefinition": "大街小巷中的談說議論。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000120"
+          ]
+        },
+        {
+          "idiomId": "idiom-000119",
+          "legacyEntryId": "g4-l1-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1",
+          "textbookDefinition": "形容年紀雖大，卻像年輕人一樣精力充沛。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000121"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L2",
+      "legacyBankPath": "./data/idioms-g4-l2.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "請到我的家鄉來"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000120",
+          "legacyEntryId": "g4-l2-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2",
+          "textbookDefinition": "比喻行文時，思路迅速豐暢。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000122"
+          ]
+        },
+        {
+          "idiomId": "idiom-000121",
+          "legacyEntryId": "g4-l2-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2",
+          "textbookDefinition": "不值得放在嘴上。指人或事物輕微，不值得一提。表示輕視或謙虛。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000123"
+          ]
+        },
+        {
+          "idiomId": "idiom-000122",
+          "legacyEntryId": "g4-l2-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2",
+          "textbookDefinition": "比喻重複累贅。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000124"
+          ]
+        },
+        {
+          "idiomId": "idiom-000111",
+          "legacyEntryId": "g4-l2-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2",
+          "textbookDefinition": "指競相爭先，唯恐落後。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "媽媽補充包確認與G5 L8同義；教材措辭按各課來源保留，不覆蓋既有版本。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000125"
+          ]
+        },
+        {
+          "idiomId": "idiom-000123",
+          "legacyEntryId": "g4-l2-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2",
+          "textbookDefinition": "形容專心致志，精神集中。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000126"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L3",
+      "legacyBankPath": "./data/idioms-g4-l3.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "鏡頭下的家鄉"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000124",
+          "legacyEntryId": "g4-l3-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻官吏辦事明察無私，執法公正嚴明。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000127"
+          ]
+        },
+        {
+          "idiomId": "idiom-000125",
+          "legacyEntryId": "g4-l3-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3",
+          "textbookDefinition": "表示舊地重遊時人事已非，或對故人的思念。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000128"
+          ]
+        },
+        {
+          "idiomId": "idiom-000126",
+          "legacyEntryId": "g4-l3-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻沒有能比得上的。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000129"
+          ]
+        },
+        {
+          "idiomId": "idiom-000127",
+          "legacyEntryId": "g4-l3-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻在曲折艱辛之後，忽然有了好轉的情景。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000130"
+          ]
+        },
+        {
+          "idiomId": "idiom-000128",
+          "legacyEntryId": "g4-l3-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3",
+          "textbookDefinition": "比喻寬大仁厚，對犯錯的人從寬處置。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000131"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L4",
+      "legacyBankPath": "./data/idioms-g4-l4.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "飛行夢"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000129",
+          "legacyEntryId": "g4-l4-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4",
+          "textbookDefinition": "比喻暢快而無拘束的談論。或沒有實質內容，空泛而漫無邊際的談論。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000132"
+          ]
+        },
+        {
+          "idiomId": "idiom-000114",
+          "legacyEntryId": "g4-l4-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4",
+          "textbookDefinition": "凡事先下手取得主動權，而制伏對方。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "媽媽補充包確認與G5 L8同義；教材措辭按各課來源保留，不覆蓋既有版本。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000133"
+          ]
+        },
+        {
+          "idiomId": "idiom-000130",
+          "legacyEntryId": "g4-l4-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4",
+          "textbookDefinition": "比喻懇切教誨。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000134"
+          ]
+        },
+        {
+          "idiomId": "idiom-000131",
+          "legacyEntryId": "g4-l4-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4",
+          "textbookDefinition": "秉持正義，勇往直前，絕不退縮。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000135"
+          ]
+        },
+        {
+          "idiomId": "idiom-000132",
+          "legacyEntryId": "g4-l4-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4",
+          "textbookDefinition": "創立新奇的名目或主張，以表示與眾不同。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000136"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L5",
+      "legacyBankPath": "./data/idioms-g4-l5.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "月光下"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000133",
+          "legacyEntryId": "g4-l5-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5",
+          "textbookDefinition": "比喻十分掛念，放心不下。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000137"
+          ]
+        },
+        {
+          "idiomId": "idiom-000134",
+          "legacyEntryId": "g4-l5-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5",
+          "textbookDefinition": "形容房屋規模高大、裝飾華美。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000138"
+          ]
+        },
+        {
+          "idiomId": "idiom-000135",
+          "legacyEntryId": "g4-l5-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5",
+          "textbookDefinition": "形容完善嚴密的法律條文，或比喻不可變更的信條。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000139"
+          ]
+        },
+        {
+          "idiomId": "idiom-000136",
+          "legacyEntryId": "g4-l5-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5",
+          "textbookDefinition": "遵守禮法，不逾越法度。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000140"
+          ]
+        },
+        {
+          "idiomId": "idiom-000137",
+          "legacyEntryId": "g4-l5-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5",
+          "textbookDefinition": "拍桌子叫好，形容非常讚賞。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000141"
+          ]
+        }
+      ]
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCode": "L6",
+      "legacyBankPath": "./data/idioms-g4-l6.json",
+      "bankMetadata": {
+        "schemaVersion": 1,
+        "kind": "idiom-gap-fill",
+        "status": "approved",
+        "sourceDescription": "媽媽提供115年四上國語期中考整理成語表照片之轉錄補充包，省略注音",
+        "releaseAuthorization": {
+          "source": "G4 L1～L6正式發布指令",
+          "scope": "六課30題及相關教材資料"
+        }
+      },
+      "lessonMetadata": {
+        "questionCount": 3,
+        "optionCount": 5,
+        "textbook": {
+          "volume": "四年級上學期",
+          "title": "又遠又近的月亮"
+        }
+      },
+      "entries": [
+        {
+          "idiomId": "idiom-000138",
+          "legacyEntryId": "g4-l6-01",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6",
+          "textbookDefinition": "形容憑藉他人名聲，到處炫耀、詐騙。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000142"
+          ]
+        },
+        {
+          "idiomId": "idiom-000110",
+          "legacyEntryId": "g4-l6-02",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6",
+          "textbookDefinition": "沒有任何破綻可讓人攻擊。形容非常嚴密，沒有缺失。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [
+            "媽媽補充包確認與G5 L8同義；教材措辭按各課來源保留，不覆蓋既有版本。"
+          ],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000143"
+          ]
+        },
+        {
+          "idiomId": "idiom-000139",
+          "legacyEntryId": "g4-l6-03",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6",
+          "textbookDefinition": "內容豐富，應有盡有。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000144"
+          ]
+        },
+        {
+          "idiomId": "idiom-000140",
+          "legacyEntryId": "g4-l6-04",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6",
+          "textbookDefinition": "指雙方力量情勢相當，不分上下。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000145"
+          ]
+        },
+        {
+          "idiomId": "idiom-000141",
+          "legacyEntryId": "g4-l6-05",
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6",
+          "textbookDefinition": "比喻徒具虛名而無益於實際。",
+          "definitionKind": "user-provided-transcription",
+          "definitionSource": "媽媽依115年四上國語期中考整理成語表照片轉錄，省略注音",
+          "textbookSource": "115年四上國語期中考整理成語表",
+          "textbookVolume": null,
+          "sourceNotes": [],
+          "review": {
+            "status": "approved",
+            "label": "媽媽已核准",
+            "confirmedBy": "媽媽",
+            "confirmedAt": "2026-11-02",
+            "source": "115 G4完整施工交接包及教材釋義補充包"
+          },
+          "questionIds": [
+            "question-000146"
+          ]
+        }
+      ]
     }
   ]
 }

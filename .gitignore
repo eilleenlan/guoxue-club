@@ -93,3 +93,21 @@
 !/scripts/idiom-combined-browser.mjs
 
 !/docs/idioms-g5-l8.html
+
+!/docs/idioms-g4-l1.html
+
+!/docs/idioms-g4-l2.html
+
+!/docs/idioms-g4-l3.html
+
+!/docs/idioms-g4-l4.html
+
+!/docs/idioms-g4-l5.html
+
+!/docs/idioms-g4-l6.html
+
+!/test/g4-candidate.test.mjs
+
+!/test/fixtures/g4-approved.json
+
+!/scripts/g4-candidate-browser.mjs

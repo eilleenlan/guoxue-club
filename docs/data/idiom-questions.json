@@ -2120,6 +2120,666 @@
         "source": "G5 L8題庫＋課文名稱施工單：六題已核准，不得改寫",
         "confirmedAt": "2026-11-01"
       }
+    },
+    {
+      "questionId": "question-000117",
+      "idiomId": "idiom-000115",
+      "text": "這場比賽的最後一關非常簡單，對實力堅強的哥哥來說，冠軍獎盃簡直＿＿＿＿。",
+      "answerId": "idiom-000115",
+      "answer": "唾手可得",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000118",
+      "idiomId": "idiom-000116",
+      "text": "這對好朋友在陷於絕境時，彼此＿＿＿＿，互相照應。",
+      "answerId": "idiom-000116",
+      "answer": "相濡以沫",
+      "source": "媽媽提供之教育部《成語典》例句，改為填空格式（未另行查詢外部來源）",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000119",
+      "idiomId": "idiom-000117",
+      "text": "即使知道清理整片海灘需要很長時間，志工們仍每天努力撿拾垃圾，展現＿＿＿＿的毅力。",
+      "answerId": "idiom-000117",
+      "answer": "精衛填海",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000120",
+      "idiomId": "idiom-000118",
+      "text": "新公園即將落成的消息傳開後，成為居民＿＿＿＿的熱門話題。",
+      "answerId": "idiom-000118",
+      "answer": "街談巷議",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000121",
+      "idiomId": "idiom-000119",
+      "text": "爺爺參加兒童節的趣味遊戲，玩得十分開心，彷彿＿＿＿＿，又變回活潑的小男孩。",
+      "answerId": "idiom-000119",
+      "answer": "返老還童",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000122",
+      "idiomId": "idiom-000120",
+      "text": "小華參觀完家鄉的古蹟後，寫作文時＿＿＿＿，一下子就寫出好幾段精彩的文字。",
+      "answerId": "idiom-000120",
+      "answer": "文思泉湧",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000123",
+      "idiomId": "idiom-000121",
+      "text": "同學感謝他幫忙撿起散落的書本，他笑著說：「這只是舉手之勞，＿＿＿＿！」",
+      "answerId": "idiom-000121",
+      "answer": "不足掛齒",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000124",
+      "idiomId": "idiom-000122",
+      "text": "這份報告已經有完整的結論，若再增加三段意思相同的文字，反而顯得＿＿＿＿。",
+      "answerId": "idiom-000122",
+      "answer": "疊床架屋",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000125",
+      "idiomId": "idiom-000111",
+      "text": "老師宣布要選出運動會的接力選手，同學們＿＿＿＿地舉手報名，誰也不想錯過機會。",
+      "answerId": "idiom-000111",
+      "answer": "爭先恐後",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000126",
+      "idiomId": "idiom-000123",
+      "text": "魔術師正在表演精彩的魔術，觀眾們＿＿＿＿地盯著舞臺，深怕錯過任何一個動作。",
+      "answerId": "idiom-000123",
+      "answer": "聚精會神",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L2"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000127",
+      "idiomId": "idiom-000124",
+      "text": "這位法官辦案公正，從不偏袒任何一方，大家都稱讚他＿＿＿＿。",
+      "answerId": "idiom-000124",
+      "answer": "明鏡高懸",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000128",
+      "idiomId": "idiom-000125",
+      "text": "以前熱鬧的老戲院早已停業，如今＿＿＿＿，只剩空蕩蕩的座位和斑駁的牆壁。",
+      "answerId": "idiom-000125",
+      "answer": "人去樓空",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000129",
+      "idiomId": "idiom-000126",
+      "text": "站在山頂欣賞日出時，眼前壯麗的景色＿＿＿＿，讓大家久久不願離開。",
+      "answerId": "idiom-000126",
+      "answer": "無與倫比",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000130",
+      "idiomId": "idiom-000127",
+      "text": "研究小組連續幾天都找不到解決問題的方法，正準備放棄時，卻突然發現新的線索，事情終於＿＿＿＿。",
+      "answerId": "idiom-000127",
+      "answer": "柳暗花明",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000131",
+      "idiomId": "idiom-000128",
+      "text": "弟弟第一次不小心打破花瓶，媽媽見他主動認錯，決定＿＿＿＿，不再處罰他。",
+      "answerId": "idiom-000128",
+      "answer": "網開一面",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L3"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000132",
+      "idiomId": "idiom-000129",
+      "text": "大家正在認真討論如何節省用水，他卻只會＿＿＿＿，說了許多空泛的話，始終提不出可行的方法。",
+      "answerId": "idiom-000129",
+      "answer": "高談闊論",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000133",
+      "idiomId": "idiom-000114",
+      "text": "躲避球比賽一開始，我方隊長就迅速發動攻勢，成功＿＿＿＿，取得領先優勢。",
+      "answerId": "idiom-000114",
+      "answer": "先發制人",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000134",
+      "idiomId": "idiom-000130",
+      "text": "出發參加校外教學前，老師＿＿＿＿，再三叮嚀大家注意交通安全。",
+      "answerId": "idiom-000130",
+      "answer": "耳提面命",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000135",
+      "idiomId": "idiom-000131",
+      "text": "消防員得知屋內還有人受困，立刻＿＿＿＿地衝入火場救人。",
+      "answerId": "idiom-000131",
+      "answer": "義無反顧",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000136",
+      "idiomId": "idiom-000132",
+      "text": "這位設計師不願模仿別人的作品，總是努力＿＿＿＿，創作出與眾不同的服裝。",
+      "answerId": "idiom-000132",
+      "answer": "標新立異",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L4"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000137",
+      "idiomId": "idiom-000133",
+      "text": "哥哥第一次離家參加三天兩夜的露營，媽媽一直＿＿＿＿，擔心他是否吃得飽、睡得好。",
+      "answerId": "idiom-000133",
+      "answer": "牽腸掛肚",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000138",
+      "idiomId": "idiom-000134",
+      "text": "新落成的圖書館外觀宏偉，內部裝潢也十分精美，讓參觀的人讚嘆＿＿＿＿。",
+      "answerId": "idiom-000134",
+      "answer": "美輪美奐",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000139",
+      "idiomId": "idiom-000135",
+      "text": "爸爸提醒我們，書上的方法可以參考，但不一定都是＿＿＿＿，遇到不同情況仍要懂得變通。",
+      "answerId": "idiom-000135",
+      "answer": "金科玉律",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000140",
+      "idiomId": "idiom-000136",
+      "text": "他做事一向＿＿＿＿，從不隨意違反學校的規定。",
+      "answerId": "idiom-000136",
+      "answer": "循規蹈矩",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000141",
+      "idiomId": "idiom-000137",
+      "text": "聽完同學巧妙又精彩的故事結局，老師忍不住＿＿＿＿，連聲稱讚。",
+      "answerId": "idiom-000137",
+      "answer": "拍案叫絕",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L5"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000142",
+      "idiomId": "idiom-000138",
+      "text": "那個人假裝自己是知名醫師，到處＿＿＿＿，欺騙民眾購買沒有療效的藥品。",
+      "answerId": "idiom-000138",
+      "answer": "招搖撞騙",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000143",
+      "idiomId": "idiom-000110",
+      "text": "為了準備辯論比賽，她反覆查證資料並練習回答問題，希望自己的論點＿＿＿＿。",
+      "answerId": "idiom-000110",
+      "answer": "無懈可擊",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000144",
+      "idiomId": "idiom-000139",
+      "text": "這座博物館收藏了各種動植物標本、古代文物和科學模型，展覽內容＿＿＿＿。",
+      "answerId": "idiom-000139",
+      "answer": "包羅萬象",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000145",
+      "idiomId": "idiom-000140",
+      "text": "兩支籃球隊的實力＿＿＿＿，直到比賽最後一分鐘都難分勝負。",
+      "answerId": "idiom-000140",
+      "answer": "勢均力敵",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
+    },
+    {
+      "questionId": "question-000146",
+      "idiomId": "idiom-000141",
+      "text": "光是看著美食照片，卻沒有真正吃到東西，只能算是＿＿＿＿，根本無法填飽肚子。",
+      "answerId": "idiom-000141",
+      "answer": "畫餅充饑",
+      "source": "媽媽已核准的G4情境練習題",
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 4,
+          "lessonCode": "L6"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽已核准",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "115 G4完整施工交接包及教材釋義補充包"
+      }
     }
   ]
 }

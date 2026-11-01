@@ -117,6 +117,60 @@
       "status": "published",
       "href": "./idioms-g5-l8.html",
       "bank": "./data/idioms-g5-l8.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L1",
+      "number": 1,
+      "status": "published",
+      "href": "./idioms-g4-l1.html",
+      "bank": "./data/idioms-g4-l1.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L2",
+      "number": 2,
+      "status": "published",
+      "href": "./idioms-g4-l2.html",
+      "bank": "./data/idioms-g4-l2.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L3",
+      "number": 3,
+      "status": "published",
+      "href": "./idioms-g4-l3.html",
+      "bank": "./data/idioms-g4-l3.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L4",
+      "number": 4,
+      "status": "published",
+      "href": "./idioms-g4-l4.html",
+      "bank": "./data/idioms-g4-l4.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L5",
+      "number": 5,
+      "status": "published",
+      "href": "./idioms-g4-l5.html",
+      "bank": "./data/idioms-g4-l5.json"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L6",
+      "number": 6,
+      "status": "published",
+      "href": "./idioms-g4-l6.html",
+      "bank": "./data/idioms-g4-l6.json"
     }
   ],
   "lessonTitles": [
@@ -227,6 +281,42 @@
       "grade": 6,
       "code": "L6",
       "title": "善用自嘲，展現幽默"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L1",
+      "title": "美麗島"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L2",
+      "title": "請到我的家鄉來"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L3",
+      "title": "鏡頭下的家鄉"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L4",
+      "title": "飛行夢"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L5",
+      "title": "月光下"
+    },
+    {
+      "academicYear": 115,
+      "grade": 4,
+      "code": "L6",
+      "title": "又遠又近的月亮"
     }
   ],
   "practiceScopes": [
