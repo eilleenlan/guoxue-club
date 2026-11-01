@@ -1,3 +1,4 @@
+import {updateCatalogDisclosure} from './catalog-collapse.mjs';
 import {representativeText,chapterNeighbors} from './learning-ui.mjs';
 import {validateCatalog,filterWorks,createQuestion,questionLimit,shuffle,grade} from './engine.mjs';
 import {loadLibrary,materialNotes,gradeWorks,authorDisplay} from './library.mjs';
@@ -34,6 +35,7 @@ function catalog(){
   }
   if(!list.length)$('catalog').append(el('p','找不到符合的篇目','empty'));
   $('clear-search').disabled=!$('search').value;
+  updateCatalogDisclosure({key:[gradeSelection,collection?.id??'',category,$('search').value].join('|'),list,collectionTitle:collection?.title,selected:work,onStart:w=>{rememberList(w);start(w);}});
 }
 function resetSolution(){$('show-solution').hidden=true;$('solution').hidden=true;$('solution-list').replaceChildren();}
 function readWork(w){work=w;question=null;selected=[];resetSolution();$('answer').replaceChildren();$('options').replaceChildren();$('home').hidden=true;$('practice').hidden=true;$('reading').hidden=false;$('reading-title').textContent=w.title;$('reading-author').textContent=authorDisplay(w);$('reading-status').textContent=w.status==='verified'?'閱讀全文':'DEMO 自編測試';$('full-text').textContent=w.text;let explanation=$('reading-explanation');if(!explanation){explanation=el('section',undefined,'reading-explanation');explanation.id='reading-explanation';$('full-text').after(explanation);}explanation.replaceChildren();explanation.hidden=!w.explanation;if(w.explanation){explanation.append(el('h2','白話論語'),el('p',w.explanation));}showMaterialNotes(w);chapterNavigation(w,'reading');$('reading-title').focus();}

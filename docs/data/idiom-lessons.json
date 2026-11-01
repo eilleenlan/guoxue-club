@@ -324,7 +324,7 @@
       "id": "115-g5-midterm",
       "academicYear": 115,
       "grade": 5,
-      "label": "本次期中範圍",
+      "label": "本次考試",
       "lessonCodes": [
         "L1",
         "L2",
@@ -333,7 +333,49 @@
         "L5",
         "L8"
       ],
-      "defaultSelected": true
+      "defaultSelected": true,
+      "semester": "上學期",
+      "exam": "期中考",
+      "confirmed": true,
+      "source": "媽媽本次跨課收合、考試快捷選擇與古詩文介面優化v2施工單明確確認"
+    },
+    {
+      "id": "115-g4-midterm",
+      "academicYear": 115,
+      "grade": 4,
+      "lessonCodes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "L6"
+      ],
+      "label": "本次考試",
+      "semester": "上學期",
+      "exam": "期中考",
+      "confirmed": true,
+      "defaultSelected": true,
+      "source": "媽媽本次跨課收合、考試快捷選擇與古詩文介面優化v2施工單明確確認"
+    },
+    {
+      "id": "115-g6-midterm",
+      "academicYear": 115,
+      "grade": 6,
+      "lessonCodes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "L6"
+      ],
+      "label": "本次考試",
+      "semester": "上學期",
+      "exam": "期中考",
+      "confirmed": true,
+      "defaultSelected": true,
+      "source": "媽媽本次跨課收合、考試快捷選擇與古詩文介面優化v2施工單明確確認"
     }
   ]
 }

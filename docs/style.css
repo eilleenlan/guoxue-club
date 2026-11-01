@@ -19,3 +19,5 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 .representative{line-height:1.7;overflow-wrap:anywhere;color:#674A3E}.chapter-navigation{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:20px 0}.chapter-navigation button{min-height:44px}.chapter-confirm{flex-basis:100%;padding:12px;border:1px solid #B86C56;border-radius:10px}.chapter-confirm button{margin:4px}
 
 .paper-filters{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin:20px 0}.paper-filters label{display:flex;flex-direction:column;gap:6px;max-width:100%}.paper-filters input{min-width:0;width:100%;box-sizing:border-box}.paper-filters p{flex-basis:100%;overflow-wrap:anywhere}
+
+#home .catalog-picker.compact-list{border:0;border-radius:0}#catalog-resume{margin:8px 0 16px;min-height:46px}

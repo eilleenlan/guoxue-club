@@ -115,3 +115,9 @@
 !/test/g5-l8-refinement.test.mjs
 
 !/scripts/g5-l8-refinement-browser.mjs
+
+!/docs/catalog-collapse.mjs
+
+!/test/selection-v2.test.mjs
+
+!/scripts/selection-v2-browser.mjs
