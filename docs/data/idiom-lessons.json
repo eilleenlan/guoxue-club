@@ -377,5 +377,14 @@
       "defaultSelected": true,
       "source": "媽媽本次跨課收合、考試快捷選擇與古詩文介面優化v2施工單明確確認"
     }
+  ],
+  "unassignedPractices": [
+    {
+      "academicYear": 115,
+      "grade": 3,
+      "materialId": "115-g3-upper-batch1",
+      "status": "published",
+      "href": "./idioms-g3.html"
+    }
   ]
 }

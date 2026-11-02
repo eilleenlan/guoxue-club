@@ -2780,6 +2780,644 @@
         "confirmedAt": "2026-11-02",
         "source": "115 G4完整施工交接包及教材釋義補充包"
       }
+    },
+    {
+      "questionId": "question-000147",
+      "idiomId": "idiom-000181",
+      "text": "不管爸爸到多遠的地方工作，妹妹都說：「就算你去了＿＿＿＿，我也會想你！」",
+      "answerId": "idiom-000181",
+      "answer": "天涯海角",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 1,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000148",
+      "idiomId": "idiom-000182",
+      "text": "考試前，小安認真準備，也沒有偷看別人的答案。考完試後，不管成績如何，他都覺得＿＿＿＿。",
+      "answerId": "idiom-000182",
+      "answer": "心安理得",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 2,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000149",
+      "idiomId": "idiom-000143",
+      "text": "媽媽今天忙著開會、接送孩子和處理家事，整天跑來跑去，真是＿＿＿＿。",
+      "answerId": "idiom-000143",
+      "answer": "疲於奔命",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 3,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000150",
+      "idiomId": "idiom-000183",
+      "text": "那隻流浪狗長期吃不飽，瘦得只剩皮包骨，簡直是＿＿＿＿。",
+      "answerId": "idiom-000183",
+      "answer": "骨瘦如柴",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 4,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000151",
+      "idiomId": "idiom-000184",
+      "text": "弟弟為了請姐姐幫忙收玩具，不停說好聽的話，想用＿＿＿＿打動姐姐。",
+      "answerId": "idiom-000184",
+      "answer": "甜言蜜語",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 5,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000152",
+      "idiomId": "idiom-000049",
+      "text": "故事裡的壞國王不准人民說出真相，還想控制所有事情，簡直是＿＿＿＿。",
+      "answerId": "idiom-000049",
+      "answer": "一手遮天",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 6,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000153",
+      "idiomId": "idiom-000185",
+      "text": "魔術師的表演精彩又奇妙，技巧已經到了＿＿＿＿的境界。",
+      "answerId": "idiom-000185",
+      "answer": "出神入化",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 7,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000154",
+      "idiomId": "idiom-000186",
+      "text": "這道數學題小華早就學會了，對他來說，解出答案是＿＿＿＿的事。",
+      "answerId": "idiom-000186",
+      "answer": "輕而易舉",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 8,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000155",
+      "idiomId": "idiom-000187",
+      "text": "村子裡的人生活安定，每天安心工作，大家都＿＿＿＿。",
+      "answerId": "idiom-000187",
+      "answer": "安居樂業",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 9,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000156",
+      "idiomId": "idiom-000031",
+      "text": "生日禮物才剛送到，弟弟就＿＿＿＿地想拆開來看。",
+      "answerId": "idiom-000031",
+      "answer": "迫不及待",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 10,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000157",
+      "idiomId": "idiom-000188",
+      "text": "弟弟完全不懂象棋規則，哥哥卻一直講高深的下棋技巧，真像是＿＿＿＿。",
+      "answerId": "idiom-000188",
+      "answer": "對牛彈琴",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 11,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000158",
+      "idiomId": "idiom-000088",
+      "text": "妹妹吃了好幾顆糖果，還想繼續吃。媽媽提醒她，吃糖果要＿＿＿＿，才不會影響健康。",
+      "answerId": "idiom-000088",
+      "answer": "適可而止",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 12,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000159",
+      "idiomId": "idiom-000189",
+      "text": "這段堅貞的愛情，即使＿＿＿＿，也不會改變，令人欣羨。",
+      "answerId": "idiom-000189",
+      "answer": "海枯石爛",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 13,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000160",
+      "idiomId": "idiom-000190",
+      "text": "大家提出了更方便的新方法，他卻堅持只能照以前的做法，真是＿＿＿＿。",
+      "answerId": "idiom-000190",
+      "answer": "墨守成規",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 14,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000161",
+      "idiomId": "idiom-000191",
+      "text": "原本大家以為小明不會游泳，沒想到他竟然得了冠軍，讓同學們對他＿＿＿＿。",
+      "answerId": "idiom-000191",
+      "answer": "另眼相看",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 15,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000162",
+      "idiomId": "idiom-000192",
+      "text": "寒流來襲，山上到處都是厚厚的冰雪，放眼望去一片＿＿＿＿。",
+      "answerId": "idiom-000192",
+      "answer": "冰天雪地",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 16,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000163",
+      "idiomId": "idiom-000193",
+      "text": "新來的老師說話溫和，待人有禮，總是一副＿＿＿＿的樣子。",
+      "answerId": "idiom-000193",
+      "answer": "文質彬彬",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 17,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000164",
+      "idiomId": "idiom-000142",
+      "text": "小華被人誤會，心裡很委屈，卻不敢說出來，只好＿＿＿＿。",
+      "answerId": "idiom-000142",
+      "answer": "忍氣吞聲",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 18,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000165",
+      "idiomId": "idiom-000194",
+      "text": "爬山才走到一半，弟弟就嫌太累，想放棄回家，開始＿＿＿＿。",
+      "answerId": "idiom-000194",
+      "answer": "打退堂鼓",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 19,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000166",
+      "idiomId": "idiom-000195",
+      "text": "老師講解後，小明還有很多地方不懂，只是＿＿＿＿，需要再複習。",
+      "answerId": "idiom-000195",
+      "answer": "一知半解",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 20,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000167",
+      "idiomId": "idiom-000196",
+      "text": "這對好朋友每天一起上學、一起玩耍，感情＿＿＿＿，幾乎形影不離。",
+      "answerId": "idiom-000196",
+      "answer": "如膠似漆",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 21,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    },
+    {
+      "questionId": "question-000168",
+      "idiomId": "idiom-000157",
+      "text": "小明組裝玩具時，照著說明書的順序，一個步驟接著一個步驟，＿＿＿＿地完成。",
+      "answerId": "idiom-000157",
+      "answer": "按部就班",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 22,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      },
+      "semanticReview": {
+        "status": "needs-manual-confirmation",
+        "potentialCompetitors": [
+          "idiom-000155"
+        ],
+        "note": "按部就班與循序漸進近義，兩句存在可互套的可能；保留媽媽核准原句，請人工確認，不等同程式判分錯誤。"
+      }
+    },
+    {
+      "questionId": "question-000169",
+      "idiomId": "idiom-000155",
+      "text": "妹妹剛開始只能游五公尺，經過每天練習，慢慢進步到十公尺、二十公尺。她用＿＿＿＿的方式提升自己的游泳能力。",
+      "answerId": "idiom-000155",
+      "answer": "循序漸進",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 23,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      },
+      "semanticReview": {
+        "status": "needs-manual-confirmation",
+        "potentialCompetitors": [
+          "idiom-000157"
+        ],
+        "note": "按部就班與循序漸進近義，兩句存在可互套的可能；保留媽媽核准原句，請人工確認，不等同程式判分錯誤。"
+      }
+    },
+    {
+      "questionId": "question-000170",
+      "idiomId": "idiom-000197",
+      "text": "媽媽出門前放在桌上的蛋糕，回家後還是＿＿＿＿，誰也沒有偷吃。",
+      "answerId": "idiom-000197",
+      "answer": "原封不動",
+      "source": "媽媽提供並核准的G3成語情境題24題整合驗收稿",
+      "sourceDocumentId": "115-g3-upper-batch1-approved-questions",
+      "sourceOriginalNumber": 24,
+      "applicability": [
+        {
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "materialId": "115-g3-upper-batch1"
+        }
+      ],
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
     }
   ]
 }

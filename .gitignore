@@ -131,3 +131,8 @@
 !/scripts/er-shi-reading-browser.mjs
 
 !/scripts/er-shi-note-markers-browser.mjs
+
+!/docs/idiom-unassigned.mjs
+!/docs/idioms-g3.html
+!/test/g3-release.test.mjs
+!/test/fixtures/115-g3-release-questions.json

@@ -4423,5 +4423,592 @@
         }
       ]
     }
+  ],
+  "unassignedMaterials": [
+    {
+      "materialId": "115-g3-upper-batch1",
+      "recordType": "unassigned-parent-material",
+      "academicYear": 115,
+      "grade": 3,
+      "semester": "上學期",
+      "lessonCode": null,
+      "lessonAssignmentStatus": "unassigned",
+      "practiceAvailable": true,
+      "definitionSource": "115-g3-upper-batch1-parent-guide",
+      "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+      "publisher": null,
+      "review": {
+        "status": "pending-textbook-verification",
+        "label": "家長整理版本，尚未與甲乙本原文核對"
+      },
+      "entries": [
+        {
+          "materialEntryId": "115-g3-upper-batch1-01",
+          "originalNumber": 1,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000181",
+          "textbookDefinition": "形容極遠的地方。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000147"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-02",
+          "originalNumber": 2,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000182",
+          "textbookDefinition": "做事合乎情理，內心坦然自得。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000148"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-03",
+          "originalNumber": 3,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000143",
+          "textbookDefinition": "事情繁多，奔波勞累極了。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000149"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-04",
+          "originalNumber": 4,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000183",
+          "textbookDefinition": "形容身體非常消瘦。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000150"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-05",
+          "originalNumber": 5,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000184",
+          "textbookDefinition": "動聽、討人喜歡的話。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000151"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-06",
+          "originalNumber": 6,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000049",
+          "textbookDefinition": "比喻玩弄權術，隱瞞真相。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000152"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-07",
+          "originalNumber": 7,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000185",
+          "textbookDefinition": "形容技藝極其高超奇妙。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000153"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-08",
+          "originalNumber": 8,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000186",
+          "textbookDefinition": "事情非常容易做到。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000154"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-09",
+          "originalNumber": 9,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000187",
+          "textbookDefinition": "生活安定，工作愉快。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000155"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-10",
+          "originalNumber": 10,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000031",
+          "textbookDefinition": "情況急迫，不能再等待。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000156"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-11",
+          "originalNumber": 11,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000188",
+          "textbookDefinition": "比喻對不懂道理的人講話。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000157"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-12",
+          "originalNumber": 12,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000088",
+          "textbookDefinition": "到了適當程度就停止。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000158"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-13",
+          "originalNumber": 13,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000189",
+          "textbookDefinition": "比喻意志堅定，永不改變。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000159"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-14",
+          "originalNumber": 14,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000190",
+          "textbookDefinition": "固執舊習慣，不知變通。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000160"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-15",
+          "originalNumber": 15,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000191",
+          "textbookDefinition": "用特別的眼光與態度看待。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000161"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-16",
+          "originalNumber": 16,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000192",
+          "textbookDefinition": "形容冰雪漫天的寒冷景象。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000162"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-17",
+          "originalNumber": 17,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000193",
+          "textbookDefinition": "形容人舉止溫和、有禮貌。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000163"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-18",
+          "originalNumber": 18,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000142",
+          "textbookDefinition": "受了委屈卻不敢反抗。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000164"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-19",
+          "originalNumber": 19,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000194",
+          "textbookDefinition": "比喻遇到困難就放棄。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000165"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-20",
+          "originalNumber": 20,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000195",
+          "textbookDefinition": "瞭解得不夠深入透徹。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000166"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-21",
+          "originalNumber": 21,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000196",
+          "textbookDefinition": "形容感情非常親密要好。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000167"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-22",
+          "originalNumber": 22,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000157",
+          "textbookDefinition": "按照一定的順序與步驟。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000168"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-23",
+          "originalNumber": 23,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000155",
+          "textbookDefinition": "依照順序漸漸提昇發展。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000169"
+          ]
+        },
+        {
+          "materialEntryId": "115-g3-upper-batch1-24",
+          "originalNumber": 24,
+          "academicYear": 115,
+          "grade": 3,
+          "semester": "上學期",
+          "lessonCode": null,
+          "lessonAssignmentStatus": "unassigned",
+          "idiomId": "idiom-000197",
+          "textbookDefinition": "保持原來的樣子，沒動過。",
+          "definitionKind": "parent-organized-summary",
+          "definitionSource": "115-g3-upper-batch1-parent-guide",
+          "textbookSource": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+          "textbookVolume": null,
+          "definitionReview": {
+            "status": "pending-textbook-verification",
+            "label": "家長整理版本，尚未與甲乙本原文核對"
+          },
+          "questionIds": [
+            "question-000170"
+          ]
+        }
+      ],
+      "practiceReleaseStatus": "published",
+      "practiceProfile": {
+        "questionCount": 8,
+        "optionCount": 8,
+        "optionScope": "selected-answers",
+        "label": "三年級成語練習",
+        "questionSourceId": "115-g3-upper-batch1-approved-questions"
+      }
+    }
+  ],
+  "sourceDocuments": [
+    {
+      "id": "115-g3-upper-batch1-parent-guide",
+      "title": "成語注釋與造句指引",
+      "source": "家長依國語甲乙本整理的《成語注釋與造句指引》",
+      "providedBy": "家長",
+      "academicYear": 115,
+      "grade": 3,
+      "semester": "上學期",
+      "form": "本次對話提供的編號清單",
+      "publisher": null,
+      "textbookOriginalVerification": "not-yet-verified"
+    },
+    {
+      "id": "115-g3-upper-batch1-approved-questions",
+      "title": "G3成語情境題｜24題整合驗收稿",
+      "academicYear": 115,
+      "grade": 3,
+      "semester": "上學期",
+      "providedBy": "媽媽",
+      "form": "本次完整補件文字清單",
+      "review": {
+        "status": "approved",
+        "label": "媽媽核准24題整合驗收稿",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-02",
+        "source": "本次115 G3 24題情境題完整補件，依編號逐字匯入，不自行優化"
+      }
+    }
   ]
 }
