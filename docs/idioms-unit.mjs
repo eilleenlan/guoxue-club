@@ -11,17 +11,19 @@ try{const response=await fetch('./data/idiom-lessons.json');if(!response.ok)thro
 
 function setupCombined(selected,grade){
  const choices=$('combined-courses'),panel=$('combined-choices'),toggle=$('combined-toggle');
+ let selectionMode='custom';
+ const modeButtons={exam:'combined-scope',all:'combined-all',custom:'combined-toggle'};
  panel.hidden=true;toggle.setAttribute('aria-expanded','false');
  choices.querySelectorAll('label').forEach(n=>n.remove());
  for(const l of selected){const label=el('label'),input=el('input');input.type='checkbox';input.value=l.academicYear+':'+l.grade+':'+l.code;label.append(input,document.createTextNode(l.academicYear+' '+courseLabel(l)+(l.status==='candidate'?'（候選）':'')));choices.append(label);}
  const checked=()=>[...choices.querySelectorAll('input:checked')].map(n=>n.value);
- const sync=()=>{const keys=checked(),chosen=selected.filter(l=>keys.includes(l.academicYear+':'+l.grade+':'+l.code));$('combined-count').textContent='已選 '+keys.length+' 課';$('combined-summary').textContent=chosen.length?chosen.map(l=>l.academicYear+' '+l.code).join('、'):'尚未選課，請先選擇課次。';$('combined-start').disabled=keys.length===0;};
- choices.onchange=sync;
- toggle.onclick=()=>{panel.hidden=!panel.hidden;toggle.setAttribute('aria-expanded',String(!panel.hidden));};
+ const sync=()=>{const keys=checked(),chosen=selected.filter(l=>keys.includes(l.academicYear+':'+l.grade+':'+l.code));$('combined-count').textContent='已選 '+keys.length+' 課';$('combined-summary').textContent=chosen.length?chosen.map(l=>l.academicYear+' '+l.code).join('、'):'尚未選課，請先選擇課次。';$('combined-start').disabled=keys.length===0;for(const [mode,id] of Object.entries(modeButtons))$(id).setAttribute('aria-pressed',String(selectionMode===mode));};
+ choices.onchange=()=>{selectionMode='custom';sync();};
+ toggle.onclick=()=>{panel.hidden=!panel.hidden;toggle.setAttribute('aria-expanded',String(!panel.hidden));selectionMode='custom';sync();};
  const scope=scopes.find(s=>s.confirmed===true&&s.grade===grade&&s.lessonCodes.every(code=>selected.some(l=>l.academicYear===s.academicYear&&l.code===code)));
  $('combined-scope').hidden=!scope;
- $('combined-scope').onclick=()=>{if(!scope)return;const keys=new Set(scope.lessonCodes.map(code=>scope.academicYear+':'+grade+':'+code));choices.querySelectorAll('input').forEach(n=>n.checked=keys.has(n.value));sync();};
- for(const [id,value] of [['combined-all',true],['combined-clear',false]])$(id).onclick=()=>{choices.querySelectorAll('input').forEach(n=>n.checked=value);sync();};
+ $('combined-scope').onclick=()=>{if(!scope)return;const keys=new Set(scope.lessonCodes.map(code=>scope.academicYear+':'+grade+':'+code));choices.querySelectorAll('input').forEach(n=>n.checked=keys.has(n.value));selectionMode='exam';sync();};
+ for(const [id,value] of [['combined-all',true],['combined-clear',false]])$(id).onclick=()=>{choices.querySelectorAll('input').forEach(n=>n.checked=value);selectionMode=value?'all':'custom';sync();};
  $('combined-start').onclick=()=>{const keys=checked();if(!keys.length)return;const url=new URL('./idioms.html',location.href);url.searchParams.set('mode','combined');url.searchParams.set('grade',grade);keys.forEach(k=>url.searchParams.append('lesson',k));if(selected.some(l=>keys.includes(l.academicYear+':'+l.grade+':'+l.code)&&l.status==='candidate'))url.searchParams.set('preview','1');location.href=url.href;};
  if(scope?.defaultSelected)$('combined-scope').onclick();sync();
 }
