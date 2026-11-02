@@ -121,3 +121,13 @@
 !/test/selection-v2.test.mjs
 
 !/scripts/selection-v2-browser.mjs
+
+!/docs/reading-support.mjs
+
+!/docs/data/reading-er-shi-ji-qu.json
+
+!/test/er-shi-reading-release.test.mjs
+
+!/scripts/er-shi-reading-browser.mjs
+
+!/scripts/er-shi-note-markers-browser.mjs
