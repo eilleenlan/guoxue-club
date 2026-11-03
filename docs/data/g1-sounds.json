@@ -1,0 +1,1786 @@
+{
+  "schemaVersion": 1,
+  "title": "一年級注音易錯的分辨音",
+  "releaseStatus": "published",
+  "sourceTotal": 120,
+  "entries": [
+    {
+      "id": "g1-sound-001",
+      "sourceNumber": 1,
+      "sourceImage": "33712.jpg",
+      "word": "辛勤",
+      "sourceZhuyin": "ㄒㄧㄣ ㄑㄧㄣˊ",
+      "sourceSyllables": [
+        "ㄒㄧㄣ",
+        "ㄑㄧㄣˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄒㄧㄣ ㄑㄧㄣˊ",
+      "wrongOption": "ㄒㄧㄣ ㄑㄧㄥˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄅㄚˋ ˙ㄅㄚ ㄇㄟˇ ㄊㄧㄢ ＿＿＿＿ ˙ㄉㄧ ㄍㄨㄥ ㄗㄨㄛˋ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "勤的前鼻音與情的後鼻音混淆；保留辛字不動。"
+      }
+    },
+    {
+      "id": "g1-sound-002",
+      "sourceNumber": 2,
+      "sourceImage": "33712.jpg",
+      "word": "心情",
+      "sourceZhuyin": "ㄒㄧㄣ ㄑㄧㄥˊ",
+      "sourceSyllables": [
+        "ㄒㄧㄣ",
+        "ㄑㄧㄥˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄒㄧㄣ ㄑㄧㄥˊ",
+      "wrongOption": "ㄒㄧㄣ ㄑㄧㄣˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄢˊ ˙ㄉㄜ ㄏㄣˇ ㄎㄞ ㄒㄧㄣ，＿＿＿＿ ㄓㄣ ㄏㄠˇ！",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "心情為日常熟悉詞；情／勤韻尾辨別。"
+      }
+    },
+    {
+      "id": "g1-sound-003",
+      "sourceNumber": 3,
+      "sourceImage": "33712.jpg",
+      "word": "進步",
+      "sourceZhuyin": "ㄐㄧㄣˋ ㄅㄨˋ",
+      "sourceSyllables": [
+        "ㄐㄧㄣˋ",
+        "ㄅㄨˋ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄐㄧㄣˋ ㄅㄨˋ",
+      "wrongOption": "ㄐㄧㄥˋ ㄅㄨˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄇㄟˇ ㄊㄧㄢ ㄌㄧㄢˋ ㄒㄧˊ，ㄨㄛˇ ㄧㄡˇ ＿＿＿＿ ˙ㄌㄜ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "進／靜的前後鼻音；不是任意更換聲調。"
+      }
+    },
+    {
+      "id": "g1-sound-004",
+      "sourceNumber": 4,
+      "sourceImage": "33712.jpg",
+      "word": "今天",
+      "sourceZhuyin": "ㄐㄧㄣ ㄊㄧㄢ",
+      "sourceSyllables": [
+        "ㄐㄧㄣ",
+        "ㄊㄧㄢ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄐㄧㄣ ㄊㄧㄢ",
+      "wrongOption": "ㄐㄧㄥ ㄊㄧㄢ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "＿＿＿＿ ㄒㄧㄥ ㄑㄧ ㄧ，ㄨㄛˇ ㄧㄠˋ ㄕㄤˋ ㄒㄩㄝˊ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "今／京的前後鼻音；完整今天天氣情境。"
+      }
+    },
+    {
+      "id": "g1-sound-005",
+      "sourceNumber": 5,
+      "sourceImage": "33712.jpg",
+      "word": "打針",
+      "sourceZhuyin": "ㄉㄚˇ ㄓㄣ",
+      "sourceSyllables": [
+        "ㄉㄚˇ",
+        "ㄓㄣ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄉㄚˇ ㄓㄣ",
+      "wrongOption": "ㄉㄚˇ ㄓㄥ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "醫護人員的手以針筒替孩子上臂注射，針頭朝向裸露上臂，溫和醫療場景；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/injection.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "依交接包已確認的針／爭辨音案例。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-006",
+      "sourceNumber": 6,
+      "sourceImage": "33712.jpg",
+      "word": "鋼琴",
+      "sourceZhuyin": "ㄍㄤ ㄑㄧㄣˊ",
+      "sourceSyllables": [
+        "ㄍㄤ",
+        "ㄑㄧㄣˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄍㄤ ㄑㄧㄣˊ",
+      "wrongOption": "ㄍㄤ ㄑㄧㄥˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一架完整黑色平台鋼琴，清楚的黑白琴鍵和琴腳；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/piano.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "依交接包已確認的琴／情辨音案例。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-008",
+      "sourceNumber": 8,
+      "sourceImage": "33712.jpg",
+      "word": "圍巾",
+      "sourceZhuyin": "ㄨㄟˊ ㄐㄧㄣ",
+      "sourceSyllables": [
+        "ㄨㄟˊ",
+        "ㄐㄧㄣ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄨㄟˊ ㄐㄧㄣ",
+      "wrongOption": "ㄨㄟˊ ㄐㄧㄥ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一條藍色冬季圍巾，交疊的長條、毛線紋理及流蘇；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/scarf.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "依交接包已確認的巾／京辨音案例。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-009",
+      "sourceNumber": 9,
+      "sourceImage": "33712.jpg",
+      "word": "印章",
+      "sourceZhuyin": "ㄧㄣˋ ㄓㄤ",
+      "sourceSyllables": [
+        "ㄧㄣˋ",
+        "ㄓㄤ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄧㄣˋ ㄓㄤ",
+      "wrongOption": "ㄧㄥˋ ㄓㄤ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "紅色手柄印章與紅色印泥盒，在紙上蓋出無文字星形印記；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/stamp.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "依交接包已確認的印／應辨音案例，章不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-012",
+      "sourceNumber": 12,
+      "sourceImage": "33712.jpg",
+      "word": "拼圖",
+      "sourceZhuyin": "ㄆㄧㄣ ㄊㄨˊ",
+      "sourceSyllables": [
+        "ㄆㄧㄣ",
+        "ㄊㄨˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄆㄧㄣ ㄊㄨˊ",
+      "wrongOption": "ㄆㄧㄥ ㄊㄨˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "四塊不同顏色的拼圖互相咬合，有清楚圓形卡榫；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/puzzle.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "拼的前後鼻音辨音；圖字維持原聲調。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-013",
+      "sourceNumber": 13,
+      "sourceImage": "33712.jpg",
+      "word": "來賓",
+      "sourceZhuyin": "ㄌㄞˊ ㄅㄧㄣ",
+      "sourceSyllables": [
+        "ㄌㄞˊ",
+        "ㄅㄧㄣ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄌㄞˊ ㄅㄧㄣ",
+      "wrongOption": "ㄌㄞˊ ㄅㄧㄥ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄐㄧㄚ ㄌㄧˇ ㄧㄡˇ ＿＿＿＿，ㄨㄛˇ ㄑㄧㄥˇ ㄊㄚ ㄏㄜ ㄔㄚˊ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "來賓為交接包已確認的辨音詞；賓／冰韻尾。"
+      }
+    },
+    {
+      "id": "g1-sound-016",
+      "sourceNumber": 16,
+      "sourceImage": "33712.jpg",
+      "word": "信封",
+      "sourceZhuyin": "ㄒㄧㄣˋ ㄈㄥ",
+      "sourceSyllables": [
+        "ㄒㄧㄣˋ",
+        "ㄈㄥ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄒㄧㄣˋ ㄈㄥ",
+      "wrongOption": "ㄒㄧㄥˋ ㄈㄥ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "奶油色信封，清楚信封折線與封口，完全沒有文字或郵票字樣；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/envelope.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "信封同時含前後鼻音；僅改信字以免一次比較兩處。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-017",
+      "sourceNumber": 17,
+      "sourceImage": "33712.jpg",
+      "word": "本領",
+      "sourceZhuyin": "ㄅㄣˇ ㄌㄧㄥˇ",
+      "sourceSyllables": [
+        "ㄅㄣˇ",
+        "ㄌㄧㄥˇ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄅㄣˇ ㄌㄧㄥˇ",
+      "wrongOption": "ㄅㄣˇ ㄌㄧㄣˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄒㄧㄠˇ ㄋㄧㄠˇ ㄏㄨㄟˋ ㄈㄟ，ㄓㄜˋ ㄕˋ ㄊㄚ ˙ㄉㄜ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "領的後鼻音對比鄰的前鼻音，保持本字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-019",
+      "sourceNumber": 19,
+      "sourceImage": "33712.jpg",
+      "word": "感謝",
+      "sourceZhuyin": "ㄍㄢˇ ㄒㄧㄝˋ",
+      "sourceSyllables": [
+        "ㄍㄢˇ",
+        "ㄒㄧㄝˋ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄍㄢˇ ㄒㄧㄝˋ",
+      "wrongOption": "ㄍㄤˇ ㄒㄧㄝˋ",
+      "bossType": "AN_ANG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄌㄠˇ ㄕ ㄅㄤ ㄇㄤˊ，ㄨㄛˇ ㄧㄠˋ ＿＿＿＿ ㄊㄚ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "交接包已確認感／港混淆，不改謝字。"
+      }
+    },
+    {
+      "id": "g1-sound-026",
+      "sourceNumber": 26,
+      "sourceImage": "33712.jpg",
+      "word": "海豚",
+      "sourceZhuyin": "ㄏㄞˇ ㄊㄨㄣˊ",
+      "sourceSyllables": [
+        "ㄏㄞˇ",
+        "ㄊㄨㄣˊ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄏㄞˇ ㄊㄨㄣˊ",
+      "wrongOption": "ㄏㄞˇ ㄊㄨㄥˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一隻灰藍色海豚躍出海面，細長吻部、背鰭及水花；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/dolphin.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "海豚的豚／同前後鼻音差別，海字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-028",
+      "sourceNumber": 28,
+      "sourceImage": "33712.jpg",
+      "word": "身高",
+      "sourceZhuyin": "ㄕㄣ ㄍㄠ",
+      "sourceSyllables": [
+        "ㄕㄣ",
+        "ㄍㄠ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄕㄣ ㄍㄠ",
+      "wrongOption": "ㄕㄥ ㄍㄠ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ㄧㄡˋ ㄓㄤˇ ㄍㄠ ˙ㄌㄜ，ㄌㄞˊ ㄌㄧㄤˊ ㄧ ㄌㄧㄤˊ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "身高測量為熟悉情境；身／生辨別。"
+      }
+    },
+    {
+      "id": "g1-sound-029",
+      "sourceNumber": 29,
+      "sourceImage": "33712.jpg",
+      "word": "鄰居",
+      "sourceZhuyin": "ㄌㄧㄣˊ ㄐㄩ",
+      "sourceSyllables": [
+        "ㄌㄧㄣˊ",
+        "ㄐㄩ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄌㄧㄣˊ ㄐㄩ",
+      "wrongOption": "ㄌㄧㄥˊ ㄐㄩ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄓㄨˋ ㄗㄞˋ ㄨㄛˇ ㄐㄧㄚ ㄍㄜˊ ㄅㄧˋ ˙ㄉㄜ ㄖㄣˊ，ㄕˋ ㄨㄛˇ ˙ㄉㄜ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "鄰／靈韻尾辨音，鄰居是熟悉社區詞。"
+      }
+    },
+    {
+      "id": "g1-sound-030",
+      "sourceNumber": 30,
+      "sourceImage": "33712.jpg",
+      "word": "森林",
+      "sourceZhuyin": "ㄙㄣ ㄌㄧㄣˊ",
+      "sourceSyllables": [
+        "ㄙㄣ",
+        "ㄌㄧㄣˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄙㄣ ㄌㄧㄣˊ",
+      "wrongOption": "ㄙㄥ ㄌㄧㄣˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄏㄣˇ ㄉㄨㄛ ㄕㄨˋ ㄓㄤˇ ㄗㄞˋ ＿＿＿＿ ㄌㄧˇ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "森林熟悉詞；森／僧前後鼻音。"
+      }
+    },
+    {
+      "id": "g1-sound-036",
+      "sourceNumber": 36,
+      "sourceImage": "33712.jpg",
+      "word": "餅乾",
+      "sourceZhuyin": "ㄅㄧㄥˇ ㄍㄢ",
+      "sourceSyllables": [
+        "ㄅㄧㄥˇ",
+        "ㄍㄢ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄅㄧㄥˇ ㄍㄢ",
+      "wrongOption": "ㄅㄧㄣˇ ㄍㄢ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "三塊金黃色圓形巧克力豆餅乾放在盤子上，烘焙質感；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/cookies.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "餅的後鼻音對前鼻音，保持第三聲。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-037",
+      "sourceNumber": 37,
+      "sourceImage": "33712.jpg",
+      "word": "可憐",
+      "sourceZhuyin": "ㄎㄜˇ ㄌㄧㄢˊ",
+      "sourceSyllables": [
+        "ㄎㄜˇ",
+        "ㄌㄧㄢˊ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄎㄜˇ ㄌㄧㄢˊ",
+      "wrongOption": "ㄎㄜˇ ㄋㄧㄢˊ",
+      "bossType": "N_L",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄒㄧㄠˇ ㄍㄡˇ ㄇㄟˊ ㄉㄨㄥ ˙ㄒㄧ ㄔ，ㄏㄠˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "憐與年同韻同調，僅對比邊音與鼻音。"
+      }
+    },
+    {
+      "id": "g1-sound-042",
+      "sourceNumber": 42,
+      "sourceImage": "33712.jpg",
+      "word": "烤肉",
+      "sourceZhuyin": "ㄎㄠˇ ㄖㄡˋ",
+      "sourceSyllables": [
+        "ㄎㄠˇ",
+        "ㄖㄡˋ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄎㄠˇ ㄖㄡˋ",
+      "wrongOption": "ㄎㄠˇ ㄌㄡˋ",
+      "bossType": "L_R",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ˙ㄇㄣ ㄅㄚˇ ㄖㄡˋ ㄈㄤˋ ㄗㄞˋ ㄨㄤˇ ˙ㄗ ㄕㄤˋ，ㄧˋ ㄑㄧˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "肉與漏為同韻同調的ㄖ／ㄌ對比，不改烤字。"
+      }
+    },
+    {
+      "id": "g1-sound-045",
+      "sourceNumber": 45,
+      "sourceImage": "33712.jpg",
+      "word": "蜜蜂",
+      "sourceZhuyin": "ㄇㄧˋ ㄈㄥ",
+      "sourceSyllables": [
+        "ㄇㄧˋ",
+        "ㄈㄥ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄇㄧˋ ㄈㄥ",
+      "wrongOption": "ㄇㄧˋ ㄈㄣ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "黑黃條紋蜜蜂飛向粉色花朵，透明翅膀、小觸角、兒童友善；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/bee.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "蜂與分前後鼻音，蜜字第四聲不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-046",
+      "sourceNumber": 46,
+      "sourceImage": "33712.jpg",
+      "word": "請客",
+      "sourceZhuyin": "ㄑㄧㄥˇ ㄎㄜˋ",
+      "sourceSyllables": [
+        "ㄑㄧㄥˇ",
+        "ㄎㄜˋ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄑㄧㄥˇ ㄎㄜˋ",
+      "wrongOption": "ㄑㄧㄣˇ ㄎㄜˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄕㄥ ㄖˋ ㄉㄠˋ ˙ㄌㄜ，ㄨㄛˇ ＿＿＿＿ ㄔ ㄉㄢˋ ㄍㄠ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "請／寢的前後鼻音；生日請吃蛋糕提示。"
+      }
+    },
+    {
+      "id": "g1-sound-047",
+      "sourceNumber": 47,
+      "sourceImage": "33712.jpg",
+      "word": "慶祝",
+      "sourceZhuyin": "ㄑㄧㄥˋ ㄓㄨˋ",
+      "sourceSyllables": [
+        "ㄑㄧㄥˋ",
+        "ㄓㄨˋ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄑㄧㄥˋ ㄓㄨˋ",
+      "wrongOption": "ㄑㄧㄣˋ ㄓㄨˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄕㄥ ㄖˋ ㄉㄠˋ ˙ㄌㄜ，ㄉㄚˋ ㄐㄧㄚ ㄧˋ ㄑㄧˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "慶的後鼻音對前鼻音，祝字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-049",
+      "sourceNumber": 49,
+      "sourceImage": "33712.jpg",
+      "word": "坑洞",
+      "sourceZhuyin": "ㄎㄥ ㄉㄨㄥˋ",
+      "sourceSyllables": [
+        "ㄎㄥ",
+        "ㄉㄨㄥˋ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄎㄥ ㄉㄨㄥˋ",
+      "wrongOption": "ㄎㄣ ㄉㄨㄥˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄌㄨˋ ㄕㄤˋ ㄧㄡˇ ＿＿＿＿，ㄒㄧㄠˇ ㄒㄧㄣ ㄅㄨˊ ㄧㄠˋ ㄉㄧㄝˊ ㄉㄠˇ。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "坑的後鼻音收尾易漏，選項保留完整音節與來源聲調。"
+      }
+    },
+    {
+      "id": "g1-sound-050",
+      "sourceNumber": 50,
+      "sourceImage": "33712.jpg",
+      "word": "跳繩",
+      "sourceZhuyin": "ㄊㄧㄠˋ ㄕㄥˊ",
+      "sourceSyllables": [
+        "ㄊㄧㄠˋ",
+        "ㄕㄥˊ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄊㄧㄠˋ ㄕㄥˊ",
+      "wrongOption": "ㄊㄧㄠˋ ㄕㄣˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一位孩子雙手各握跳繩手柄，完整繩圈從頭頂繞過至腳下，雙腳離地跳起，無其他球類或遊樂器材。彩色兒童友善插圖，不含中文字、注音或答案文字。",
+      "imagePath": "./assets/g1/jump-rope.svg",
+      "contextSentence": null,
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "繩／神韻尾，跳字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-051",
+      "sourceNumber": 51,
+      "sourceImage": "33712.jpg",
+      "word": "停止",
+      "sourceZhuyin": "ㄊㄧㄥˊ ㄓˇ",
+      "sourceSyllables": [
+        "ㄊㄧㄥˊ",
+        "ㄓˇ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄊㄧㄥˊ ㄓˇ",
+      "wrongOption": "ㄊㄧㄣˊ ㄓˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄏㄨㄥˊ ㄉㄥ ㄌㄧㄤˋ ˙ㄌㄜ，ㄧㄠˋ ＿＿＿＿ ㄑㄧㄢˊ ㄐㄧㄣˋ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "停字後鼻音與前鼻音比較，維持第二聲，止字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-052",
+      "sourceNumber": 52,
+      "sourceImage": "33712.jpg",
+      "word": "蘋果",
+      "sourceZhuyin": "ㄆㄧㄥˊ ㄍㄨㄛˇ",
+      "sourceSyllables": [
+        "ㄆㄧㄥˊ",
+        "ㄍㄨㄛˇ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄆㄧㄥˊ ㄍㄨㄛˇ",
+      "wrongOption": "ㄆㄧㄣˊ ㄍㄨㄛˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一顆紅蘋果，短梗及綠葉，完整輪廓，不切片；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/apple.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "蘋／貧同聲調前後鼻音對比。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-053",
+      "sourceNumber": 53,
+      "sourceImage": "33712.jpg",
+      "word": "晴天",
+      "sourceZhuyin": "ㄑㄧㄥˊ ㄊㄧㄢ",
+      "sourceSyllables": [
+        "ㄑㄧㄥˊ",
+        "ㄊㄧㄢ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄑㄧㄥˊ ㄊㄧㄢ",
+      "wrongOption": "ㄑㄧㄣˊ ㄊㄧㄢ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄊㄞˋ ㄧㄤˊ ㄔㄨ ㄌㄞˊ，ㄇㄟˊ ㄒㄧㄚˋ ㄩˇ，ㄐㄧㄣ ㄊㄧㄢ ㄕˋ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "晴／秦前後鼻音；天字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-056",
+      "sourceNumber": 56,
+      "sourceImage": "33712.jpg",
+      "word": "同學",
+      "sourceZhuyin": "ㄊㄨㄥˊ ㄒㄩㄝˊ",
+      "sourceSyllables": [
+        "ㄊㄨㄥˊ",
+        "ㄒㄩㄝˊ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄊㄨㄥˊ ㄒㄩㄝˊ",
+      "wrongOption": "ㄊㄨㄣˊ ㄒㄩㄝˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ㄏㄢˋ ㄊㄚ ㄗㄞˋ ㄊㄨㄥˊ ㄧˋ ㄅㄢ ㄕㄤˋ ㄎㄜˋ，ㄨㄛˇ ˙ㄇㄣ ㄕˋ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "同／屯韻尾，學字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-057",
+      "sourceNumber": 57,
+      "sourceImage": "33712.jpg",
+      "word": "蜂蜜",
+      "sourceZhuyin": "ㄈㄥ ㄇㄧˋ",
+      "sourceSyllables": [
+        "ㄈㄥ",
+        "ㄇㄧˋ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄈㄥ ㄇㄧˋ",
+      "wrongOption": "ㄈㄣ ㄇㄧˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "透明玻璃瓶內金黃色蜂蜜，木製蜂蜜棒垂下稠蜜，沒有標籤；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/honey.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "蜂／分前後鼻音，與蜜蜂題次序不同，仍各為來源詞。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-059",
+      "sourceNumber": 59,
+      "sourceImage": "33712.jpg",
+      "word": "興奮",
+      "sourceZhuyin": "ㄒㄧㄥ ㄈㄣˋ",
+      "sourceSyllables": [
+        "ㄒㄧㄥ",
+        "ㄈㄣˋ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄒㄧㄥ ㄈㄣˋ",
+      "wrongOption": "ㄒㄧㄥˋ ㄈㄣˋ",
+      "bossType": "TONE",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄇㄧㄥˊ ㄊㄧㄢ ㄧㄠˋ ㄑㄩˋ ㄨㄢˊ，ㄨㄛˇ ㄏㄠˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "興奮之興第一聲，易受熟悉詞高興的第四聲類推，不隨機改調。"
+      }
+    },
+    {
+      "id": "g1-sound-060",
+      "sourceNumber": 60,
+      "sourceImage": "33712.jpg",
+      "word": "鈴鼓",
+      "sourceZhuyin": "ㄌㄧㄥˊ ㄍㄨˇ",
+      "sourceSyllables": [
+        "ㄌㄧㄥˊ",
+        "ㄍㄨˇ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄌㄧㄥˊ ㄍㄨˇ",
+      "wrongOption": "ㄌㄧㄣˊ ㄍㄨˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "圓形手搖鈴鼓，皮面與木框，四周清楚可見成對金屬小鈸；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/tambourine.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "鈴／林的前後鼻音，鼓字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-061",
+      "sourceNumber": 61,
+      "sourceImage": "33713.jpg",
+      "word": "檸檬",
+      "sourceZhuyin": "ㄋㄧㄥˊ ㄇㄥˊ",
+      "sourceSyllables": [
+        "ㄋㄧㄥˊ",
+        "ㄇㄥˊ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄋㄧㄥˊ ㄇㄥˊ",
+      "wrongOption": "ㄌㄧㄥˊ ㄇㄥˊ",
+      "bossType": "N_L",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一顆黃色檸檬及切半的檸檬，明顯兩端尖及果肉分瓣；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/lemon.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "檸與靈同韻同調的ㄋ／ㄌ對比，檬字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-062",
+      "sourceNumber": 62,
+      "sourceImage": "33713.jpg",
+      "word": "冰箱",
+      "sourceZhuyin": "ㄅㄧㄥ ㄒㄧㄤ",
+      "sourceSyllables": [
+        "ㄅㄧㄥ",
+        "ㄒㄧㄤ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄅㄧㄥ ㄒㄧㄤ",
+      "wrongOption": "ㄅㄧㄣ ㄒㄧㄤ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "淺藍色家用雙門冰箱，一扇門打開，內有水果及瓶罐，無標籤文字；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/fridge.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "冰／賓前後鼻音，箱字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-063",
+      "sourceNumber": 63,
+      "sourceImage": "33713.jpg",
+      "word": "游泳",
+      "sourceZhuyin": "ㄧㄡˊ ㄩㄥˇ",
+      "sourceSyllables": [
+        "ㄧㄡˊ",
+        "ㄩㄥˇ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄧㄡˊ ㄩㄥˇ",
+      "wrongOption": "ㄧㄡˊ ㄩㄣˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一位孩子在泳池水面向前游，頭露出水面、雙臂划水，池邊及水道清楚可見，無泳圈或嬉水玩具。彩色兒童友善插圖，不含中文字、注音或答案文字。",
+      "imagePath": "./assets/g1/swimming.svg",
+      "contextSentence": null,
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "泳的後鼻音與允的前鼻音；同聲調同介音。"
+      }
+    },
+    {
+      "id": "g1-sound-064",
+      "sourceNumber": 64,
+      "sourceImage": "33713.jpg",
+      "word": "恐龍",
+      "sourceZhuyin": "ㄎㄨㄥˇ ㄌㄨㄥˊ",
+      "sourceSyllables": [
+        "ㄎㄨㄥˇ",
+        "ㄌㄨㄥˊ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄎㄨㄥˇ ㄌㄨㄥˊ",
+      "wrongOption": "ㄎㄨㄥˇ ㄖㄨㄥˊ",
+      "bossType": "L_R",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "綠色長頸恐龍全身，長尾、四足和背部尖片，無文字；彩色兒童友善插圖，不含任何文字或注音。",
+      "imagePath": "./assets/g1/dinosaur.svg",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "熟悉的恐龍，龍／容同韻同調、聲母ㄌ／ㄖ對比。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-065",
+      "sourceNumber": 65,
+      "sourceImage": "33713.jpg",
+      "word": "生氣",
+      "sourceZhuyin": "ㄕㄥ ㄑㄧˋ",
+      "sourceSyllables": [
+        "ㄕㄥ",
+        "ㄑㄧˋ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄕㄥ ㄑㄧˋ",
+      "wrongOption": "ㄕㄣ ㄑㄧˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄊㄚ ㄌㄨㄢˋ ㄉㄧㄡ ˙ㄌㄜ ㄨㄛˇ ˙ㄉㄜ ㄨㄢˊ ㄐㄩˋ，ㄨㄛˇ ㄏㄣˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "生／身前後鼻音；氣字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-066",
+      "sourceNumber": 66,
+      "sourceImage": "33713.jpg",
+      "word": "燈塔",
+      "sourceZhuyin": "ㄉㄥ ㄊㄚˇ",
+      "sourceSyllables": [
+        "ㄉㄥ",
+        "ㄊㄚˇ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄉㄥ ㄊㄚˇ",
+      "wrongOption": "ㄉㄣ ㄊㄚˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "海邊紅白條紋燈塔，塔頂燈室發光照向海面及一艘小船；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/lighthouse.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "燈字後鼻音與前鼻音比較，塔字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-070",
+      "sourceNumber": 70,
+      "sourceImage": "33713.jpg",
+      "word": "眼睛",
+      "sourceZhuyin": "ㄧㄢˇ ㄐㄧㄥ",
+      "sourceSyllables": [
+        "ㄧㄢˇ",
+        "ㄐㄧㄥ"
+      ],
+      "sourceTones": [
+        "ˇ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄧㄢˇ ㄐㄧㄥ",
+      "wrongOption": "ㄧㄢˇ ㄐㄧㄣ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ㄩㄥˋ ＿＿＿＿ ㄎㄢˋ ㄕㄨ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "眼睛的睛／巾前後鼻音，來源無輕聲，照原表保留。"
+      }
+    },
+    {
+      "id": "g1-sound-071",
+      "sourceNumber": 71,
+      "sourceImage": "33713.jpg",
+      "word": "鯨魚",
+      "sourceZhuyin": "ㄐㄧㄥ ㄩˊ",
+      "sourceSyllables": [
+        "ㄐㄧㄥ",
+        "ㄩˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄐㄧㄥ ㄩˊ",
+      "wrongOption": "ㄐㄧㄣ ㄩˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "藍色巨大鯨魚浮出海面，寬大身體、水平尾鰭及頭頂噴水；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/whale.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "鯨／金前後鼻音，魚字不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-072",
+      "sourceNumber": 72,
+      "sourceImage": "33713.jpg",
+      "word": "青菜",
+      "sourceZhuyin": "ㄑㄧㄥ ㄘㄞˋ",
+      "sourceSyllables": [
+        "ㄑㄧㄥ",
+        "ㄘㄞˋ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˋ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄑㄧㄥ ㄘㄞˋ",
+      "wrongOption": "ㄑㄧㄣ ㄘㄞˋ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "一束新鮮綠色葉菜，短白色菜梗與寬綠葉，無包裝文字；彩色兒童插圖，沒有中文字、注音或任何答案文字。",
+      "imagePath": "./assets/g1/greens.svg",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "青／親前後鼻音；菜字第四聲不變。"
+      },
+      "contextSentence": null
+    },
+    {
+      "id": "g1-sound-073",
+      "sourceNumber": 73,
+      "sourceImage": "33713.jpg",
+      "word": "電影",
+      "sourceZhuyin": "ㄉㄧㄢˋ ㄧㄥˇ",
+      "sourceSyllables": [
+        "ㄉㄧㄢˋ",
+        "ㄧㄥˇ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄉㄧㄢˋ ㄧㄥˇ",
+      "wrongOption": "ㄉㄧㄢˋ ㄧㄣˇ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ㄏㄢˋ ㄅㄚˋ ㄇㄚ ㄑㄩˋ ㄒㄧˋ ㄩㄢˋ ㄎㄢˋ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "影與引同聲調韻尾對比，電字不變。"
+      }
+    },
+    {
+      "id": "g1-sound-076",
+      "sourceNumber": 76,
+      "sourceImage": "33713.jpg",
+      "word": "聰明",
+      "sourceZhuyin": "ㄘㄨㄥ ㄇㄧㄥˊ",
+      "sourceSyllables": [
+        "ㄘㄨㄥ",
+        "ㄇㄧㄥˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄘㄨㄥ ㄇㄧㄥˊ",
+      "wrongOption": "ㄘㄨㄣ ㄇㄧㄥˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄊㄚ ㄧ ㄒㄧㄤˇ ㄐㄧㄡˋ ㄏㄨㄟˋ ˙ㄌㄜ，ㄓㄣ ＿＿＿＿！",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "聰的後鼻音對前鼻音，明字維持原讀。"
+      }
+    },
+    {
+      "id": "g1-sound-079",
+      "sourceNumber": 79,
+      "sourceImage": "33713.jpg",
+      "word": "學生",
+      "sourceZhuyin": "ㄒㄩㄝˊ ㄕㄥ",
+      "sourceSyllables": [
+        "ㄒㄩㄝˊ",
+        "ㄕㄥ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "一聲"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄒㄩㄝˊ ㄕㄥ",
+      "wrongOption": "ㄒㄩㄝˊ ㄕㄣ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄌㄠˇ ㄕ ㄕㄤˋ ㄎㄜˋ，＿＿＿＿ ㄓㄨㄢ ㄒㄧㄣ ㄊㄧㄥ。",
+      "status": "READY",
+      "notes": [
+        "來源圖片逐筆核對；新提示與干擾音為候選，仍待家長驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "學生是孩子熟悉身分；生／身前後鼻音。"
+      }
+    },
+    {
+      "id": "g1-sound-081",
+      "sourceNumber": 81,
+      "sourceImage": "33713.jpg",
+      "word": "涼亭",
+      "sourceZhuyin": "ㄌㄧㄤˊ ㄊㄧㄥˊ",
+      "sourceSyllables": [
+        "ㄌㄧㄤˊ",
+        "ㄊㄧㄥˊ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄌㄧㄤˊ ㄊㄧㄥˊ",
+      "wrongOption": "ㄌㄧㄤˊ ㄊㄧㄣˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄨㄛˇ ˙ㄇㄣ ㄗㄞˋ ＿＿＿＿ ㄌㄧˇ ㄒㄧㄡ ㄒㄧˊ。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "亭／庭後鼻音對前鼻音；保持涼字不動。"
+      }
+    },
+    {
+      "id": "g1-sound-085",
+      "sourceNumber": 85,
+      "sourceImage": "33713.jpg",
+      "word": "精神",
+      "sourceZhuyin": "ㄐㄧㄥ ㄕㄣˊ",
+      "sourceSyllables": [
+        "ㄐㄧㄥ",
+        "ㄕㄣˊ"
+      ],
+      "sourceTones": [
+        "一聲",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄐㄧㄥ ㄕㄣˊ",
+      "wrongOption": "ㄐㄧㄣ ㄕㄣˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄕㄨㄟˋ ㄅㄠˇ ˙ㄌㄜ，ㄐㄧㄡˋ ㄏㄣˇ ㄧㄡˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "精／金前後鼻音，只改第一字、神的來源二聲保留。"
+      }
+    },
+    {
+      "id": "g1-sound-093",
+      "sourceNumber": 93,
+      "sourceImage": "33713.jpg",
+      "word": "進來",
+      "sourceZhuyin": "ㄐㄧㄣˋ ㄌㄞˊ",
+      "sourceSyllables": [
+        "ㄐㄧㄣˋ",
+        "ㄌㄞˊ"
+      ],
+      "sourceTones": [
+        "ˋ",
+        "ˊ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄐㄧㄣˋ ㄌㄞˊ",
+      "wrongOption": "ㄐㄧㄥˋ ㄌㄞˊ",
+      "bossType": "EN_ENG",
+      "familiarity": "FAMILIAR",
+      "promptType": "CONTEXT",
+      "imagePrompt": null,
+      "imagePath": null,
+      "contextSentence": "ㄇㄣˊ ㄎㄞ ˙ㄌㄜ，ㄑㄧㄥˇ ＿＿＿＿。",
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "進來為熟悉指令；進／靜韻尾。"
+      }
+    },
+    {
+      "id": "g1-sound-099",
+      "sourceNumber": 99,
+      "sourceImage": "33713.jpg",
+      "word": "籃球場",
+      "sourceZhuyin": "ㄌㄢˊ ㄑㄧㄡˊ ㄔㄤˇ",
+      "sourceSyllables": [
+        "ㄌㄢˊ",
+        "ㄑㄧㄡˊ",
+        "ㄔㄤˇ"
+      ],
+      "sourceTones": [
+        "ˊ",
+        "ˊ",
+        "ˇ"
+      ],
+      "sourceReview": {
+        "status": "visual-transcription",
+        "reviewer": "Codex，非家長逐題驗收"
+      },
+      "correctOption": "ㄌㄢˊ ㄑㄧㄡˊ ㄔㄤˇ",
+      "wrongOption": "ㄋㄢˊ ㄑㄧㄡˊ ㄔㄤˇ",
+      "bossType": "N_L",
+      "familiarity": "FAMILIAR",
+      "promptType": "IMAGE",
+      "imagePrompt": "完整籃球場，清楚的籃球場界線與兩端籃框，一顆橘色籃球，無人物遮蔽球場、無其他球類設備。彩色兒童友善插圖，不含中文字、注音或答案文字。",
+      "imagePath": "./assets/g1/basketball-court.svg",
+      "contextSentence": null,
+      "status": "READY",
+      "notes": [
+        "原圖讀音逐筆比對；提示與干擾音為本機候選，仍需家長畫面驗收。"
+      ],
+      "contentReview": {
+        "status": "local-content-checked",
+        "reviewer": "Codex",
+        "parentAcceptance": "pending",
+        "distractorRationale": "籃與難同韻同調，對比ㄌ／ㄋ；不改球場。"
+      }
+    }
+  ]
+}

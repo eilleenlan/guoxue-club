@@ -136,3 +136,16 @@
 !/docs/idioms-g3.html
 !/test/g3-release.test.mjs
 !/test/fixtures/115-g3-release-questions.json
+
+!/docs/g1-sounds.html
+!/docs/g1-sounds.css
+!/docs/g1-sounds.mjs
+!/docs/g1-sounds-engine.mjs
+!/docs/data/g1-sounds.json
+!/docs/assets/
+/docs/assets/*
+!/docs/assets/g1/
+/docs/assets/g1/*
+!/docs/assets/g1/*.svg
+!/test/g1-release.test.mjs
+!/test/fixtures/g1-first-batch.json

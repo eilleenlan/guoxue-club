@@ -1,0 +1,484 @@
+{
+  "entries": [
+    {
+      "id": "g1-sound-001",
+      "sourceNumber": 1,
+      "word": "辛勤",
+      "correctOption": "ㄒㄧㄣ ㄑㄧㄣˊ",
+      "wrongOption": "ㄒㄧㄣ ㄑㄧㄥˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄅㄚˋ ˙ㄅㄚ ㄇㄟˇ ㄊㄧㄢ ＿＿＿＿ ˙ㄉㄧ ㄍㄨㄥ ㄗㄨㄛˋ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-002",
+      "sourceNumber": 2,
+      "word": "心情",
+      "correctOption": "ㄒㄧㄣ ㄑㄧㄥˊ",
+      "wrongOption": "ㄒㄧㄣ ㄑㄧㄣˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄢˊ ˙ㄉㄜ ㄏㄣˇ ㄎㄞ ㄒㄧㄣ，＿＿＿＿ ㄓㄣ ㄏㄠˇ！",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-003",
+      "sourceNumber": 3,
+      "word": "進步",
+      "correctOption": "ㄐㄧㄣˋ ㄅㄨˋ",
+      "wrongOption": "ㄐㄧㄥˋ ㄅㄨˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄇㄟˇ ㄊㄧㄢ ㄌㄧㄢˋ ㄒㄧˊ，ㄨㄛˇ ㄧㄡˇ ＿＿＿＿ ˙ㄌㄜ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-004",
+      "sourceNumber": 4,
+      "word": "今天",
+      "correctOption": "ㄐㄧㄣ ㄊㄧㄢ",
+      "wrongOption": "ㄐㄧㄥ ㄊㄧㄢ",
+      "promptType": "CONTEXT",
+      "contextSentence": "＿＿＿＿ ㄒㄧㄥ ㄑㄧ ㄧ，ㄨㄛˇ ㄧㄠˋ ㄕㄤˋ ㄒㄩㄝˊ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-005",
+      "sourceNumber": 5,
+      "word": "打針",
+      "correctOption": "ㄉㄚˇ ㄓㄣ",
+      "wrongOption": "ㄉㄚˇ ㄓㄥ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/injection.svg"
+    },
+    {
+      "id": "g1-sound-006",
+      "sourceNumber": 6,
+      "word": "鋼琴",
+      "correctOption": "ㄍㄤ ㄑㄧㄣˊ",
+      "wrongOption": "ㄍㄤ ㄑㄧㄥˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/piano.svg"
+    },
+    {
+      "id": "g1-sound-008",
+      "sourceNumber": 8,
+      "word": "圍巾",
+      "correctOption": "ㄨㄟˊ ㄐㄧㄣ",
+      "wrongOption": "ㄨㄟˊ ㄐㄧㄥ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/scarf.svg"
+    },
+    {
+      "id": "g1-sound-009",
+      "sourceNumber": 9,
+      "word": "印章",
+      "correctOption": "ㄧㄣˋ ㄓㄤ",
+      "wrongOption": "ㄧㄥˋ ㄓㄤ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/stamp.svg"
+    },
+    {
+      "id": "g1-sound-012",
+      "sourceNumber": 12,
+      "word": "拼圖",
+      "correctOption": "ㄆㄧㄣ ㄊㄨˊ",
+      "wrongOption": "ㄆㄧㄥ ㄊㄨˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/puzzle.svg"
+    },
+    {
+      "id": "g1-sound-013",
+      "sourceNumber": 13,
+      "word": "來賓",
+      "correctOption": "ㄌㄞˊ ㄅㄧㄣ",
+      "wrongOption": "ㄌㄞˊ ㄅㄧㄥ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄐㄧㄚ ㄌㄧˇ ㄧㄡˇ ＿＿＿＿，ㄨㄛˇ ㄑㄧㄥˇ ㄊㄚ ㄏㄜ ㄔㄚˊ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-016",
+      "sourceNumber": 16,
+      "word": "信封",
+      "correctOption": "ㄒㄧㄣˋ ㄈㄥ",
+      "wrongOption": "ㄒㄧㄥˋ ㄈㄥ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/envelope.svg"
+    },
+    {
+      "id": "g1-sound-017",
+      "sourceNumber": 17,
+      "word": "本領",
+      "correctOption": "ㄅㄣˇ ㄌㄧㄥˇ",
+      "wrongOption": "ㄅㄣˇ ㄌㄧㄣˇ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄒㄧㄠˇ ㄋㄧㄠˇ ㄏㄨㄟˋ ㄈㄟ，ㄓㄜˋ ㄕˋ ㄊㄚ ˙ㄉㄜ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-019",
+      "sourceNumber": 19,
+      "word": "感謝",
+      "correctOption": "ㄍㄢˇ ㄒㄧㄝˋ",
+      "wrongOption": "ㄍㄤˇ ㄒㄧㄝˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄌㄠˇ ㄕ ㄅㄤ ㄇㄤˊ，ㄨㄛˇ ㄧㄠˋ ＿＿＿＿ ㄊㄚ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-026",
+      "sourceNumber": 26,
+      "word": "海豚",
+      "correctOption": "ㄏㄞˇ ㄊㄨㄣˊ",
+      "wrongOption": "ㄏㄞˇ ㄊㄨㄥˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/dolphin.svg"
+    },
+    {
+      "id": "g1-sound-028",
+      "sourceNumber": 28,
+      "word": "身高",
+      "correctOption": "ㄕㄣ ㄍㄠ",
+      "wrongOption": "ㄕㄥ ㄍㄠ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ㄧㄡˋ ㄓㄤˇ ㄍㄠ ˙ㄌㄜ，ㄌㄞˊ ㄌㄧㄤˊ ㄧ ㄌㄧㄤˊ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-029",
+      "sourceNumber": 29,
+      "word": "鄰居",
+      "correctOption": "ㄌㄧㄣˊ ㄐㄩ",
+      "wrongOption": "ㄌㄧㄥˊ ㄐㄩ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄓㄨˋ ㄗㄞˋ ㄨㄛˇ ㄐㄧㄚ ㄍㄜˊ ㄅㄧˋ ˙ㄉㄜ ㄖㄣˊ，ㄕˋ ㄨㄛˇ ˙ㄉㄜ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-030",
+      "sourceNumber": 30,
+      "word": "森林",
+      "correctOption": "ㄙㄣ ㄌㄧㄣˊ",
+      "wrongOption": "ㄙㄥ ㄌㄧㄣˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄏㄣˇ ㄉㄨㄛ ㄕㄨˋ ㄓㄤˇ ㄗㄞˋ ＿＿＿＿ ㄌㄧˇ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-036",
+      "sourceNumber": 36,
+      "word": "餅乾",
+      "correctOption": "ㄅㄧㄥˇ ㄍㄢ",
+      "wrongOption": "ㄅㄧㄣˇ ㄍㄢ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/cookies.svg"
+    },
+    {
+      "id": "g1-sound-037",
+      "sourceNumber": 37,
+      "word": "可憐",
+      "correctOption": "ㄎㄜˇ ㄌㄧㄢˊ",
+      "wrongOption": "ㄎㄜˇ ㄋㄧㄢˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄒㄧㄠˇ ㄍㄡˇ ㄇㄟˊ ㄉㄨㄥ ˙ㄒㄧ ㄔ，ㄏㄠˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-042",
+      "sourceNumber": 42,
+      "word": "烤肉",
+      "correctOption": "ㄎㄠˇ ㄖㄡˋ",
+      "wrongOption": "ㄎㄠˇ ㄌㄡˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ˙ㄇㄣ ㄅㄚˇ ㄖㄡˋ ㄈㄤˋ ㄗㄞˋ ㄨㄤˇ ˙ㄗ ㄕㄤˋ，ㄧˋ ㄑㄧˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-045",
+      "sourceNumber": 45,
+      "word": "蜜蜂",
+      "correctOption": "ㄇㄧˋ ㄈㄥ",
+      "wrongOption": "ㄇㄧˋ ㄈㄣ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/bee.svg"
+    },
+    {
+      "id": "g1-sound-046",
+      "sourceNumber": 46,
+      "word": "請客",
+      "correctOption": "ㄑㄧㄥˇ ㄎㄜˋ",
+      "wrongOption": "ㄑㄧㄣˇ ㄎㄜˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄕㄥ ㄖˋ ㄉㄠˋ ˙ㄌㄜ，ㄨㄛˇ ＿＿＿＿ ㄔ ㄉㄢˋ ㄍㄠ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-047",
+      "sourceNumber": 47,
+      "word": "慶祝",
+      "correctOption": "ㄑㄧㄥˋ ㄓㄨˋ",
+      "wrongOption": "ㄑㄧㄣˋ ㄓㄨˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄕㄥ ㄖˋ ㄉㄠˋ ˙ㄌㄜ，ㄉㄚˋ ㄐㄧㄚ ㄧˋ ㄑㄧˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-049",
+      "sourceNumber": 49,
+      "word": "坑洞",
+      "correctOption": "ㄎㄥ ㄉㄨㄥˋ",
+      "wrongOption": "ㄎㄣ ㄉㄨㄥˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄌㄨˋ ㄕㄤˋ ㄧㄡˇ ＿＿＿＿，ㄒㄧㄠˇ ㄒㄧㄣ ㄅㄨˊ ㄧㄠˋ ㄉㄧㄝˊ ㄉㄠˇ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-050",
+      "sourceNumber": 50,
+      "word": "跳繩",
+      "correctOption": "ㄊㄧㄠˋ ㄕㄥˊ",
+      "wrongOption": "ㄊㄧㄠˋ ㄕㄣˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/jump-rope.svg"
+    },
+    {
+      "id": "g1-sound-051",
+      "sourceNumber": 51,
+      "word": "停止",
+      "correctOption": "ㄊㄧㄥˊ ㄓˇ",
+      "wrongOption": "ㄊㄧㄣˊ ㄓˇ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄏㄨㄥˊ ㄉㄥ ㄌㄧㄤˋ ˙ㄌㄜ，ㄧㄠˋ ＿＿＿＿ ㄑㄧㄢˊ ㄐㄧㄣˋ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-052",
+      "sourceNumber": 52,
+      "word": "蘋果",
+      "correctOption": "ㄆㄧㄥˊ ㄍㄨㄛˇ",
+      "wrongOption": "ㄆㄧㄣˊ ㄍㄨㄛˇ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/apple.svg"
+    },
+    {
+      "id": "g1-sound-053",
+      "sourceNumber": 53,
+      "word": "晴天",
+      "correctOption": "ㄑㄧㄥˊ ㄊㄧㄢ",
+      "wrongOption": "ㄑㄧㄣˊ ㄊㄧㄢ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄊㄞˋ ㄧㄤˊ ㄔㄨ ㄌㄞˊ，ㄇㄟˊ ㄒㄧㄚˋ ㄩˇ，ㄐㄧㄣ ㄊㄧㄢ ㄕˋ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-056",
+      "sourceNumber": 56,
+      "word": "同學",
+      "correctOption": "ㄊㄨㄥˊ ㄒㄩㄝˊ",
+      "wrongOption": "ㄊㄨㄣˊ ㄒㄩㄝˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ㄏㄢˋ ㄊㄚ ㄗㄞˋ ㄊㄨㄥˊ ㄧˋ ㄅㄢ ㄕㄤˋ ㄎㄜˋ，ㄨㄛˇ ˙ㄇㄣ ㄕˋ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-057",
+      "sourceNumber": 57,
+      "word": "蜂蜜",
+      "correctOption": "ㄈㄥ ㄇㄧˋ",
+      "wrongOption": "ㄈㄣ ㄇㄧˋ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/honey.svg"
+    },
+    {
+      "id": "g1-sound-059",
+      "sourceNumber": 59,
+      "word": "興奮",
+      "correctOption": "ㄒㄧㄥ ㄈㄣˋ",
+      "wrongOption": "ㄒㄧㄥˋ ㄈㄣˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄇㄧㄥˊ ㄊㄧㄢ ㄧㄠˋ ㄑㄩˋ ㄨㄢˊ，ㄨㄛˇ ㄏㄠˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-060",
+      "sourceNumber": 60,
+      "word": "鈴鼓",
+      "correctOption": "ㄌㄧㄥˊ ㄍㄨˇ",
+      "wrongOption": "ㄌㄧㄣˊ ㄍㄨˇ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/tambourine.svg"
+    },
+    {
+      "id": "g1-sound-061",
+      "sourceNumber": 61,
+      "word": "檸檬",
+      "correctOption": "ㄋㄧㄥˊ ㄇㄥˊ",
+      "wrongOption": "ㄌㄧㄥˊ ㄇㄥˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/lemon.svg"
+    },
+    {
+      "id": "g1-sound-062",
+      "sourceNumber": 62,
+      "word": "冰箱",
+      "correctOption": "ㄅㄧㄥ ㄒㄧㄤ",
+      "wrongOption": "ㄅㄧㄣ ㄒㄧㄤ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/fridge.svg"
+    },
+    {
+      "id": "g1-sound-063",
+      "sourceNumber": 63,
+      "word": "游泳",
+      "correctOption": "ㄧㄡˊ ㄩㄥˇ",
+      "wrongOption": "ㄧㄡˊ ㄩㄣˇ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/swimming.svg"
+    },
+    {
+      "id": "g1-sound-064",
+      "sourceNumber": 64,
+      "word": "恐龍",
+      "correctOption": "ㄎㄨㄥˇ ㄌㄨㄥˊ",
+      "wrongOption": "ㄎㄨㄥˇ ㄖㄨㄥˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/dinosaur.svg"
+    },
+    {
+      "id": "g1-sound-065",
+      "sourceNumber": 65,
+      "word": "生氣",
+      "correctOption": "ㄕㄥ ㄑㄧˋ",
+      "wrongOption": "ㄕㄣ ㄑㄧˋ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄊㄚ ㄌㄨㄢˋ ㄉㄧㄡ ˙ㄌㄜ ㄨㄛˇ ˙ㄉㄜ ㄨㄢˊ ㄐㄩˋ，ㄨㄛˇ ㄏㄣˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-066",
+      "sourceNumber": 66,
+      "word": "燈塔",
+      "correctOption": "ㄉㄥ ㄊㄚˇ",
+      "wrongOption": "ㄉㄣ ㄊㄚˇ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/lighthouse.svg"
+    },
+    {
+      "id": "g1-sound-070",
+      "sourceNumber": 70,
+      "word": "眼睛",
+      "correctOption": "ㄧㄢˇ ㄐㄧㄥ",
+      "wrongOption": "ㄧㄢˇ ㄐㄧㄣ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ㄩㄥˋ ＿＿＿＿ ㄎㄢˋ ㄕㄨ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-071",
+      "sourceNumber": 71,
+      "word": "鯨魚",
+      "correctOption": "ㄐㄧㄥ ㄩˊ",
+      "wrongOption": "ㄐㄧㄣ ㄩˊ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/whale.svg"
+    },
+    {
+      "id": "g1-sound-072",
+      "sourceNumber": 72,
+      "word": "青菜",
+      "correctOption": "ㄑㄧㄥ ㄘㄞˋ",
+      "wrongOption": "ㄑㄧㄣ ㄘㄞˋ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/greens.svg"
+    },
+    {
+      "id": "g1-sound-073",
+      "sourceNumber": 73,
+      "word": "電影",
+      "correctOption": "ㄉㄧㄢˋ ㄧㄥˇ",
+      "wrongOption": "ㄉㄧㄢˋ ㄧㄣˇ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ㄏㄢˋ ㄅㄚˋ ㄇㄚ ㄑㄩˋ ㄒㄧˋ ㄩㄢˋ ㄎㄢˋ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-076",
+      "sourceNumber": 76,
+      "word": "聰明",
+      "correctOption": "ㄘㄨㄥ ㄇㄧㄥˊ",
+      "wrongOption": "ㄘㄨㄣ ㄇㄧㄥˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄊㄚ ㄧ ㄒㄧㄤˇ ㄐㄧㄡˋ ㄏㄨㄟˋ ˙ㄌㄜ，ㄓㄣ ＿＿＿＿！",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-079",
+      "sourceNumber": 79,
+      "word": "學生",
+      "correctOption": "ㄒㄩㄝˊ ㄕㄥ",
+      "wrongOption": "ㄒㄩㄝˊ ㄕㄣ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄌㄠˇ ㄕ ㄕㄤˋ ㄎㄜˋ，＿＿＿＿ ㄓㄨㄢ ㄒㄧㄣ ㄊㄧㄥ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-081",
+      "sourceNumber": 81,
+      "word": "涼亭",
+      "correctOption": "ㄌㄧㄤˊ ㄊㄧㄥˊ",
+      "wrongOption": "ㄌㄧㄤˊ ㄊㄧㄣˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄨㄛˇ ˙ㄇㄣ ㄗㄞˋ ＿＿＿＿ ㄌㄧˇ ㄒㄧㄡ ㄒㄧˊ。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-085",
+      "sourceNumber": 85,
+      "word": "精神",
+      "correctOption": "ㄐㄧㄥ ㄕㄣˊ",
+      "wrongOption": "ㄐㄧㄣ ㄕㄣˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄕㄨㄟˋ ㄅㄠˇ ˙ㄌㄜ，ㄐㄧㄡˋ ㄏㄣˇ ㄧㄡˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-093",
+      "sourceNumber": 93,
+      "word": "進來",
+      "correctOption": "ㄐㄧㄣˋ ㄌㄞˊ",
+      "wrongOption": "ㄐㄧㄥˋ ㄌㄞˊ",
+      "promptType": "CONTEXT",
+      "contextSentence": "ㄇㄣˊ ㄎㄞ ˙ㄌㄜ，ㄑㄧㄥˇ ＿＿＿＿。",
+      "imagePath": null
+    },
+    {
+      "id": "g1-sound-099",
+      "sourceNumber": 99,
+      "word": "籃球場",
+      "correctOption": "ㄌㄢˊ ㄑㄧㄡˊ ㄔㄤˇ",
+      "wrongOption": "ㄋㄢˊ ㄑㄧㄡˊ ㄔㄤˇ",
+      "promptType": "IMAGE",
+      "contextSentence": null,
+      "imagePath": "./assets/g1/basketball-court.svg"
+    }
+  ]
+}
