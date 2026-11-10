@@ -16,9 +16,9 @@ function writeProgress(current, metadata = {}) {
   }));
 }
 function remember(){if(inspecting)return;try{writeProgress(session);}catch{$('error').textContent='此瀏覽器無法保存進度，關閉頁面前請先完成練習。';}}
-function showFeedback(q,buttons){for(const b of buttons){b.disabled=true;if(b.dataset.option===q.correctOption)b.classList.add('correct');else if(b.dataset.option===session.feedback.selected)b.classList.add('wrong');}const feedback=node('span',session.feedback.correct?'✅ 答對了！':'再試一次也沒關係。正確讀音是：');$('feedback').replaceChildren(feedback);if(!session.feedback.correct){const reading=createG1ZhuyinFlow(q.correctOption);reading.classList.add('answer-reading');$('feedback').append(reading);}$('wrong-count').textContent='待清零 '+Object.keys(session.mistakes).length+' 題';$('next').textContent=session.index===session.queue.length-1?'看本輪結果 →':'下一題 →';$('next').hidden=inspecting;if(inspecting)$('wrong-count').textContent='家長驗收';}
+function showFeedback(q,buttons){for(const b of buttons){b.disabled=true;if(b.dataset.option===q.correctOption)b.classList.add('correct');else if(b.dataset.option===session.feedback.selected)b.classList.add('wrong');}const feedback=node('span',session.feedback.correct?'✅ 答對了！':'再試一次也沒關係。正確讀音是：');$('feedback').replaceChildren(feedback);if(!session.feedback.correct){const reading=createG1ZhuyinFlow(q.correctOption);reading.classList.add('answer-reading');$('feedback').append(reading);}$('wrong-count').textContent='待清零 '+Object.keys(session.mistakes).length+' 題';$('next').textContent=session.index===session.queue.length-1?'看本輪結果 →':'下一題 →';$('next').hidden=inspecting;if(inspecting)$('wrong-count').textContent='家長驗收';$('abandon-round').hidden=!unfinishedRound();}
 function panels(active){for(const key of ['start','question','summary'])$(key+'-panel').hidden=key!==active;}
-async function renderQuestion(){const version=++loadVersion,q=currentG1Question(session);panels('question');$('abandon-round').hidden=inspecting;$('inspect-back').hidden=!inspecting;$('progress').textContent=(session.roundKind==='first'?'第一輪':'錯題再練')+'｜'+(session.index+1)+'／'+session.queue.length;if(inspecting)$('progress').textContent='家長驗收｜第 '+q.sourceNumber+' 題';$('wrong-count').textContent=inspecting?'驗收作答':'待清零 '+Object.keys(session.mistakes).length+' 題';$('question-title').textContent=q.promptType==='IMAGE'?'🖼️ 看圖片，選讀音':'💬 讀短句，選讀音';$('question-title').textContent+='｜'+g1DifficultyLabel(q);$('prompt').replaceChildren();$('feedback').replaceChildren();$('next').hidden=true;const options=session.optionOrder?.id===q.id?session.optionOrder.values:optionsFor(q);session.optionOrder={id:q.id,values:options};remember();const buttons=options.map(option=>{const b=node('button');b.type='button';b.dataset.option=option;b.setAttribute('aria-label',option);b.append(createG1ZhuyinFlow(option));b.disabled=true;b.onclick=()=>{if(session.answered)return;session=answerG1(session,option);remember();showFeedback(q,buttons);};return b;});$('answers').replaceChildren(...buttons);
+async function renderQuestion(){const version=++loadVersion,q=currentG1Question(session);panels('question');$('abandon-round').hidden=!unfinishedRound();$('inspect-back').hidden=!inspecting;$('progress').textContent=(session.roundKind==='first'?'第一輪':'錯題再練')+'｜'+(session.index+1)+'／'+session.queue.length;if(inspecting)$('progress').textContent='家長驗收｜第 '+q.sourceNumber+' 題';$('wrong-count').textContent=inspecting?'驗收作答':'待清零 '+Object.keys(session.mistakes).length+' 題';$('question-title').textContent=q.promptType==='IMAGE'?'🖼️ 看圖片，選讀音':'💬 讀短句，選讀音';$('question-title').textContent+='｜'+g1DifficultyLabel(q);$('prompt').replaceChildren();$('feedback').replaceChildren();$('next').hidden=true;const options=session.optionOrder?.id===q.id?session.optionOrder.values:optionsFor(q);session.optionOrder={id:q.id,values:options};remember();const buttons=options.map(option=>{const b=node('button');b.type='button';b.dataset.option=option;b.setAttribute('aria-label',option);b.append(createG1ZhuyinFlow(option));b.disabled=true;b.onclick=()=>{if(session.answered)return;session=answerG1(session,option);remember();showFeedback(q,buttons);};return b;});$('answers').replaceChildren(...buttons);
  try{if(q.promptType==='IMAGE'){let url=imageURLs.get(q.imagePath);if(!url){const r=await fetch(q.imagePath);if(!r.ok)throw Error('圖片讀取失敗');url=URL.createObjectURL(new Blob([await r.text()],{type:'image/svg+xml'}));imageURLs.set(q.imagePath,url);}const img=node('img');img.alt='請看圖片，選出正確讀音';img.src=url;await img.decode();if(version!==loadVersion)return;$('prompt').append(img);}else{const p=node('p');p.className='context';p.append(createG1ZhuyinFlow(q.contextSentence,{wordGroups:g1ApprovedWords[q.sourceNumber]??g1ContextWords[q.sourceNumber]??g1Batch2Words[q.sourceNumber]??g1FinalWords[q.sourceNumber]}));$('prompt').append(p);}if(version!==loadVersion)return;if(session.answered)showFeedback(q,buttons);else buttons.forEach(b=>b.disabled=false);$('question-title').focus({preventScroll:true});window.scrollTo(0,0);}catch(e){$('error').textContent='這題無法完整顯示，請重新整理後再試。'+e.message;}}
 function matchesStage(question, stage) {
   return stage === 'MIXED' || g1Stage(question) === stage;
@@ -77,8 +77,14 @@ let composing = false;
 const dialog = $('abandon-dialog');
 const permitInput = $('permit-answer');
 
-$('abandon-round').onclick = () => {
-  if (inspecting || session?.phase !== 'question') return;
+function unfinishedRound() {
+  const current = session ?? savedSession;
+  if (inspecting || current?.phase !== 'question') return null;
+  return current.answered && current.index === current.queue.length - 1 ? null : current;
+}
+
+function openAbandonDialog() {
+  if (!unfinishedRound()) return;
   permitGranted = false;
   permitQuestion = null;
   $('permit-title').textContent = '放棄本輪';
@@ -90,7 +96,9 @@ $('abandon-round').onclick = () => {
   $('permit-load-status').textContent = permitCandidates.length ? '' : '目前沒有可用的解鎖題，請繼續練習。';
   dialog.showModal();
   $('cancel-abandon').focus();
-};
+}
+$('abandon-round').onclick = openAbandonDialog;
+$('abandon-saved-round').onclick = openAbandonDialog;
 $('cancel-abandon').onclick = () => dialog.close();
 $('apply-permit').onclick = () => {
   if (!permitCandidates.length) return;
@@ -120,20 +128,23 @@ $('permit-form').onsubmit = event => {
 };
 
 $('confirm-abandon').onclick = () => {
-  if (!dialog.open || !permitGranted || inspecting || session?.phase !== 'question') return;
-  const archive = [...abandonedRounds, { ...snapshotG1Session(session), roundStage }];
+  const current = unfinishedRound();
+  if (!dialog.open || !permitGranted || !current) return;
+  const archive = [...abandonedRounds, { ...snapshotG1Session(current), roundStage }];
   try {
-    writeProgress(session, { roundAbandoned: true, abandonedRounds: archive });
+    writeProgress(current, { roundAbandoned: true, abandonedRounds: archive });
   } catch {
     $('abandon-error').textContent = '無法保存本輪紀錄，請繼續原本的練習。';
     return;
   }
   abandonedRounds = archive;
-  abandonedSession = session;
+  abandonedSession = current;
+  savedSession = null;
   session = null;
   permitGranted = false;
   dialog.close();
   $('start').textContent = '開始練習 →';
+  $('abandon-saved-round').hidden = true;
   $('stage').disabled = false;
   $('round-size').disabled = false;
   panels('start');
@@ -153,4 +164,4 @@ const count=bank.entries.filter(e=>e.status==='READY').length;$('bank-count').te
   }
 }
 $('inspect-open').disabled=false;
-const saved=localStorage.getItem(storageKey);if(saved){const snapshot=JSON.parse(saved);const restored=restoreG1Session(bank,snapshot);abandonedRounds=Array.isArray(snapshot.abandonedRounds)?snapshot.abandonedRounds:[];if(snapshot.roundAbandoned===true){abandonedSession=restored;$('bank-count').textContent+='・待練錯題已保留';}else{savedSession=restored;$('start').textContent='繼續上次練習 →';$('round-size').disabled=true;$('stage').disabled=true;const stages=new Set(bank.entries.filter(q=>savedSession.queue.includes(q.id)).map(g1Stage));roundStage=['IMAGE','CONTEXT','BOSS','MIXED'].includes(snapshot.roundStage)?snapshot.roundStage:stages.size===1?[...stages][0]:'MIXED';$('stage').value=$('summary-stage').value=roundStage;if(savedSession.roundLimit!==undefined){$('round-size').value=String(savedSession.roundLimit);$('summary-size').value=String(savedSession.roundLimit);}$('bank-count').textContent+='・已保留上次進度';}}$('start').disabled=false;}catch(e){$('error').textContent='無法開始練習：'+e.message;}
+const saved=localStorage.getItem(storageKey);if(saved){const snapshot=JSON.parse(saved);const restored=restoreG1Session(bank,snapshot);abandonedRounds=Array.isArray(snapshot.abandonedRounds)?snapshot.abandonedRounds:[];if(snapshot.roundAbandoned===true){abandonedSession=restored;$('bank-count').textContent+='・待練錯題已保留';}else{savedSession=restored;$('start').textContent='繼續上次練習 →';$('round-size').disabled=true;$('stage').disabled=true;const stages=new Set(bank.entries.filter(q=>savedSession.queue.includes(q.id)).map(g1Stage));roundStage=['IMAGE','CONTEXT','BOSS','MIXED'].includes(snapshot.roundStage)?snapshot.roundStage:stages.size===1?[...stages][0]:'MIXED';$('stage').value=$('summary-stage').value=roundStage;if(savedSession.roundLimit!==undefined){$('round-size').value=String(savedSession.roundLimit);$('summary-size').value=String(savedSession.roundLimit);}$('bank-count').textContent+='・已保留上次進度';}}$('abandon-saved-round').hidden=!unfinishedRound();$('start').disabled=false;}catch(e){$('error').textContent='無法開始練習：'+e.message;}
