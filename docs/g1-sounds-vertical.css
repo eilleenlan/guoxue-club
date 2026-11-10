@@ -1,0 +1,9 @@
+/* 沿用已驗收樣張尺寸與定位；只作用於G1練習。 */
+#prompt .context{font-size:26px;line-height:1;letter-spacing:0;width:100%;margin:12px 0 20px}
+#answers{gap:14px}
+#answers button{font-size:32px;min-height:142px;padding:10px 16px;line-height:1}
+#answers .g1-zy-flow,#feedback .g1-zy-flow{column-gap:.03em;justify-content:center}
+#feedback .answer-reading{font-size:30px;margin-top:6px;justify-content:flex-start}
+@media(max-width:420px){#prompt .context{font-size:25px}#answers button{font-size:30px;min-height:135px;padding:8px}#feedback .answer-reading{font-size:28px}}
+.round-choice{display:block;margin:16px 0;font-size:18px}.round-choice select{display:block;width:100%;min-height:48px;margin-top:8px;padding:8px;border:2px solid #C68C71;border-radius:10px;background:#fff;color:inherit;font:inherit}#restart:disabled{opacity:.55}
+#feedback .answer-reading{display:flex}

@@ -149,3 +149,13 @@
 !/docs/assets/g1/*.svg
 !/test/g1-release.test.mjs
 !/test/fixtures/g1-first-batch.json
+
+!/docs/g1-sounds-vertical.css
+!/docs/g1-context-approved-words.mjs
+!/docs/g1-difficulty.mjs
+!/docs/g1-context-final-words.mjs
+!/docs/g1-context-batch2-words.mjs
+!/docs/g1-zhuyin-display.mjs
+!/docs/g1-zhuyin-display.css
+!/docs/g1-context-words.mjs
+!/docs/g1-permit-candidates.mjs
