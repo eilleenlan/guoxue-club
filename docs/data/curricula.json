@@ -665,6 +665,15 @@
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "lou-shi-ming",
+          "order": null,
+          "semester": "上學期",
+          "examRange": "期末考",
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
         }
       ]
     },

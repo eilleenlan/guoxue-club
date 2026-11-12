@@ -11,17 +11,21 @@ export function splitText(work) {
     return opening?[raw.slice(0,opening[0].length),raw.slice(opening[0].length)]:[raw];
   });
   if (pieces.join('') !== work.text) throw new Error('原文無法完整切割');
-  let paragraph=0;
+  let paragraph=0, practiceParagraph=0;
   return pieces.map((raw, index) => {
     let content=raw;
-    if (work.layout==='prose-paragraphs' && content.startsWith('\n\n')) {paragraph++;content=content.slice(2);}
+    if (work.layout==='prose-paragraphs' && content.startsWith('\n\n')) {
+      paragraph++;
+      if (!work.mergePracticeParagraphs?.includes(paragraph+1)) practiceParagraph++;
+      content=content.slice(2);
+    }
     else if (work.layout==='poem-lines' && content.startsWith('\n')) content=content.slice(1);
     else if (work.layout==='passage-lines' && content.startsWith('\n\n')) content=content.slice(2);
     let text = content.replace(/[，。,.]$/u, '');
     if(work.punctuation==='classical-dialogue') text=text.replace(/[，。,.？！：「」『』；]/gu,'');
     if(work.layout==='prose-paragraphs') text=text.replace(/[、；]/gu,'');
     if (!text || /[^\p{L}\p{N}]/u.test(text)) throw new Error('含有其他標點、空白或特殊結構，待人工確認');
-    return Object.freeze({ id: `${work.id}:${index}`, index, paragraph, raw, text });
+    return Object.freeze({ id: `${work.id}:${index}`, index, paragraph:practiceParagraph, raw, text });
   });
 }
 export function questionLimit(work) {
@@ -69,7 +73,7 @@ export function shuffle(items, random=Math.random) {
 export function createQuestion(work, count, previousStart=null, random=Math.random) {
   const check=validateWork(work);
   if(!check.playable) throw new Error('教材尚未核對');
-  if(work.practiceMode==='full'){
+  if(work.practiceMode==='full'||(work.allowFullChallenge===true&&count==='full')){
     const answer=Object.freeze([...check.segments]);
     return {type:'sequence',workId:work.id,start:0,answer,options:shuffle(answer,random),requestedCount:answer.length};
   }

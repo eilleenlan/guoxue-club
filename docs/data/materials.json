@@ -2,6 +2,34 @@
   "schemaVersion": 1,
   "works": [
     {
+      "id": "lou-shi-ming",
+      "title": "陋室銘",
+      "author": "劉禹錫",
+      "category": "prose",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期末考"
+      ],
+      "text": "山不在高，有仙則名；水不在深，有龍則靈；\n\n斯是陋室，惟吾德馨。苔痕上階綠，草色入簾青。\n\n談笑有鴻儒，往來無白丁。可以調素琴，閱金經。\n\n無絲竹之亂耳，無案牘之勞形。\n\n南陽諸葛廬，西蜀子雲亭。\n\n孔子云：「何陋之有？」",
+      "review": {
+        "source": "媽媽提供並核准的教材圖片",
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-12"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "prose-paragraphs",
+      "sortOrder": 81,
+      "punctuation": "classical-dialogue",
+      "mergePracticeParagraphs": [6],
+      "allowFullChallenge": true,
+      "practiceMode": "random-contiguous"
+    },
+    {
       "id": "demo-poem",
       "title": "DEMO・小院早晨（自編）",
       "author": "本站測試自編",

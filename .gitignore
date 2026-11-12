@@ -125,6 +125,7 @@
 !/docs/reading-support.mjs
 
 !/docs/data/reading-er-shi-ji-qu.json
+!/docs/data/reading-lou-shi-ming.json
 
 !/test/er-shi-reading-release.test.mjs
 

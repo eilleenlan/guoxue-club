@@ -1,14 +1,36 @@
 import {execFileSync} from 'node:child_process';
-import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import {createHash} from 'node:crypto';import {alignReadingZhuyin,splitZhuyinDisplay,locateReadingNotes} from '../docs/reading-support.mjs';import {splitText,createQuestion,grade} from '../docs/engine.mjs';
+import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import {createHash} from 'node:crypto';import {alignReadingZhuyin,splitZhuyinDisplay,locateReadingNotes} from '../docs/reading-support.mjs';import {splitText,createQuestion,grade,validateWork} from '../docs/engine.mjs';
 const read=async p=>JSON.parse(await readFile(new URL('../'+p,import.meta.url))),materials=await read('docs/data/materials.json'),old=JSON.parse(execFileSync('git',['show','99d75364aee5c0f0559d0d0925a25b404a4f8e35:docs/data/materials.json'])),work=materials.works.find(w=>w.id==='er-shi-ji-qu'),previous=old.works.find(w=>w.id===work.id),data=await read('docs/data/reading-er-shi-ji-qu.json'),aligned=alignReadingZhuyin(work.text,data);
 test('原文只刪除媽媽確認的「而」，其他篇目及設定未變',()=>{assert.equal(work.text,previous.text.replace('使之沖煙而飛鳴','使之沖煙飛鳴'));assert.equal(previous.text.length-work.text.length,1);assert.equal(data.sourceTextSha256,createHash('sha256').update(work.text).digest('hex'));for(const w of old.works)if(w.id!==work.id)assert.deepEqual(materials.works.find(x=>x.id===w.id),w);for(const k of Object.keys(previous).filter(k=>!['text','review'].includes(k)))assert.deepEqual(work[k],previous[k]);assert.deepEqual(work.reviewHistory.at(-1),previous.review);});
 test('四段218字逐字對齊、標點換行完全保留，異文或缺音拒絕錯配',()=>{assert.equal(data.zhuyin.paragraphs.length,4);assert.equal(aligned.filter(c=>c.reading).length,218);assert.equal(aligned.map(c=>c.text).join(''),work.text);assert(aligned.filter(c=>!c.reading).every(c=>!/[\p{Script=Han}]/u.test(c.text)));assert.throws(()=>alignReadingZhuyin(previous.text,data),/第2段/);const bad=structuredClone(data);bad.zhuyin.paragraphs[0].runs[0].reading='ㄩˊ';assert.throws(()=>alignReadingZhuyin(work.text,bad),/字數/);});
 test('特殊讀音與輕聲備註分開保存，不合併到單字注音',()=>{assert.equal(aligned[work.text.indexOf('項為之強')+3].reading,'ㄐㄧㄤˋ');assert.equal(aligned[work.text.indexOf('呀然')].reading,'ㄒㄧㄚ');assert(aligned.filter(c=>c.text==='蟆').every(c=>c.reading==='ㄇㄚˊ'));const n=data.zhuyin.notes.find(n=>n.character==='蟆');assert.equal(n.primary,'ㄇㄚˊ');assert.equal(n.alternate,'˙ㄇㄚ');assert(!aligned.some(c=>c.reading?.includes('˙')));});
 test('兩種解說四段分層，學校補字括號與來源標記保留',()=>{assert.equal(data.schoolTranslation.paragraphs.length,4);assert.equal(data.childExplanation.paragraphs.length,4);assert(data.schoolTranslation.paragraphs[1].includes('留（在）白色的蚊帳中'));assert(!data.schoolTranslation.paragraphs[1].includes('留在白色'));assert.equal(data.schoolTranslation.supplements[0].kind,'site-supplement');assert.equal(data.schoolTranslation.supplements[0].marker,'（在）');assert.notEqual(data.schoolTranslation.paragraphs[0],data.childExplanation.paragraphs[0]);assert(data.schoolTranslation.paragraphs[3].includes('二隻'));assert(data.childExplanation.paragraphs[3].includes('兩隻'));});
 test('原切句數與段落身份保持，正確排序與隨機分段仍正常',()=>{const before=splitText(previous),after=splitText(work);assert.equal(before.length,after.length);assert.deepEqual(after.map(s=>[s.id,s.index,s.paragraph]),before.map(s=>[s.id,s.index,s.paragraph]));assert.equal(after.filter((s,i)=>s.text!==before[i].text).length,1);for(let i=0;i<100;i++){const q=createQuestion(work,4);assert.equal(q.answer.length,4);assert.equal(new Set(q.answer.map(s=>s.paragraph)).size,1);assert(grade(q,q.answer.map(s=>s.id)));}});
-test('練習及列印引擎檔案不變',async()=>{for(const f of ['engine.mjs','idiom-engine.mjs','idiom-combined.mjs','paper-app.mjs','paper-engine.mjs','paper-layout.mjs','paper-pdf.mjs']){const norm=b=>b.toString().replace(/\r\n/g,'\n').trim();assert.equal(norm(execFileSync('git',['show','99d75364aee5c0f0559d0d0925a25b404a4f8e35:docs/'+f])),norm(await readFile(new URL('../docs/'+f,import.meta.url))),f);}});
+test('成語練習及列印引擎檔案不變',async()=>{for(const f of ['idiom-engine.mjs','idiom-combined.mjs','paper-app.mjs','paper-engine.mjs','paper-layout.mjs','paper-pdf.mjs']){const norm=b=>b.toString().replace(/\r\n/g,'\n').trim();assert.equal(norm(execFileSync('git',['show','99d75364aee5c0f0559d0d0925a25b404a4f8e35:docs/'+f])),norm(await readFile(new URL('../docs/'+f,import.meta.url))),f);}});
 test('直排顯示拆出聲調但不改讀音；首聲、二三四聲與輕聲',()=>{for(const tone of ['','ˊ','ˇ','ˋ'])assert.deepEqual(splitZhuyinDisplay('ㄐㄧㄤ'+tone),{symbols:['ㄐ','ㄧ','ㄤ'],tone,neutral:false});assert.deepEqual(splitZhuyinDisplay('˙ㄇㄚ'),{symbols:['ㄇ','ㄚ'],tone:'˙',neutral:true});assert.throws(()=>splitZhuyinDisplay('ㄇㄚˊ˙'));assert.throws(()=>splitZhuyinDisplay(''))});
 test('備註定位按實際適用範圍：強1、呀1、蟆2、為7',()=>{const anchors=locateReadingNotes(work.text,data.zhuyin.notes);assert.equal(anchors.length,11);assert.deepEqual(Object.fromEntries(['強','呀','蟆','為'].map(c=>[c,anchors.filter(a=>a.character===c).length])),{強:1,呀:1,蟆:2,為:7});for(const a of anchors)assert.equal([...work.text][a.offset],a.character);assert(anchors.filter(a=>a.character==='蟆').every(a=>a.noteIndex===2));});
 test('片語備註不誤標同字，沒有指定對象不自行推測',()=>{assert.deepEqual(locateReadingNotes('強，項為之強，強。',[{text:'「項為之強」的「強」讀音說明'}]),[{offset:5,character:'強',noteIndex:0}]);assert.deepEqual(locateReadingNotes('強，呀，蟆。',[{text:'泛指特殊讀音，未指定字或片語'}]),[]);});
 
 test('成語題庫與課次設定未發布任何變更，G3入口仍停用',async()=>{for(const name of ['core','questions','curriculum','legacy-map','lessons']){const published=await read('docs/data/idiom-'+name+'.json'),old=JSON.parse(execFileSync('git',['show','99d75364aee5c0f0559d0d0925a25b404a4f8e35:docs/data/idiom-'+name+'.json']));assert.deepEqual(published,old);}const registry=await read('docs/data/idiom-lessons.json');assert(!registry.lessons.some(l=>l.grade===3&&l.status==='published'));});
+
+test('既有 66 個排序單元與發布前行為相同',async()=>{
+  const baseline=execFileSync('git',['show','68e986c:docs/engine.mjs']);
+  const oldEngine=await import('data:text/javascript;base64,'+baseline.toString('base64'));
+  const existing=materials.works.flatMap(w=>w.children??[w]).filter(w=>w.id!=='lou-shi-ming'&&validateWork(w).playable);
+  assert.equal(existing.length,66);
+  for(const w of existing){assert.deepEqual(splitText(w),oldEngine.splitText(w),w.id);for(let n=2;n<=oldEngine.questionLimit(w);n++){for(const sample of [0,.45,.999])assert.deepEqual(createQuestion(w,n,null,()=>sample),oldEngine.createQuestion(w,n,null,()=>sample),w.id);}}
+});
+test('陋室銘核准讀音、結尾三片及全文 17 片',async()=>{
+  const w=materials.works.find(w=>w.id==='lou-shi-ming'), d=await read('docs/data/reading-lou-shi-ming.json'), a=alignReadingZhuyin(w.text,d);
+  assert.equal(a.filter(c=>c.reading).length,81);
+  assert.deepEqual(a.filter(c=>c.text==='不').map(c=>c.reading),['ㄅㄨˊ','ㄅㄨˊ']);
+  assert.equal(a.find(c=>c.text==='葛').reading,'ㄍㄜˊ');
+  assert.match(d.schoolTranslation.paragraphs[3],/琴瑟簫管/);
+  assert.deepEqual(d.properNames,['南陽諸葛','西蜀子雲','孔子']);
+  const ending=createQuestion(w,3,null,()=>.999), full=createQuestion(w,'full');
+  assert.deepEqual(ending.answer.map(x=>x.text),['南陽諸葛廬','西蜀子雲亭','孔子云何陋之有']);
+  assert.equal(full.answer.length,17);
+  assert.equal(full.answer.map(x=>x.raw).join(''),w.text);
+  assert(grade(full,full.answer.map(x=>x.id)));
+  assert(!grade(full,full.options.map(x=>x.id)));
+});
