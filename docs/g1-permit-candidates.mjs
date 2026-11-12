@@ -37,7 +37,7 @@ export function selectPermitCandidates(bank) {
     wordsByReading.get(key).add(q.word);
   }
   return bank.entries.filter(q => {
-    if (q.status !== 'READY' || permitExclusions.has(q.sourceNumber)) return false;
+    if (q.status !== 'READY' || q.permitEligible === false || permitExclusions.has(q.sourceNumber)) return false;
     if (!/^\p{Script=Han}{2,}$/u.test(q.word) || !q.correctOption) return false;
     const parts = q.correctOption.split(' ');
     return q.correctOption === q.sourceZhuyin &&

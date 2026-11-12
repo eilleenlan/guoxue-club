@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "一年級注音易錯的分辨音",
   "releaseStatus": "published",
-  "sourceTotal": 120,
+  "sourceTotal": 132,
   "entries": [
     {
       "id": "g1-sound-001",
@@ -4915,6 +4915,296 @@
         "parentAcceptance": "text-approved",
         "reviewer": "家長核准草案；Codex實作",
         "distractorRationale": "家長核准：嚼字二聲／三聲，其他音節不變。"
+      }
+    },
+    {
+      "id": "g1-sound-121",
+      "sourceNumber": 121,
+      "word": "老虎",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄌㄠˇ ㄏㄨˇ",
+      "correctOption": "ㄌㄠˇ ㄏㄨˇ",
+      "wrongOption": "ㄌㄠˊ ㄏㄨˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-tiger.svg",
+      "imagePrompt": "一隻有橘色條紋及長尾巴的完整老虎",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-122",
+      "sourceNumber": 122,
+      "word": "老鼠",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄌㄠˇ ㄕㄨˇ",
+      "correctOption": "ㄌㄠˇ ㄕㄨˇ",
+      "wrongOption": "ㄌㄠˊ ㄕㄨˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-mouse.svg",
+      "imagePrompt": "有尖吻、鬍鬚及細長尾巴的老鼠",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-123",
+      "sourceNumber": 123,
+      "word": "水餃",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄕㄨㄟˇ ㄐㄧㄠˇ",
+      "correctOption": "ㄕㄨㄟˇ ㄐㄧㄠˇ",
+      "wrongOption": "ㄕㄨㄟˊ ㄐㄧㄠˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-dumplings-revised.svg",
+      "imagePrompt": "盤中五顆彎月形、封口帶摺痕的水餃",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-124",
+      "sourceNumber": 124,
+      "word": "雨傘",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄩˇ ㄙㄢˇ",
+      "correctOption": "ㄩˇ ㄙㄢˇ",
+      "wrongOption": "ㄩˊ ㄙㄢˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-umbrella.svg",
+      "imagePrompt": "雨滴旁一把打開的雨傘",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-125",
+      "sourceNumber": 125,
+      "word": "水果",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄕㄨㄟˇ ㄍㄨㄛˇ",
+      "correctOption": "ㄕㄨㄟˇ ㄍㄨㄛˇ",
+      "wrongOption": "ㄕㄨㄟˊ ㄍㄨㄛˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-fruit-revised.svg",
+      "imagePrompt": "並列且輪廓分開的紅蘋果、黃香蕉與橘子",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-126",
+      "sourceNumber": 126,
+      "word": "洗澡",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄒㄧˇ ㄗㄠˇ",
+      "correctOption": "ㄒㄧˇ ㄗㄠˇ",
+      "wrongOption": "ㄒㄧˊ ㄗㄠˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-bath-revised.svg",
+      "imagePrompt": "小朋友在有泡泡的浴缸裡拿海綿搓手臂",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-127",
+      "sourceNumber": 127,
+      "word": "手錶",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄕㄡˇ ㄅㄧㄠˇ",
+      "correctOption": "ㄕㄡˇ ㄅㄧㄠˇ",
+      "wrongOption": "ㄕㄡˊ ㄅㄧㄠˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-watch.svg",
+      "imagePrompt": "手腕上戴著有指針的手錶",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-128",
+      "sourceNumber": 128,
+      "word": "小狗",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄒㄧㄠˇ ㄍㄡˇ",
+      "correctOption": "ㄒㄧㄠˇ ㄍㄡˇ",
+      "wrongOption": "ㄒㄧㄠˊ ㄍㄡˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-puppy.svg",
+      "imagePrompt": "有垂耳和尾巴的小狗",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-129",
+      "sourceNumber": 129,
+      "word": "小鳥",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄒㄧㄠˇ ㄋㄧㄠˇ",
+      "correctOption": "ㄒㄧㄠˇ ㄋㄧㄠˇ",
+      "wrongOption": "ㄒㄧㄠˊ ㄋㄧㄠˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-littlebird.svg",
+      "imagePrompt": "一隻停在樹枝上的小鳥",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
+      }
+    },
+    {
+      "id": "g1-sound-130",
+      "sourceNumber": 130,
+      "word": "海水",
+      "status": "READY",
+      "familiarity": "FAMILIAR",
+      "sourceZhuyin": "ㄏㄞˇ ㄕㄨㄟˇ",
+      "correctOption": "ㄏㄞˇ ㄕㄨㄟˇ",
+      "wrongOption": "ㄏㄞˊ ㄕㄨㄟˇ",
+      "bossType": "TONE",
+      "permitEligible": false,
+      "sourceReview": {
+        "status": "parent-confirmed",
+        "confirmation": "第二批新增題目施工單 v1.0"
+      },
+      "contentReview": {
+        "status": "parent-approved",
+        "distractorRationale": "兩個三聲連讀時，第一個三聲在自然口語中通常變得像二聲。本題選詞語本調。"
+      },
+      "promptType": "IMAGE",
+      "stageOverride": "CONTEXT",
+      "questionKind": "third-tone-base",
+      "imagePath": "./assets/g1/batch-two-seawater-revised.svg",
+      "imagePrompt": "佔滿畫面的藍色海水、波浪與白色浪花",
+      "contextSentence": null,
+      "imageReview": {
+        "status": "parent-approved"
       }
     }
   ]

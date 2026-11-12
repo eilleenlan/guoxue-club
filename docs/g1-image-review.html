@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>G1 題圖驗收｜小小國學所</title>
+  <link rel="stylesheet" href="./g1-sounds.css">
+  <style>
+    main { max-width: 1120px; }
+    .review-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: 16px; margin: 16px 0 24px; }
+    .review-card { padding: 14px; border: 1px solid #e5c8af; border-radius: 14px; background: #fff; }
+    .review-card h2 { margin: 0 0 8px; font-size: 19px; }
+    .zoom { width: 100%; padding: 4px; background: #fff8f0; }
+    .zoom img { display: block; width: 100%; aspect-ratio: 320 / 300; object-fit: contain; }
+    .review-field { display: block; margin-top: 12px; }
+    select, textarea { display: block; width: 100%; min-height: 44px; margin-top: 4px; padding: 8px; border: 1px solid #aa8068; border-radius: 8px; background: #fff; color: inherit; font: inherit; }
+    #review-filter { width: auto; max-width: 100%; }
+    #review-progress { margin: 8px 0; }
+    #review-summary { min-height: 180px; }
+    dialog { width: min(720px, calc(100% - 24px)); max-height: calc(100dvh - 24px); border: 2px solid #e5c8af; border-radius: 14px; color: inherit; }
+    dialog::backdrop { background: #321d1680; }
+    dialog img { display: block; width: 100%; max-height: 70dvh; object-fit: contain; margin-bottom: 12px; }
+    [hidden] { display: none !important; }
+  </style>
+</head>
+<body>
+<main>
+  <a class="back" href="./g1-sounds.html">← 返回 G1 練習</a>
+  <h1>G1 題圖驗收</h1>
+  <p>點圖放大，再選擇驗收狀態。紀錄保存在目前瀏覽器，可複製摘要帶走。</p>
+  <p id="review-progress" role="status">正在載入題圖…</p>
+  <p id="save-error" role="alert" hidden></p>
+  <label for="review-filter">篩選狀態</label>
+  <select id="review-filter">
+    <option value="all">全部</option>
+    <option value="pending">尚未驗收</option>
+    <option value="passed">通過</option>
+    <option value="needs-change">需要修改</option>
+  </select>
+  <p id="review-empty" hidden>這個篩選目前沒有題圖。</p>
+  <div id="review-grid" class="review-grid"></div>
+  <section>
+    <label for="review-summary">驗收摘要</label>
+    <textarea id="review-summary" readonly></textarea>
+    <button id="copy-summary" type="button" disabled>複製摘要</button>
+    <p id="copy-status" role="status"></p>
+  </section>
+</main>
+<dialog id="image-dialog" aria-labelledby="zoom-title">
+  <h2 id="zoom-title"></h2>
+  <img id="zoom-image" alt="">
+  <form method="dialog"><button>關閉大圖</button></form>
+</dialog>
+<script type="module" src="./g1-image-review.mjs"></script>
+</body>
+</html>

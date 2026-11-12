@@ -2,8 +2,10 @@ export const shuffled=(items,random=Math.random)=>{const copy=[...items];for(let
 const syllable=/^(?:˙[ㄅ-ㄩ]+|[ㄅ-ㄩ]+[ˊˇˋ]?)$/;
 export function validateG1Bank(bank){
  const published=bank.releaseStatus==='published';
- if(bank.schemaVersion!==1||!Array.isArray(bank.entries)||(published?(bank.sourceTotal!==120||!bank.entries.length||bank.entries.length>120||bank.entries.some(e=>e.status!=='READY')):bank.entries.length!==120))throw Error('來源母庫或正式題庫範圍不符');
- const ids=new Set(),numbers=new Set();for(const e of bank.entries){if(!e.id||ids.has(e.id)||numbers.has(e.sourceNumber)||!Number.isInteger(e.sourceNumber)||e.sourceNumber<1||e.sourceNumber>120)throw Error('來源編號或ID重複');ids.add(e.id);numbers.add(e.sourceNumber);if(!['READY','HOLD','REVIEW'].includes(e.status))throw Error('來源狀態錯誤');if(e.status!=='READY')continue;
+ const sourceTotal=published?bank.sourceTotal:120;
+ if(bank.schemaVersion!==1||!Array.isArray(bank.entries)||(published?(!Number.isInteger(sourceTotal)||sourceTotal<120||!bank.entries.length||bank.entries.length>sourceTotal||(published&&bank.entries.some(e=>e.status!=='READY'))):bank.entries.length!==120))throw Error('來源母庫或正式題庫範圍不符');
+ const ids=new Set(),numbers=new Set();for(const e of bank.entries){if(!e.id||ids.has(e.id)||numbers.has(e.sourceNumber)||!Number.isInteger(e.sourceNumber)||e.sourceNumber<1||e.sourceNumber>sourceTotal)throw Error('來源編號或ID重複');ids.add(e.id);numbers.add(e.sourceNumber);if(!['READY','HOLD','REVIEW'].includes(e.status))throw Error('來源狀態錯誤');if(e.status!=='READY')continue;
+ if(e.stageOverride!==undefined&&!['IMAGE','CONTEXT','BOSS'].includes(e.stageOverride))throw Error('關卡設定不符');
  if(e.sourceReview?.status==='needs-human-confirmation'||!e.sourceZhuyin||e.correctOption!==e.sourceZhuyin)throw Error('來源未確認或正確答案不符');
  const correct=e.correctOption.split(' '),wrong=e.wrongOption?.split(' ')??[];if(correct.length!==[...e.word].length||wrong.length!==correct.length||[...correct,...wrong].some(s=>!syllable.test(s))||e.correctOption===e.wrongOption)throw Error('答案須為完整音節');
  if(e.contextSentence&&/[ㄅ-ㄩ]˙/u.test(e.contextSentence))throw Error('輕聲須放在音節前方');
