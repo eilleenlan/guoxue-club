@@ -23,9 +23,9 @@ export function createZhuyinAnnotation(reading){
  const tone=parts.tone?node('span',parts.tone):null;if(tone)tone.className='zhuyin-tone'+(parts.neutral?' neutral-tone':'');
  if(parts.neutral)stack.append(tone);for(const symbol of parts.symbols){const glyph=node('span',symbol);glyph.className='zhuyin-symbol';stack.append(glyph);}if(tone&&!parts.neutral)stack.append(tone);rt.append(stack);return rt;
 }
-export function locateReadingNotes(text,notes){
+export function locateReadingNotes(text,notes,scope='body'){
  const anchors=[];
- notes.forEach((note,noteIndex)=>{const scoped=note.text.match(/^「([^」]+)」的「([^」]+)」/u),character=scoped?.[2]??note.character??note.text.match(/^「([\p{Script=Han}])」/u)?.[1];if(!character||[...character].length!==1)return;
+ notes.forEach((note,noteIndex)=>{if((note.scope??'body')!==scope)return;const scoped=note.text.match(/^「([^」]+)」的「([^」]+)」/u),character=scoped?.[2]??note.character??note.text.match(/^「([\p{Script=Han}])」/u)?.[1];if(!character||[...character].length!==1)return;
   if(scoped){const phrase=scoped[1],within=phrase.lastIndexOf(character);if(within<0)return;let start=0,index;while((index=text.indexOf(phrase,start))!==-1){anchors.push({offset:[...text.slice(0,index+within)].length,character,noteIndex});start=index+phrase.length;}}
   else [...text].forEach((c,offset)=>{if(c===character)anchors.push({offset,character,noteIndex});});
  });return anchors.sort((a,b)=>a.offset-b.offset||a.noteIndex-b.noteIndex);
@@ -55,14 +55,16 @@ function noteHint(character, noteIndex, offset, returnLinks) {
 export async function renderReadingSupport(work){
  const version=++renderVersion,full=document.getElementById('full-text');let controls=document.getElementById('reading-support-controls'),content=document.getElementById('reading-support');
  if(!controls){controls=node('div');controls.id='reading-support-controls';controls.className='reading-support-controls';full.before(controls);content=node('section');content.id='reading-support';full.after(content);}
- controls.replaceChildren();content.replaceChildren();controls.hidden=true;content.hidden=true;full.classList.remove('with-zhuyin');
- const file=readingFiles[work.id];if(!file)return;
+ controls.replaceChildren();content.replaceChildren();controls.hidden=true;content.hidden=true;full.classList.remove('with-zhuyin','reading-poem-lines');
+ const file=readingFiles[work.id]??(work.readingSupport===true?'reading-'+work.id+'.json':null);if(!file)return;
  controls.hidden=false;const label=node('label'),toggle=node('input'),status=node('span','正在讀取閱讀輔助資料…');toggle.type='checkbox';toggle.id='show-reading-zhuyin';toggle.disabled=true;toggle.setAttribute('aria-controls','full-text');status.setAttribute('role','status');label.append(toggle,document.createTextNode('顯示注音'));controls.append(label,status);
  try{
-  const response=await fetch(new URL('./data/'+file,import.meta.url));if(!response.ok)throw Error('閱讀資料無法載入');const data=await response.json();if(version!==renderVersion)return;if(data.workId!==work.id)throw Error('閱讀資料篇目不符');const aligned=alignReadingZhuyin(work.text,data);
-  const anchors=new Map();for(const anchor of locateReadingNotes(work.text,data.zhuyin.notes)){const notes=anchors.get(anchor.offset)??[];notes.push(anchor.noteIndex);anchors.set(anchor.offset,notes);}
+  const response=await fetch(new URL('./data/'+file,import.meta.url));if(!response.ok)throw Error('閱讀資料無法載入');const data=await response.json();if(version!==renderVersion)return;if(data.workId!==work.id)throw Error('閱讀資料篇目不符');const aligned=data.zhuyin?alignReadingZhuyin(work.text,data):[...work.text].map(text=>({text,reading:null}));
+  const readingNotes=data.zhuyin?.notes??data.pronunciationNotes??[];
+  label.hidden=!data.zhuyin;
+  const anchors=new Map();for(const anchor of locateReadingNotes(work.text,readingNotes)){const notes=anchors.get(anchor.offset)??[];notes.push(anchor.noteIndex);anchors.set(anchor.offset,notes);}
   toggle.disabled=false;
-  status.textContent=data.zhuyin.review?.status==='pending'?'注音初稿待核對':'';
+  status.textContent=data.zhuyin?.review?.status==='pending'?'注音初稿待核對':'';
   function select(labelText, options) {
    const wrapper=node('label',labelText), field=node('select');
    for(const [value,text] of options){const option=node('option',text);option.value=value;field.append(option);}
@@ -71,6 +73,27 @@ export async function renderReadingSupport(work){
   const mode=select('閱讀方式',[['original','純原文閱讀'],['parallel','逐段對照']]);
   const translation=select('對照版本',[['schoolTranslation','教材白話'],['childExplanation','姐姐版淺白解說']]);
   const opened=new Set(), paragraphs=[[]], returnLinks=[];
+  const titleAnchors=locateReadingNotes(work.title,readingNotes,'title');
+  const readingTitle=document.getElementById('reading-title');
+  const stanzaEnds=new Set();
+  let stanzaEnd=0;
+  for(const size of data.lineGroups??[]){
+   stanzaEnd+=size;
+   stanzaEnds.add(stanzaEnd);
+  }
+  function paintTitle(){
+   if(!titleAnchors.length)return;
+   readingTitle.replaceChildren();
+   for(const [offset,character] of [...work.title].entries()){
+    const anchors=titleAnchors.filter(anchor=>anchor.offset===offset);
+    if(!anchors.length){readingTitle.append(character);continue;}
+    const unit=node('span',character);
+    unit.className='reading-note-unit reading-base';
+    for(const anchor of anchors)unit.append(noteHint(character,anchor.noteIndex,'title-'+offset,returnLinks));
+    readingTitle.append(unit);
+   }
+  }
+
   let nameEnd=-1;
   const names=new Set(data.properNames??[]);
   const characters=aligned.map((character,index)=>{
@@ -87,14 +110,17 @@ export async function renderReadingSupport(work){
    const parallel=mode.value==='parallel';
    translation.parentElement.hidden=!parallel;
    full.classList.toggle('with-zhuyin',toggle.checked);
+   full.classList.toggle('reading-poem-lines',work.layout==='poem-lines');
    full.replaceChildren();
-   paragraphs.forEach((characters,index)=>{
+   const layer=data[translation.value];
+   let lines=0;
+   for(const [index,characters] of paragraphs.entries()){
     const paragraph=node('p');let target=paragraph;
     for(const character of characters){
      if(character.name){target=node('span');target.className='reading-proper-name';target.setAttribute('aria-label',character.name);paragraph.append(target);}
      if(!character.insideName)target=paragraph;
      const noteIndexes=anchors.get(character.index);
-     if(!character.reading||(!toggle.checked&&!noteIndexes)){target.append(document.createTextNode(character.text));continue;}
+     if(!(toggle.checked&&character.reading)&&!noteIndexes){target.append(document.createTextNode(character.text));continue;}
      const unit=node(toggle.checked?'ruby':'span'),base=node('span',character.text);
      base.className='reading-base';
      if(noteIndexes){unit.classList.add('reading-note-unit');for(const noteIndex of noteIndexes)base.append(noteHint(character.text,noteIndex,character.index,returnLinks));}
@@ -102,20 +128,23 @@ export async function renderReadingSupport(work){
      if(toggle.checked)unit.append(createZhuyinAnnotation(character.reading));
      target.append(unit);
     }
-    if(index)full.append(document.createTextNode('\n\n'));
+    if(index)full.append(document.createTextNode(work.layout==='poem-lines'&&(!parallel||!stanzaEnds.has(index))?'\n':'\n\n'));
     full.append(paragraph);
-    if(!parallel)return;
-    const layer=data[translation.value],details=node('details'),summary=node('summary','第 '+(index+1)+' 段｜'+layer.label);
-    details.open=opened.has(index);details.ontoggle=()=>{if(details.isConnected){if(details.open)opened.add(index);else opened.delete(index);}};
-    details.append(summary,node('p',layer.paragraphs[index]));
-    for(const supplement of layer.supplements??[])if(supplement.paragraph===index+1){const note=node('p',supplement.note);note.className='reading-source-note';details.append(note);}
+    if(!parallel)continue;
+    const group=layer.lineGroups?layer.lineGroups.findIndex(size=>{lines+=size;return index+1===lines;}):index;
+    lines=0;
+    if(group<0)continue;
+    const details=node('details'),summary=node('summary','第 '+(group+1)+' 段｜'+layer.label);
+    details.open=opened.has(group);details.ontoggle=()=>{if(details.isConnected){if(details.open)opened.add(group);else opened.delete(group);}};
+    details.append(summary,node('p',layer.paragraphs[group]));
+    for(const supplement of layer.supplements??[])if(supplement.paragraph===group+1){const note=node('p',supplement.note);note.className='reading-source-note';details.append(note);}
     full.append(details);
-   });
+   }
   }
   toggle.onchange=mode.onchange=translation.onchange=paintText;
   const notes=node('details'),summary=node('summary','讀音備註'),list=node('ul');
   notes.id='reading-pronunciation-notes';
-  data.zhuyin.notes.forEach((note,index)=>{
+  readingNotes.forEach((note,index)=>{
    const item=node('li','＊ '+note.text), back=node('a','↩ 返回原文');
    item.id='reading-note-'+index;
    item.tabIndex=-1;
@@ -133,6 +162,7 @@ export async function renderReadingSupport(work){
   notes.append(summary,list);
   content.append(notes);
   content.hidden=false;
+  paintTitle();
   paintText();
  }catch(error){if(version!==renderVersion)return;status.textContent='閱讀輔助資料待核對：'+error.message+'；原文與練習仍可使用。';toggle.disabled=true;}
 }

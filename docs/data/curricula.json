@@ -633,8 +633,8 @@
         {
           "workId": "du-han-jiang",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -642,8 +642,8 @@
         {
           "workId": "zhong-nan-bie-ye",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -651,8 +651,8 @@
         {
           "workId": "lang-tao-sha",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -668,6 +668,33 @@
         },
         {
           "workId": "lou-shi-ming",
+          "order": null,
+          "semester": "上學期",
+          "examRange": "期末考",
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "deng-jin-ling",
+          "order": null,
+          "semester": "上學期",
+          "examRange": "期末考",
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "you-zi-yin",
+          "order": null,
+          "semester": "上學期",
+          "examRange": "期末考",
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "jin-ling-jiu-si",
           "order": null,
           "semester": "上學期",
           "examRange": "期末考",

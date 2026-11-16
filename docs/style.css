@@ -37,3 +37,9 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 #reading .reading-support-controls label[hidden]{display:none}
 
 #reading .reading-note-return:not([hidden]){display:inline-block;white-space:nowrap;padding:4px 8px}
+
+#reading #full-text.reading-poem-lines > p{display:inline}
+#reading #full-text.reading-poem-lines details{white-space:normal}
+#reading #reading-title .reading-note-unit{display:inline-block;position:relative;white-space:nowrap}
+#reading #reading-title .reading-note-hint{position:absolute;top:0;right:0;transform:translate(15%,-20%);font-size:.44em;line-height:1}
+#reading #reading-title .reading-note-marker{color:#79523e;text-decoration:none}

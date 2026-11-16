@@ -126,6 +126,12 @@
 
 !/docs/data/reading-er-shi-ji-qu.json
 !/docs/data/reading-lou-shi-ming.json
+!/docs/data/reading-du-han-jiang.json
+!/docs/data/reading-zhong-nan-bie-ye.json
+!/docs/data/reading-lang-tao-sha.json
+!/docs/data/reading-deng-jin-ling.json
+!/docs/data/reading-you-zi-yin.json
+!/docs/data/reading-jin-ling-jiu-si.json
 
 !/test/er-shi-reading-release.test.mjs
 

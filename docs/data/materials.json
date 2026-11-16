@@ -2,6 +2,87 @@
   "schemaVersion": 1,
   "works": [
     {
+      "id": "deng-jin-ling",
+      "title": "登金陵鳳凰臺",
+      "author": "李白",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期末考"
+      ],
+      "text": "鳳凰臺上鳳凰遊，\n鳳去臺空江自流。\n吳宮花草埋幽徑，\n晉代衣冠成古丘。\n三山半落青天外，\n二水中分白鷺洲。\n總為浮雲能蔽日，\n長安不見使人愁。",
+      "review": {
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的教材照片及正式發布核准",
+        "status": "approved"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 116,
+      "practiceMode": "full",
+      "readingSupport": true
+    },
+    {
+      "id": "you-zi-yin",
+      "title": "遊子吟",
+      "author": "孟郊",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期末考"
+      ],
+      "text": "慈母手中線，\n遊子身上衣。\n臨行密密縫，\n意恐遲遲歸。\n誰言寸草心，\n報得三春暉。",
+      "review": {
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的教材照片及正式發布核准",
+        "status": "approved"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 117,
+      "practiceMode": "full",
+      "readingSupport": true
+    },
+    {
+      "id": "jin-ling-jiu-si",
+      "title": "金陵酒肆留別",
+      "author": "李白",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G6上",
+        "期末考"
+      ],
+      "text": "風吹柳花滿店香，\n吳姬壓酒喚客嘗。\n金陵子弟來相送，\n欲行不行各盡觴。\n請君試問東流水，\n別意與之誰短長。",
+      "review": {
+        "confirmedBy": "媽媽",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的教材照片及正式發布核准",
+        "status": "approved"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 118,
+      "practiceMode": "full",
+      "readingSupport": true
+    },
+    {
       "id": "lou-shi-ming",
       "title": "陋室銘",
       "author": "劉禹錫",
@@ -65,6 +146,7 @@
     },
     {
       "id": "du-han-jiang",
+      "readingSupport": true,
       "title": "渡漢江",
       "author": "宋之問",
       "category": "poem",
@@ -91,6 +173,7 @@
     },
     {
       "id": "zhong-nan-bie-ye",
+      "readingSupport": true,
       "title": "終南別業",
       "author": "王維",
       "category": "poem",
@@ -117,6 +200,7 @@
     },
     {
       "id": "lang-tao-sha",
+      "readingSupport": true,
       "title": "浪淘沙・九曲黃河萬里沙",
       "author": "劉禹錫",
       "category": "poem",
