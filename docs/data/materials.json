@@ -106,7 +106,9 @@
       "layout": "prose-paragraphs",
       "sortOrder": 81,
       "punctuation": "classical-dialogue",
-      "mergePracticeParagraphs": [6],
+      "mergePracticeParagraphs": [
+        6
+      ],
       "allowFullChallenge": true,
       "practiceMode": "random-contiguous"
     },
@@ -1012,7 +1014,8 @@
       "layout": "poem-lines",
       "punctuation": "classical-dialogue",
       "sortOrder": 10,
-      "practiceMode": "full"
+      "practiceMode": "full",
+      "readingSupport": true
     },
     {
       "id": "jian-ke",
@@ -1039,7 +1042,8 @@
       "layout": "poem-lines",
       "punctuation": "classical-dialogue",
       "sortOrder": 20,
-      "practiceMode": "full"
+      "practiceMode": "full",
+      "readingSupport": true
     },
     {
       "id": "gu-gu-ren-zhuang",
@@ -1066,7 +1070,8 @@
       "layout": "poem-lines",
       "punctuation": "classical-dialogue",
       "sortOrder": 30,
-      "practiceMode": "full"
+      "practiceMode": "full",
+      "readingSupport": true
     },
     {
       "id": "deng-guan-que-lou",
@@ -1633,6 +1638,87 @@
         "confirmedAt": "2026-10-30",
         "source": "使用者G4期中急件指令提供之原文與教材賞析"
       }
+    },
+    {
+      "id": "shan-ju-qiu-ming",
+      "title": "山居秋暝",
+      "author": "王維",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期末考"
+      ],
+      "text": "空山新雨後，天氣晚來秋。\n明月松間照，清泉石上流。\n竹喧歸浣女，蓮動下漁舟。\n隨意春芳歇，王孫自可留。",
+      "review": {
+        "confirmedBy": "本機教材轉錄",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的 G5 教材照片",
+        "status": "pending"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 123,
+      "practiceMode": "full",
+      "readingSupport": true
+    },
+    {
+      "id": "chun-wang",
+      "title": "春望",
+      "author": "杜甫",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期末考"
+      ],
+      "text": "國破山河在，城春草木深。\n感時花濺淚，恨別鳥驚心。\n烽火連三月，家書抵萬金。\n白頭搔更短，渾欲不勝簪。",
+      "review": {
+        "confirmedBy": "本機教材轉錄",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的 G5 教材照片",
+        "status": "pending"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 124,
+      "practiceMode": "full",
+      "readingSupport": true
+    },
+    {
+      "id": "fu-de-gu-yuan-cao-song-bie",
+      "title": "賦得古原草送別",
+      "author": "白居易",
+      "category": "poem",
+      "status": "verified",
+      "tags": [
+        "115學年度",
+        "G5",
+        "期末考"
+      ],
+      "text": "離離原上草，一歲一枯榮。\n野火燒不盡，春風吹又生。\n遠芳侵古道，晴翠接荒城。\n又送王孫去，萋萋滿別情。",
+      "review": {
+        "confirmedBy": "本機教材轉錄",
+        "confirmedAt": "2026-11-16",
+        "source": "媽媽提供的 G5 教材照片",
+        "status": "pending"
+      },
+      "questionTypes": [
+        "sequence"
+      ],
+      "reviewedDistractors": [],
+      "layout": "poem-lines",
+      "sortOrder": 125,
+      "practiceMode": "full",
+      "readingSupport": true
     }
   ]
 }

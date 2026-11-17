@@ -73,24 +73,24 @@ export async function renderReadingSupport(work){
   const mode=select('閱讀方式',[['original','純原文閱讀'],['parallel','逐段對照']]);
   const translation=select('對照版本',[['schoolTranslation','教材白話'],['childExplanation','姐姐版淺白解說']]);
   const opened=new Set(), paragraphs=[[]], returnLinks=[];
-  const titleAnchors=locateReadingNotes(work.title,readingNotes,'title');
-  const readingTitle=document.getElementById('reading-title');
   const stanzaEnds=new Set();
   let stanzaEnd=0;
   for(const size of data.lineGroups??[]){
    stanzaEnd+=size;
    stanzaEnds.add(stanzaEnd);
   }
-  function paintTitle(){
-   if(!titleAnchors.length)return;
-   readingTitle.replaceChildren();
-   for(const [offset,character] of [...work.title].entries()){
-    const anchors=titleAnchors.filter(anchor=>anchor.offset===offset);
-    if(!anchors.length){readingTitle.append(character);continue;}
+  function paintHeading(element, scope){
+   const heading = element.textContent;
+   const headingAnchors = locateReadingNotes(heading, readingNotes, scope);
+   if(!headingAnchors.length)return;
+   element.replaceChildren();
+   for(const [offset,character] of [...heading].entries()){
+    const anchors=headingAnchors.filter(anchor=>anchor.offset===offset);
+    if(!anchors.length){element.append(character);continue;}
     const unit=node('span',character);
     unit.className='reading-note-unit reading-base';
-    for(const anchor of anchors)unit.append(noteHint(character,anchor.noteIndex,'title-'+offset,returnLinks));
-    readingTitle.append(unit);
+    for(const anchor of anchors)unit.append(noteHint(character,anchor.noteIndex,scope+'-'+offset,returnLinks));
+    element.append(unit);
    }
   }
 
@@ -108,6 +108,8 @@ export async function renderReadingSupport(work){
   }
   function paintText(){
    const parallel=mode.value==='parallel';
+   const materialNotes=document.getElementById('reading-material-notes');
+   if(materialNotes)materialNotes.hidden=parallel||!materialNotes.childElementCount;
    translation.parentElement.hidden=!parallel;
    full.classList.toggle('with-zhuyin',toggle.checked);
    full.classList.toggle('reading-poem-lines',work.layout==='poem-lines');
@@ -162,7 +164,8 @@ export async function renderReadingSupport(work){
   notes.append(summary,list);
   content.append(notes);
   content.hidden=false;
-  paintTitle();
+  paintHeading(document.getElementById('reading-title'), 'title');
+  paintHeading(document.getElementById('reading-author'), 'author');
   paintText();
  }catch(error){if(version!==renderVersion)return;status.textContent='閱讀輔助資料待核對：'+error.message+'；原文與練習仍可使用。';toggle.disabled=true;}
 }

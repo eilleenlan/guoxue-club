@@ -582,8 +582,8 @@
         {
           "workId": "song-bie",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -591,8 +591,8 @@
         {
           "workId": "jian-ke",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -600,8 +600,8 @@
         {
           "workId": "gu-gu-ren-zhuang",
           "order": null,
-          "semester": null,
-          "examRange": null,
+          "semester": "上學期",
+          "examRange": "期中考",
           "chapterSelection": null,
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
@@ -617,6 +617,33 @@
           },
           "examChapterRange": null,
           "reviewStatus": "learning-association-confirmed"
+        },
+        {
+          "workId": "shan-ju-qiu-ming",
+          "order": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "pending",
+          "semester": "上學期",
+          "examRange": "期末考"
+        },
+        {
+          "workId": "chun-wang",
+          "order": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "pending",
+          "semester": "上學期",
+          "examRange": "期末考"
+        },
+        {
+          "workId": "fu-de-gu-yuan-cao-song-bie",
+          "order": null,
+          "chapterSelection": null,
+          "examChapterRange": null,
+          "reviewStatus": "pending",
+          "semester": "上學期",
+          "examRange": "期末考"
         }
       ]
     },

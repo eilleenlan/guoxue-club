@@ -43,3 +43,7 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 #reading #reading-title .reading-note-unit{display:inline-block;position:relative;white-space:nowrap}
 #reading #reading-title .reading-note-hint{position:absolute;top:0;right:0;transform:translate(15%,-20%);font-size:.44em;line-height:1}
 #reading #reading-title .reading-note-marker{color:#79523e;text-decoration:none}
+
+#reading #reading-author .reading-note-unit{display:inline-block;position:relative;white-space:nowrap}
+#reading #reading-author .reading-note-hint{position:absolute;top:0;right:0;transform:translate(15%,-20%);font-size:.65em;line-height:1}
+#reading #reading-author .reading-note-marker{color:#79523e;text-decoration:none}
