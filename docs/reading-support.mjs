@@ -62,6 +62,7 @@ export async function renderReadingSupport(work){
   const response=await fetch(new URL('./data/'+file,import.meta.url));if(!response.ok)throw Error('閱讀資料無法載入');const data=await response.json();if(version!==renderVersion)return;if(data.workId!==work.id)throw Error('閱讀資料篇目不符');const aligned=data.zhuyin?alignReadingZhuyin(work.text,data):[...work.text].map(text=>({text,reading:null}));
   const readingNotes=data.zhuyin?.notes??data.pronunciationNotes??[];
   label.hidden=!data.zhuyin;
+  if(data.schoolTranslation){const legacy=document.getElementById('reading-explanation');if(legacy)legacy.hidden=true;}
   const anchors=new Map();for(const anchor of locateReadingNotes(work.text,readingNotes)){const notes=anchors.get(anchor.offset)??[];notes.push(anchor.noteIndex);anchors.set(anchor.offset,notes);}
   toggle.disabled=false;
   status.textContent=data.zhuyin?.review?.status==='pending'?'注音初稿待核對':'';
@@ -71,7 +72,7 @@ export async function renderReadingSupport(work){
    wrapper.append(field);controls.append(wrapper);return field;
   }
   const mode=select('閱讀方式',[['original','純原文閱讀'],['parallel','逐段對照']]);
-  const translation=select('對照版本',[['schoolTranslation','教材白話'],['childExplanation','姐姐版淺白解說']]);
+  const translation=select('對照版本',[['schoolTranslation','教材白話'],...(data.childExplanation?[['childExplanation','姐姐版淺白解說']]:[])]);
   const opened=new Set(), paragraphs=[[]], returnLinks=[];
   const stanzaEnds=new Set();
   let stanzaEnd=0;

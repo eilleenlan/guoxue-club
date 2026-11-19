@@ -1,0 +1,34 @@
+{
+  "workId": "lunyu-27",
+  "source": "學校教材原文及白話沿用既有施工單009核對資料；本次附件4～6《中國文學導讀》僅參考注音。",
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "孔子說：「兩個人的理想或是意見要是不同，那麼便無法在一起思考事情了。」"
+    ],
+    "lineGroups": [
+      1
+    ]
+  },
+  "contentReview": {
+    "childExplanation": "待補：未取得已核准的淺白解說",
+    "zhuyin": "照片轉錄候選，待媽媽逐則驗收",
+    "notes": "本調逐字標音；照片與學校文字差異保留學校版本，不改原文標點。"
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "子曰：「道不同，不相為謀。」",
+            "reading": "ㄗˇ ㄩㄝ ㄉㄠˋ ㄅㄨˋ ㄊㄨㄥˊ ㄅㄨˋ ㄒㄧㄤ ㄨㄟˋ ㄇㄡˊ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  }
+}

@@ -670,7 +670,8 @@
           "punctuation": "classical-dialogue",
           "sortOrder": 14,
           "practiceMode": "full",
-          "colonBoundaries": true
+          "colonBoundaries": true,
+          "readingSupport": true
         },
         {
           "id": "lunyu-15",
@@ -694,7 +695,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 15,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-16",
@@ -718,7 +720,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 16,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-17",
@@ -743,7 +746,8 @@
           "punctuation": "classical-dialogue",
           "sortOrder": 17,
           "practiceMode": "full",
-          "colonBoundaries": true
+          "colonBoundaries": true,
+          "readingSupport": true
         },
         {
           "id": "lunyu-18",
@@ -767,7 +771,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 18,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-19",
@@ -791,7 +796,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 19,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-20",
@@ -815,7 +821,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 20,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-21",
@@ -839,7 +846,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 21,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-22",
@@ -863,7 +871,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 22,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-23",
@@ -887,7 +896,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 23,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-24",
@@ -911,7 +921,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 24,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-25",
@@ -936,7 +947,8 @@
           "punctuation": "classical-dialogue",
           "sortOrder": 25,
           "practiceMode": "full",
-          "colonBoundaries": true
+          "colonBoundaries": true,
+          "readingSupport": true
         },
         {
           "id": "lunyu-26",
@@ -960,7 +972,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 26,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         },
         {
           "id": "lunyu-27",
@@ -984,7 +997,8 @@
           "layout": "passage-lines",
           "punctuation": "classical-dialogue",
           "sortOrder": 27,
-          "practiceMode": "full"
+          "practiceMode": "full",
+          "readingSupport": true
         }
       ],
       "sortOrder": 70

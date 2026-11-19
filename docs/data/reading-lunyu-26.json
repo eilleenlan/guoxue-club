@@ -1,0 +1,34 @@
+{
+  "workId": "lunyu-26",
+  "source": "學校教材原文及白話沿用既有施工單009核對資料；本次附件4～6《中國文學導讀》僅參考注音。",
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "孔子說：「有了過錯而不知悔改，這就是真正的過錯了。」"
+    ],
+    "lineGroups": [
+      1
+    ]
+  },
+  "contentReview": {
+    "childExplanation": "待補：未取得已核准的淺白解說",
+    "zhuyin": "照片轉錄候選，待媽媽逐則驗收",
+    "notes": "本調逐字標音；照片與學校文字差異保留學校版本，不改原文標點。"
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "子曰：「過而不改，是謂過矣。」",
+            "reading": "ㄗˇ ㄩㄝ ㄍㄨㄛˋ ㄦˊ ㄅㄨˋ ㄍㄞˇ ㄕˋ ㄨㄟˋ ㄍㄨㄛˋ ㄧˇ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  }
+}
