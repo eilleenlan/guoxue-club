@@ -1,0 +1,53 @@
+{
+  "workId": "lunyu-2",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
+  "pendingContent": [
+    "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核"
+  ],
+  "contentReview": {
+    "schoolTranslation": "已提供來源，已依整合版照片轉錄建置，待媽媽核對文字。",
+    "childExplanation": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
+    "zhuyin": "照片轉錄候選，待媽媽驗收",
+    "sourceDifferences": null
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "曾子曰：「吾日三省吾身；為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+            "reading": "ㄗㄥ ㄗˇ ㄩㄝ ㄨˊ ㄖˋ ㄙㄢ ㄒㄧㄥˇ ㄨˊ ㄕㄣ ㄨㄟˋ ㄖㄣˊ ㄇㄡˊ ㄦˊ ㄅㄨˋ ㄓㄨㄥ ㄏㄨ ㄩˇ ㄆㄥˊ ㄧㄡˇ ㄐㄧㄠ ㄦˊ ㄅㄨˋ ㄒㄧㄣˋ ㄏㄨ ㄔㄨㄢˊ ㄅㄨˋ ㄒㄧˊ ㄏㄨ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  },
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "曾子說：我每天以三件事來自我反省；替人謀事有不盡心的嗎？與朋友交往有不信實的嗎？老師教我的有不熟悉的嗎？"
+    ],
+    "lineGroups": [
+      1
+    ]
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.0",
+    "paragraphs": [
+      "曾子說：「我每天都會反省自己：替別人做事時，有沒有盡心盡力？和朋友相處時，有沒有誠實守信用？老師教過我的知識，有沒有好好複習？」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
+      "source": "媽媽本次提供的姐姐撰寫初稿，已同意本機匯入及功能測試。"
+    }
+  }
+}

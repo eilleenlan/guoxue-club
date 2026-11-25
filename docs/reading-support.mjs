@@ -59,19 +59,27 @@ export async function renderReadingSupport(work){
  const file=readingFiles[work.id]??(work.readingSupport===true?'reading-'+work.id+'.json':null);if(!file)return;
  controls.hidden=false;const label=node('label'),toggle=node('input'),status=node('span','正在讀取閱讀輔助資料…');toggle.type='checkbox';toggle.id='show-reading-zhuyin';toggle.disabled=true;toggle.setAttribute('aria-controls','full-text');status.setAttribute('role','status');label.append(toggle,document.createTextNode('顯示注音'));controls.append(label,status);
  try{
-  const response=await fetch(new URL('./data/'+file,import.meta.url));if(!response.ok)throw Error('閱讀資料無法載入');const data=await response.json();if(version!==renderVersion)return;if(data.workId!==work.id)throw Error('閱讀資料篇目不符');const aligned=data.zhuyin?alignReadingZhuyin(work.text,data):[...work.text].map(text=>({text,reading:null}));
-  const readingNotes=data.zhuyin?.notes??data.pronunciationNotes??[];
+  const response=await fetch(new URL('./data/'+file,import.meta.url));if(!response.ok)throw Error('閱讀資料無法載入');const data=await response.json();
+  if(data.schoolTranslation?.textSource==='work.explanation'){
+   if(!work.explanation)throw Error('教材白話來源缺漏');
+   data.schoolTranslation.paragraphs=[work.explanation];
+  }
+  if(version!==renderVersion)return;if(data.workId!==work.id)throw Error('閱讀資料篇目不符');const aligned=data.zhuyin?alignReadingZhuyin(work.text,data):[...work.text].map(text=>({text,reading:null}));
+  const readingNotes=(data.zhuyin?.notes??data.pronunciationNotes??[]).filter(note=>typeof note?.text==='string'&&note.text.trim());
   label.hidden=!data.zhuyin;
   if(data.schoolTranslation){const legacy=document.getElementById('reading-explanation');if(legacy)legacy.hidden=true;}
   const anchors=new Map();for(const anchor of locateReadingNotes(work.text,readingNotes)){const notes=anchors.get(anchor.offset)??[];notes.push(anchor.noteIndex);anchors.set(anchor.offset,notes);}
   toggle.disabled=false;
-  status.textContent=data.zhuyin?.review?.status==='pending'?'注音初稿待核對':'';
+  status.textContent='';
+  status.hidden=true;
   function select(labelText, options) {
    const wrapper=node('label',labelText), field=node('select');
    for(const [value,text] of options){const option=node('option',text);option.value=value;field.append(option);}
    wrapper.append(field);controls.append(wrapper);return field;
   }
   const mode=select('閱讀方式',[['original','純原文閱讀'],['parallel','逐段對照']]);
+  const hasParallel=Boolean(data.schoolTranslation);
+  mode.parentElement.hidden=!hasParallel;
   const translation=select('對照版本',[['schoolTranslation','教材白話'],...(data.childExplanation?[['childExplanation','姐姐版淺白解說']]:[])]);
   const opened=new Set(), paragraphs=[[]], returnLinks=[];
   const stanzaEnds=new Set();
@@ -108,7 +116,7 @@ export async function renderReadingSupport(work){
    }else paragraphs.at(-1).push(character);
   }
   function paintText(){
-   const parallel=mode.value==='parallel';
+   const parallel=hasParallel&&mode.value==='parallel';
    const materialNotes=document.getElementById('reading-material-notes');
    if(materialNotes)materialNotes.hidden=parallel||!materialNotes.childElementCount;
    translation.parentElement.hidden=!parallel;
@@ -163,10 +171,10 @@ export async function renderReadingSupport(work){
    list.append(item);
   });
   notes.append(summary,list);
-  content.append(notes);
-  content.hidden=false;
+  if(readingNotes.length)content.append(notes);
+  content.hidden=!readingNotes.length;
   paintHeading(document.getElementById('reading-title'), 'title');
   paintHeading(document.getElementById('reading-author'), 'author');
   paintText();
- }catch(error){if(version!==renderVersion)return;status.textContent='閱讀輔助資料待核對：'+error.message+'；原文與練習仍可使用。';toggle.disabled=true;}
+ }catch(error){if(version!==renderVersion)return;status.hidden=false;status.textContent='閱讀輔助資料暫時無法顯示；原文與練習仍可使用。';toggle.disabled=true;}
 }

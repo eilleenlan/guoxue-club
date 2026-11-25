@@ -1,0 +1,60 @@
+{
+  "workId": "lunyu-6",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
+  "pendingContent": [
+    "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收"
+  ],
+  "contentReview": {
+    "schoolTranslation": "已提供來源，已依整合版照片轉錄建置，待媽媽核對文字。",
+    "childExplanation": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
+    "zhuyin": "照片轉錄候選，待媽媽驗收",
+    "sourceDifferences": null
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "子曰：「人而無信，不知其可也。大車無輗，小車無軏，其何以行之哉？」",
+            "reading": "ㄗˇ ㄩㄝ ㄖㄣˊ ㄦˊ ㄨˊ ㄒㄧㄣˋ ㄅㄨˋ ㄓ ㄑㄧˊ ㄎㄜˇ ㄧㄝˇ ㄉㄚˋ ㄔㄜ ㄨˊ ㄋㄧˊ ㄒㄧㄠˇ ㄔㄜ ㄨˊ ㄩㄝˋ ㄑㄧˊ ㄏㄜˊ ㄧˇ ㄒㄧㄥˊ ㄓ ㄗㄞ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  },
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "孔子說：一個人如果無信，就沒法子在社會上立足。就好像大車沒有輗，小車沒有軏，怎麼能走動呢？"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "supplements": [
+      {
+        "paragraph": 1,
+        "kind": "textbook-note",
+        "note": "輗、軏：車轅前端和車衡相連接的插銷，大車的是輗，小車的是軏。比喻重要的關鍵。"
+      }
+    ]
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.1",
+    "paragraphs": [
+      "孔子說：「一個人如果不守信用，就很難在社會上立足。就像大車、小車少了重要的連接零件，車子要怎麼行走呢？」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
+      "source": "媽媽本次 v1.1 集中修訂施工單指定替換文字。"
+    }
+  }
+}

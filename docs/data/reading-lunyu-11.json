@@ -1,0 +1,53 @@
+{
+  "workId": "lunyu-11",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
+  "pendingContent": [
+    "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收"
+  ],
+  "contentReview": {
+    "schoolTranslation": "已提供來源，已依整合版照片轉錄建置，待媽媽核對文字。",
+    "childExplanation": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
+    "zhuyin": "照片轉錄候選，待媽媽驗收",
+    "sourceDifferences": null
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "子曰：「默而識之，學而不厭，誨人不倦，何有於我哉？」",
+            "reading": "ㄗˇ ㄩㄝ ㄇㄛˋ ㄦˊ ㄓˋ ㄓ ㄒㄩㄝˊ ㄦˊ ㄅㄨˋ ㄧㄢˋ ㄏㄨㄟˋ ㄖㄣˊ ㄅㄨˋ ㄐㄩㄢˋ ㄏㄜˊ ㄧㄡˇ ㄩˊ ㄨㄛˇ ㄗㄞ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  },
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "孔子說：得到了一樣新知識，就默默的記存在心中，反覆咀嚼，逐漸領會；如此日復一日的學習，始終不覺得厭倦；而教導學生的時候，也能很有耐心的因材施教，不曾稍有倦怠之心。這些對我來說，有什麼難的呢？"
+    ],
+    "lineGroups": [
+      1
+    ]
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.1",
+    "paragraphs": [
+      "孔子說：「把學到的知識默默記在心裡，不斷學習也不覺得厭煩，教導別人時也不會失去耐心。這些事情，我又做到了多少呢？」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
+      "source": "媽媽本次 v1.1 集中修訂施工單指定替換文字。"
+    }
+  }
+}

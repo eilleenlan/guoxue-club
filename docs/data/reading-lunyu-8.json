@@ -1,0 +1,54 @@
+{
+  "workId": "lunyu-8",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
+  "pendingContent": [
+    "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核"
+  ],
+  "contentReview": {
+    "schoolTranslation": "已提供來源，已依整合版照片轉錄建置，待媽媽核對文字。",
+    "childExplanation": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
+    "zhuyin": "照片轉錄候選，待媽媽驗收",
+    "sourceDifferences": null,
+    "confirmedText": "媽媽人工確認：「小人只懂的私利」為學校原稿用字，完整保留；原疑點已結案。"
+  },
+  "zhuyin": {
+    "paragraphs": [
+      {
+        "runs": [
+          {
+            "text": "子曰：「君子喻於義，小人喻於利。」",
+            "reading": "ㄗˇ ㄩㄝ ㄐㄩㄣ ㄗˇ ㄩˋ ㄩˊ ㄧˋ ㄒㄧㄠˇ ㄖㄣˊ ㄩˋ ㄩˊ ㄌㄧˋ"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "review": {
+      "status": "pending"
+    }
+  },
+  "schoolTranslation": {
+    "label": "教材白話",
+    "paragraphs": [
+      "孔子說：君子所明白的是道義，而小人只懂的私利。"
+    ],
+    "lineGroups": [
+      1
+    ]
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.0",
+    "paragraphs": [
+      "孔子說：「有品德的人重視事情做得對不對、合不合道理；只顧自己利益的人，則只在意能不能得到好處。」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
+      "source": "媽媽本次提供的姐姐撰寫初稿，已同意本機匯入及功能測試。"
+    }
+  }
+}

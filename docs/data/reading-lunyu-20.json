@@ -1,17 +1,15 @@
 {
   "workId": "lunyu-20",
-  "source": "學校教材原文及白話沿用既有施工單009核對資料；本次附件4～6《中國文學導讀》僅參考注音。",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
   "schoolTranslation": {
     "label": "教材白話",
-    "paragraphs": [
-      "孔子說：「不要擔心別人不知道自己的能力、知識，應該擔心的是自己有沒有真才實學啊！」"
-    ],
     "lineGroups": [
       1
-    ]
+    ],
+    "textSource": "work.explanation"
   },
   "contentReview": {
-    "childExplanation": "待補：未取得已核准的淺白解說",
+    "childExplanation": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
     "zhuyin": "照片轉錄候選，待媽媽逐則驗收",
     "notes": "本調逐字標音；照片與學校文字差異保留學校版本，不改原文標點。"
   },
@@ -30,5 +28,23 @@
     "review": {
       "status": "pending"
     }
-  }
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.1",
+    "paragraphs": [
+      "孔子說：「不要擔心別人不知道自己的能力和知識，真正應該擔心的，是自己有沒有真才實學。與其急著讓別人認識自己，不如先努力充實自己。」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收",
+      "source": "媽媽本次 v1.1 集中修訂施工單指定替換文字。"
+    }
+  },
+  "pendingContent": [
+    "姐姐版淺白解說 v1.1｜本機驗收候選版，待總控室驗收"
+  ]
 }

@@ -47,3 +47,10 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 #reading #reading-author .reading-note-unit{display:inline-block;position:relative;white-space:nowrap}
 #reading #reading-author .reading-note-hint{position:absolute;top:0;right:0;transform:translate(15%,-20%);font-size:.65em;line-height:1}
 #reading #reading-author .reading-note-marker{color:#79523e;text-decoration:none}
+
+.lunyu-selection{margin:16px 0;padding:12px;border:1px solid #F2D6BC;border-radius:12px;background:#fff}
+.lunyu-selection summary{min-height:44px;cursor:pointer;line-height:1.8}
+.lunyu-selection-actions{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+.lunyu-selection-choices{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:6px}
+.lunyu-selection-choices label{display:flex;align-items:center;gap:8px;min-height:44px}
+.lunyu-selection-choices input{width:20px;height:20px;accent-color:#79523e}

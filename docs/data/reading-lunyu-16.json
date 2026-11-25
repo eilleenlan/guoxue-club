@@ -1,17 +1,15 @@
 {
   "workId": "lunyu-16",
-  "source": "學校教材原文及白話沿用既有施工單009核對資料；本次附件4～6《中國文學導讀》僅參考注音。",
+  "source": "媽媽整理的整合版教材照片：原文及白話來自學校教材，逐字注音由媽媽參考《中國文學導讀》加入。",
   "schoolTranslation": {
     "label": "教材白話",
-    "paragraphs": [
-      "孔子說：「有才有德的君子，存心仁厚，只願成全人家的好事，不願促成人家的壞事。沒有品德修養的小人卻正好相反：他們為人自私貪利，專門阻撓別人的好事，助長別人的壞事。」"
-    ],
     "lineGroups": [
       1
-    ]
+    ],
+    "textSource": "work.explanation"
   },
   "contentReview": {
-    "childExplanation": "待補：未取得已核准的淺白解說",
+    "childExplanation": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
     "zhuyin": "照片轉錄候選，待媽媽逐則驗收",
     "notes": "本調逐字標音；照片與學校文字差異保留學校版本，不改原文標點。"
   },
@@ -30,5 +28,23 @@
     "review": {
       "status": "pending"
     }
-  }
+  },
+  "childExplanation": {
+    "label": "姐姐版淺白解說",
+    "version": "1.0",
+    "paragraphs": [
+      "孔子說：「有品德的人，會幫助別人完成好的事情，不會幫助別人做壞事；品德不好的人卻正好相反，常常阻礙別人做好事，反而幫助別人做壞事。」"
+    ],
+    "lineGroups": [
+      1
+    ],
+    "review": {
+      "status": "pending-content-review",
+      "notice": "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核",
+      "source": "媽媽本次提供的姐姐撰寫初稿，已同意本機匯入及功能測試。"
+    }
+  },
+  "pendingContent": [
+    "姐姐版淺白解說 v1.0｜已完成本機匯入，待內容總複核"
+  ]
 }

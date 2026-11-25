@@ -1,3 +1,4 @@
+import {selectedLunyuChildren,renderLunyuSelection} from './lunyu-selection.mjs';
 import {updateCatalogDisclosure} from './catalog-collapse.mjs';
 import {renderReadingSupport} from './reading-support.mjs';
 import {representativeText,chapterNeighbors} from './learning-ui.mjs';
@@ -9,7 +10,48 @@ let works=[],category='all',collection=null,parentSearch='',work,question,select
 let gradeSelection='all',listReturn=null,parentReturn=null;
 function rememberList(w){listReturn={y:window.scrollY,id:w.id};}
 function restoreList(saved){requestAnimationFrame(()=>requestAnimationFrame(()=>{const row=[...$('catalog').children].find(r=>r.dataset.workId===saved?.id);row?.querySelector('button')?.focus({preventScroll:true});window.scrollTo(0,saved?.y??0);if(row){const r=row.getBoundingClientRect();if(r.bottom<0||r.top>innerHeight)row.scrollIntoView({block:'center'});}}));}
-function chapterNavigation(w,view){const id=view+'-chapter-nav';$(id)?.remove();const group=works.find(g=>g.children?.some(c=>c.id===w.id));if(!group)return;const n=chapterNeighbors(group,w.id),box=el('nav',undefined,'chapter-navigation');box.id=id;box.setAttribute('aria-label','章句導覽');const status=el('span',`第 ${n.index+1} 則／共 ${n.total} 則`);box.append(status);for(const [label,target] of [['上一則',n.previous],['下一則',n.next]]){const b=el('button',label);b.disabled=!target;b.onclick=()=>{const go=()=>{if(listReturn)listReturn.id=target.id;view==='reading'?readWork(target):start(target);};if(view==='practice'&&selected.length){box.querySelector('.chapter-confirm')?.remove();const confirm=el('div',undefined,'chapter-confirm');confirm.append(el('p','切換章句會清空目前排列。要繼續嗎？'));const yes=el('button','清空並切換'),no=el('button','留在本則');yes.onclick=go;no.onclick=()=>confirm.remove();confirm.append(yes,no);box.append(confirm);}else go();};box.append(b);}$(view==='reading'?'reading-start':'range-note').after(box);}
+function chapterNavigation(w,view){
+ const id=view+'-chapter-nav';
+ $(id)?.remove();$(id+'-bottom')?.remove();
+ const baseGroup=works.find(g=>g.children?.some(c=>c.id===w.id));
+ if(!baseGroup)return;
+ const group={...baseGroup,children:selectedLunyuChildren(baseGroup,library?.academicYear,gradeSelection)};
+ const n=chapterNeighbors(group,w.id),boxes=[];
+ const focusNewChapter=()=>{
+  if(view!=='practice'||group.id!=='lunyu')return;
+  $('work-title').focus({preventScroll:true});
+  $('work-title').scrollIntoView({block:'start'});
+ };
+ const go=target=>{
+  if(listReturn)listReturn.id=target.id;
+  view==='reading'?readWork(target):start(target);
+  focusNewChapter();
+ };
+ const requestSwitch=(target,box)=>{
+  if(view==='practice'&&selected.length){
+   for(const sibling of boxes)sibling.querySelector('.chapter-confirm')?.remove();
+   const confirm=el('div',undefined,'chapter-confirm');
+   confirm.append(el('p','切換章句會清空目前排列。要繼續嗎？'));
+   const yes=el('button','清空並切換'),no=el('button','留在本則');
+   yes.onclick=()=>go(target);no.onclick=()=>confirm.remove();
+   confirm.append(yes,no);box.append(confirm);
+  }else go(target);
+ };
+ const positions=view==='practice'&&group.id==='lunyu'?['top','bottom']:['top'];
+ for(const position of positions){
+  const box=el('nav',undefined,'chapter-navigation');
+  box.id=id+(position==='bottom'?'-bottom':'');
+  box.setAttribute('aria-label',position==='bottom'?'底部章句導覽':'章句導覽');
+  box.append(el('span',group.id==='lunyu'?`${w.title}／已選 ${n.total} 則`:`第 ${n.index+1} 則／共 ${n.total} 則`));
+  for(const [label,target] of [['上一則',n.previous],['下一則',n.next]]){
+   const button=el('button',label);button.disabled=!target;
+   button.onclick=()=>requestSwitch(target,box);box.append(button);
+  }
+  boxes.push(box);
+  if(position==='bottom')$('practice').append(box);
+  else $(view==='reading'?'reading-start':'range-note').after(box);
+ }
+}
 
 function el(tag,text,className){const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(className)node.className=className;return node;}
 function setupGrades(){const select=$('grade-select');select.replaceChildren();const grades=[...new Set(library.publishedCurricula.map(c=>c.grade))].sort((a,b)=>a-b);for(const grade of grades){const option=el('option',`${['','','','三','四','五','六'][grade]??grade}年級`);option.value=grade;select.append(option);}const all=el('option','全部作品');all.value='all';select.append(all);gradeSelection=grades.includes(library.defaultGrade)?String(library.defaultGrade):grades.length?String(grades[0]):'all';select.value=gradeSelection;$('grade-controls').hidden=false;}
@@ -18,7 +60,8 @@ function catalog(){
   $('catalog').replaceChildren();$('collection-back').hidden=!collection;
   $('list-title').textContent=collection?`${collection.title}・選擇章句`:gradeSelection==='all'?'全部作品':`${['','','','三','四','五','六'][Number(gradeSelection)]??gradeSelection}年級作品`;
   const pool=library&&gradeSelection!=='all'?gradeWorks(library,Number(gradeSelection)):works;
-  const source=collection?collection.children:pool.some(w=>w.status==='verified'||w.children?.some(c=>c.status==='verified'))?pool.filter(w=>w.status!=='demo'):pool;
+  renderLunyuSelection(collection,library?.academicYear,gradeSelection,catalog);
+  const source=collection?selectedLunyuChildren(collection,library?.academicYear,gradeSelection):pool.some(w=>w.status==='verified'||w.children?.some(c=>c.status==='verified'))?pool.filter(w=>w.status!=='demo'):pool;
   if(library)$('grade-note').textContent=`${library.academicYear} 學年度`;
   const list=filterWorks(source,category,$('search').value);
   $('result-count').textContent=`${list.length} ${collection?'則':'篇'}`;
@@ -75,4 +118,3 @@ $('show-solution').onclick=()=>{$('solution-list').replaceChildren(...question.a
 $('retry').onclick=()=>{selected=[];resetSolution();feedback('同一題，再試一次！');render();};
 $('import').onchange=async event=>{try{const file=event.target.files[0];if(!file)return;if(file.size>1024*1024)throw new Error('檔案超過 1 MB');const loaded=validateCatalog(JSON.parse(await file.text()));works=loaded;library=null;gradeSelection='all';$('grade-controls').hidden=true;collection=null;catalog();const units=works.flatMap(w=>w.children||[w]);$('import-status').textContent=`已載入 ${works.length} 個作品，可練習 ${units.filter(w=>w.playable).length} 個單位。重新整理後恢復內建資料。`;}catch(e){$('import-status').textContent=`匯入失敗：${e.message}，保留原題庫。`;}event.target.value='';};
 try{library=await loadLibrary();works=library.works;setupGrades();catalog();}catch(e){$('error').textContent=`載入失敗：${e.message}。請透過本機 HTTP 伺服器開啟，勿直接雙擊 HTML。`;}
-
