@@ -37,11 +37,15 @@ test('發布候選：G3/G5 共用 27 則、615 字注音、兩段對應及已確
  assert.ok((await read('reading-lunyu-9.json')).schoolTranslation.paragraphs[0].includes('骯髒'));
 });
 
-test('發布隔離：materials 僅新增 13 個閱讀入口，其他作品及考次維持發布基準',async()=>{
+test('發布隔離：原有論語與其他作品維持基準，僅另加核准的 G1 入口',async()=>{
  const base=JSON.parse(baseline('docs/data/materials.json')),expected=structuredClone(base);
  for(const w of expected.works.find(w=>w.id==='lunyu').children.slice(0,13))w.readingSupport=true;
- assert.deepEqual(materials,expected);
- assert.deepEqual(await read('curricula.json'),JSON.parse(baseline('docs/data/curricula.json')));
+ const g1=materials.works.filter(w=>w.id==='di-zi-gui');
+ assert.equal(g1.length,1);assert.equal(g1[0].practiceHref,'./g1-dizigui-preview.html');assert.equal(g1[0].text,undefined);
+ assert.deepEqual({...materials,works:materials.works.filter(w=>w.id!=='di-zi-gui')},expected);
+ const curricula=await read('curricula.json');
+ assert.equal(curricula.curricula.filter(c=>c.id==='115-g1-dizigui').length,1);
+ assert.deepEqual({...curricula,curricula:curricula.curricula.filter(c=>c.id!=='115-g1-dizigui')},JSON.parse(baseline('docs/data/curricula.json')));
  const files=await readdir(new URL('../docs/data/',import.meta.url));
  for(const work of gradeWorks(library,4).filter(w=>w.category==='poem')){
   assert.equal(Boolean(work.readingSupport),false);

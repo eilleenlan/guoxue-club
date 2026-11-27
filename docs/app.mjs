@@ -3,7 +3,7 @@ import {updateCatalogDisclosure} from './catalog-collapse.mjs';
 import {renderReadingSupport} from './reading-support.mjs';
 import {representativeText,chapterNeighbors} from './learning-ui.mjs';
 import {validateCatalog,filterWorks,createQuestion,questionLimit,shuffle,grade} from './engine.mjs';
-import {loadLibrary,materialNotes,gradeWorks,authorDisplay} from './library.mjs';
+import {loadLibrary,materialNotes,gradeWorks,allGradeWorks,authorDisplay} from './library.mjs';
 let library=null;
 const $=id=>document.getElementById(id);
 let works=[],category='all',collection=null,parentSearch='',work,question,selected=[];
@@ -54,25 +54,29 @@ function chapterNavigation(w,view){
 }
 
 function el(tag,text,className){const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(className)node.className=className;return node;}
-function setupGrades(){const select=$('grade-select');select.replaceChildren();const grades=[...new Set(library.publishedCurricula.map(c=>c.grade))].sort((a,b)=>a-b);for(const grade of grades){const option=el('option',`${['','','','三','四','五','六'][grade]??grade}年級`);option.value=grade;select.append(option);}const all=el('option','全部作品');all.value='all';select.append(all);gradeSelection=grades.includes(library.defaultGrade)?String(library.defaultGrade):grades.length?String(grades[0]):'all';select.value=gradeSelection;$('grade-controls').hidden=false;}
+function setupGrades(){const select=$('grade-select');select.replaceChildren();const grades=[...new Set(library.publishedCurricula.map(c=>c.grade))].sort((a,b)=>a-b);for(const grade of grades){const option=el('option',`${['','一','二','三','四','五','六'][grade]??grade}年級`);option.value=grade;select.append(option);}const all=el('option','全部年級');all.value='all';select.append(all);const requestedGrade=new URLSearchParams(location.search).get('grade');gradeSelection=requestedGrade!==null&&grades.includes(Number(requestedGrade))?String(Number(requestedGrade)):'all';select.value=gradeSelection;$('grade-controls').hidden=false;}
 $('grade-select').onchange=()=>{gradeSelection=$('grade-select').value;collection=null;parentSearch='';listReturn=null;parentReturn=null;catalog();};
 function catalog(){
   $('catalog').replaceChildren();$('collection-back').hidden=!collection;
-  $('list-title').textContent=collection?`${collection.title}・選擇章句`:gradeSelection==='all'?'全部作品':`${['','','','三','四','五','六'][Number(gradeSelection)]??gradeSelection}年級作品`;
-  const pool=library&&gradeSelection!=='all'?gradeWorks(library,Number(gradeSelection)):works;
+  $('list-title').textContent=collection?`${collection.title}・選擇章句`:gradeSelection==='all'?'全部年級作品':`${['','一','二','三','四','五','六'][Number(gradeSelection)]??gradeSelection}年級作品`;
+  const pool=library?(gradeSelection==='all'?allGradeWorks(library):gradeWorks(library,Number(gradeSelection))):works;
   renderLunyuSelection(collection,library?.academicYear,gradeSelection,catalog);
   const source=collection?selectedLunyuChildren(collection,library?.academicYear,gradeSelection):pool.some(w=>w.status==='verified'||w.children?.some(c=>c.status==='verified'))?pool.filter(w=>w.status!=='demo'):pool;
   if(library)$('grade-note').textContent=`${library.academicYear} 學年度`;
   const list=filterWorks(source,category,$('search').value);
   $('result-count').textContent=`${list.length} ${collection?'則':'篇'}`;
   for(const w of list){
-    const group=Array.isArray(w.children),enabled=group||w.playable;
+    const group=Array.isArray(w.children),linked=w.linkedPractice===true,enabled=group||w.playable||linked;
     const row=el('article',undefined,`card ${enabled?'':'pending'}`),info=el('div',undefined,'work-info');
-    row.dataset.workId=w.id;info.append(el('h2',w.title),el('p',`${authorDisplay(w)} · ${w.category==='poem'?'古詩':'古文'}${group?` · ${w.children.length} 則`:''}`));
+    row.dataset.workId=w.id;
+    const heading=el('h2');
+    if(linked){const link=el('a',w.title,'linked-practice-title');link.href=w.practiceHref;heading.append(link);}else heading.textContent=w.title;
+    const gradeLabel=gradeSelection==='all'&&w.catalogGrades?.length?w.catalogGrades.map(g=>['','一','二','三','四','五','六'][g]+'年級').join('、')+' · ':linked?'一年級 · ':'';
+    info.append(heading,el('p',gradeLabel+(linked?'古文 · 第（1）～（5）段':`${authorDisplay(w)} · ${w.category==='poem'?'古詩':'古文'}${group?` · ${w.children.length} 則`:''}`)));
     if(collection)info.append(el('p',representativeText(w),'representative'));
-    info.append(el('span',group?`可練習 ${w.children.filter(c=>c.playable).length} 則`:w.status==='demo'&&w.playable?'DEMO 自編測試':w.playable?'可練習':w.reason,'work-state'));
-    const b=el('button',group?'選擇章句':w.playable?'開始重組練習':'待核對');b.disabled=!enabled;b.setAttribute('aria-label',`${b.textContent}：${w.title}`);
-    b.onclick=()=>{if(group){parentReturn={y:window.scrollY,id:w.id};parentSearch=$('search').value;$('search').value='';collection=w;catalog();$('list-title').focus();}else {rememberList(w);start(w);}};
+    info.append(el('span',linked?'三字片段排序 · 五段共十題':group?`可練習 ${w.children.filter(c=>c.playable).length} 則`:w.status==='demo'&&w.playable?'DEMO 自編測試':w.playable?'可練習':w.reason,'work-state'));
+    const b=el('button',linked?'開始練習':group?'選擇章句':w.playable?'開始重組練習':'待核對');b.disabled=!enabled;b.setAttribute('aria-label',`${b.textContent}：${w.title}`);
+    b.onclick=()=>{if(linked){location.assign(w.practiceHref);}else if(group){parentReturn={y:window.scrollY,id:w.id};parentSearch=$('search').value;$('search').value='';collection=w;catalog();$('list-title').focus();}else {rememberList(w);start(w);}};
     const actions=el('div',undefined,'row-actions');
     if(w.playable){const read=el('button','閱讀全文');read.setAttribute('aria-label',`閱讀全文：${w.title}`);read.onclick=()=>{rememberList(w);readWork(w);};actions.append(read);}
     actions.append(b);row.append(info,actions);$('catalog').append(row);

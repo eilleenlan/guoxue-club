@@ -762,6 +762,24 @@
           "reviewStatus": "user-confirmed"
         }
       ]
+    },
+    {
+      "id": "115-g1-dizigui",
+      "academicYear": 115,
+      "grade": 1,
+      "type": "古文",
+      "source": "媽媽 G1 弟子規 v3.0 入口整合指示；沿用網站當前學年度，未指定學期及考次",
+      "semester": null,
+      "examRange": null,
+      "items": [
+        {
+          "workId": "di-zi-gui",
+          "order": 1,
+          "semester": null,
+          "examRange": null,
+          "reviewStatus": "user-confirmed-entry"
+        }
+      ]
     }
   ]
 }

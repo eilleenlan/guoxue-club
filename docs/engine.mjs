@@ -40,6 +40,10 @@ export function validateWork(work) {
   if (work.status === 'pending') return { playable:false, reason:'原文待逐字核對' };
   if (work.status === 'demo' && !work.title.includes('DEMO')) throw new Error('測試篇目必須標記 DEMO');
   if (work.status === 'verified' && (!work.review?.confirmedBy || !/^\d{4}-\d{2}-\d{2}$/.test(work.review?.confirmedAt || ''))) throw new Error('正式教材缺少核對紀錄');
+  if(work.practiceHref!==undefined){
+    if(work.status!=='verified'||typeof work.practiceHref!=='string'||!/^\.\/[a-z0-9-]+\.html$/u.test(work.practiceHref)||work.text!==undefined)throw Error('獨立練習入口格式不正確');
+    return {playable:false,linkedPractice:true};
+  }
   const segments = splitText(work);
   if (segments.length < 2 || questionLimit(work)<2) throw new Error('至少需要同一段落內兩個片段');
   return {playable:true,segments};

@@ -54,3 +54,5 @@ header{border-color:#F2D6BC}.brand{color:#674A3E}.phase,.badge{color:#674A3E;bac
 .lunyu-selection-choices{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:6px}
 .lunyu-selection-choices label{display:flex;align-items:center;gap:8px;min-height:44px}
 .lunyu-selection-choices input{width:20px;height:20px;accent-color:#79523e}
+
+.linked-practice-title{color:inherit;text-decoration:none}.linked-practice-title:hover{text-decoration:underline}

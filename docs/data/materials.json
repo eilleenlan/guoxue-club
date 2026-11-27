@@ -1746,6 +1746,21 @@
       "sortOrder": 125,
       "practiceMode": "full",
       "readingSupport": true
+    },
+    {
+      "id": "di-zi-gui",
+      "title": "弟子規",
+      "author": "",
+      "category": "prose",
+      "tags": [
+        "G1"
+      ],
+      "status": "verified",
+      "practiceHref": "./g1-dizigui-preview.html",
+      "review": {
+        "confirmedBy": "媽媽 v3.0 桌機驗收通過，授權本機入口整合",
+        "confirmedAt": "2026-11-27"
+      }
     }
   ]
 }

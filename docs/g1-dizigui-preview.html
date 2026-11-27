@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>弟子規｜小小國學所</title>
+ <link rel="stylesheet" href="g1-zhuyin-display.css">
+ <link rel="stylesheet" href="g1-dizigui-preview.css">
+</head>
+<body>
+ <header><a href="index.html">小小國學所</a> <a class="back-to-classics" href="classics.html?grade=1">← 返回古詩古文清單</a></header>
+ <main>
+  <h1>弟子規</h1>
+  <section id="dizigui-settings" aria-labelledby="dizigui-settings-title">
+   <h2 id="dizigui-settings-title" tabindex="-1">選擇練習範圍</h2>
+   <fieldset class="range-choices">
+    <legend>可以選一段，也可以選好幾段。</legend>
+    <label><input id="dizigui-section-1" type="checkbox" checked><span>第（1）段：弟子規～則學文</span></label>
+    <label><input id="dizigui-section-2" type="checkbox" checked><span>第（2）段：父母呼～須順承</span></label>
+    <label><input id="dizigui-section-3" type="checkbox" checked><span>第（3）段：冬則溫～業無變</span></label>
+    <label><input id="dizigui-section-4" type="checkbox" checked><span>第（4）段：事雖小～親心傷</span></label>
+    <label><input id="dizigui-section-5" type="checkbox" checked><span>第（5）段：親所好～貽親羞</span></label>
+   </fieldset>
+   <div class="actions"><button id="dizigui-select-all" type="button">全選</button><button id="dizigui-select-none" type="button">清空</button></div>
+   <p id="dizigui-range-status" role="status" aria-live="polite"></p>
+   <p id="dizigui-range-error" class="feedback retry" role="alert"></p>
+   <button id="dizigui-start" type="button" class="primary">開始練習</button>
+  </section>
+  <section id="dizigui-practice" hidden aria-label="本回合練習">
+  <p id="dizigui-progress" class="round-progress" tabindex="-1" role="status"></p>
+  <p class="instructions">點選四張卡片，把它們排成正確順序。</p>
+  <section aria-labelledby="answer-heading">
+   <h2 id="answer-heading">① 我的排列</h2>
+   <ol id="dizigui-answer" class="answer-list" aria-label="已選卡片"></ol>
+  </section>
+  <section aria-labelledby="options-heading">
+   <h2 id="options-heading">② 選卡片</h2>
+   <div id="dizigui-options" class="option-grid"></div>
+  </section>
+  <p id="dizigui-feedback" class="feedback" role="status" aria-live="polite"></p>
+  <div class="actions">
+   <button id="dizigui-check" class="primary" type="button">檢查答案</button>
+   <button id="dizigui-reshuffle" type="button">重新洗牌</button>
+   <button id="dizigui-clear" type="button">清空作答</button>
+  </div>
+  <div class="round-actions"><button id="dizigui-next" class="primary" type="button" disabled>下一題</button></div>
+  </section>
+  <section id="dizigui-summary" hidden aria-labelledby="dizigui-summary-title">
+   <h2 id="dizigui-summary-title" tabindex="-1">這回合完成了！</h2>
+   <p id="dizigui-score"></p>
+   <div class="actions"><button id="dizigui-repeat" class="primary" type="button">再練一回合</button><button id="dizigui-reselect" type="button">重新選擇範圍</button></div>
+  </section>
+ </main>
+ <script type="module" src="g1-dizigui-preview.mjs"></script>
+</body>
+</html>

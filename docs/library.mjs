@@ -14,5 +14,20 @@ export function materialNotes(library,workId){return library.curricula.filter(c=
 export function authorDisplay(work){return work.correctedAuthor??work.author;}
 export function orderedItems(items){return [...items].sort((a,b)=>(a.order??Number.MAX_SAFE_INTEGER)-(b.order??Number.MAX_SAFE_INTEGER));}
 export function gradeWorks(library,grade){const entries=library.publishedCurricula.filter(c=>c.grade===grade).flatMap(c=>orderedItems(c.items)),ids=[...new Set(entries.map(i=>i.workId))],byId=new Map(library.works.map(w=>[w.id,w]));return ids.map((id,sortOrder)=>{const w=byId.get(id),selection=entries.find(i=>i.workId===id)?.chapterSelection;return {...w,sortOrder,...(w.children&&selection?.mode==='subset'?{children:w.children.filter(c=>selection.unitIds.includes(c.id))}:{})};});}
+export function allGradeWorks(library){
+ const frontIds=new Set(library.frontWorks.map(w=>w.id)),result=new Map();
+ const grades=[...new Set(library.publishedCurricula.map(c=>c.grade))].filter(g=>g>=1&&g<=6).sort((a,b)=>a-b);
+ for(const grade of grades)for(const work of gradeWorks(library,grade)){
+  if(!frontIds.has(work.id))continue;
+  const children=work.children?.filter(c=>c.status==='verified'&&c.playable);
+  if(children?!children.length:work.status!=='verified'||!(work.playable||work.linkedPractice))continue;
+  const existing=result.get(work.id);
+  if(existing){
+   existing.catalogGrades.push(grade);
+   if(children){const allowed=new Set([...existing.children,...children].map(c=>c.id));existing.children=library.works.find(w=>w.id===work.id).children.filter(c=>allowed.has(c.id));}
+  }else result.set(work.id,{...work,...(children?{children}:{}),catalogGrades:[grade],sortOrder:result.size});
+ }
+ return [...result.values()];
+}
 export function gradeState(library,grade){const lists=library.publishedCurricula.filter(c=>c.grade===grade);return {available:lists.length>0,tentative:lists.some(c=>c.academicYearStatus==='tentative')};}
 export function identityCandidates(works,{title,author,text}){return works.filter(w=>w.title===title||w.aliases?.includes(title)||(text&&w.text===text&&(w.correctedAuthor??w.author)===author)).map(w=>({id:w.id,sameAuthor:(w.correctedAuthor??w.author)===author,sameText:w.text===text,alias:w.aliases?.includes(title)??false}));}
